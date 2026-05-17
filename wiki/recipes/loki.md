@@ -30,6 +30,8 @@ A high-contrast, "inky" [[entities/classic-negative]] look by [[entities/mehdi-b
 
 > Self note 2026-05-17 (shot, [[synthesis/debriefs]]): **Color 0 + warm WB makes this behave like a warm B&W, not a color recipe.** At blue hour it *erased* the blue palette and turned dusk into a warm, dark, dramatic scene — striking, but not a blue-hour look (use [[recipes/soft-color-universe]] for that). In raking/directional light on a textured subject (grass against dark mulch) it excelled — isolation, grit, drama. Confirms its domain is **contrast + texture + directional light**, broader than just "harsh sun." `best_for` widened.
 
+> Self note 2026-05-17 (fern-shade matrix, frame 5155, [[synthesis/debriefs]]): the photographer's own words — "an over exposed (for it) Loki." In flat porch shade at normal exposure (no hard light, no EV −2/3), Loki **collapses** — no shadows to crush, no underexposure to deepen blacks → a flat, generic rendering with none of its identity. **The EV −2/3 + hard directional light is load-bearing, not optional seasoning.** Loki is a condition-dependent *tool*, not a portable look. See [[concepts/condition-dependent-recipes]].
+
 Contrast counterpart to [[recipes/pastel-vibes]] — both Classic Negative, opposite intent: Loki maximizes contrast/grit, Pastel Vibes minimizes it.
 
 Source: Mehdi Berrada via film.recipes — https://film.recipes/2023/05/29/loki-by-mehdi-berrada/ . No raw article ingested; cited inline per schema.

@@ -95,6 +95,12 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - notes: modern/clean (no-grain) Sepia = versatile default toned-mono "as long as there's light"; first portrait — Clarity/Sharpness +3 flatters characterful/aged faces, harms smooth skin; Shadow +3 X-Trans 5 resolved; only Schaller now untested
 - next: test soft recipe on smooth-skin subject; SCU-vs-Brian's-Sepia face A/B; shoot Schaller at reference spot to complete the 7-recipe matrix
 
+## [2026-05-17] debrief | fern-shade matrix (5153–5159), one subject 7 recipes
+- created: concepts/condition-dependent-recipes
+- updated: recipes/loki, recipes/schaller (condition-dependent self notes), recipes/bay-area-fortia, recipes/soft-color-universe, recipes/brians-sepia, synthesis/debriefs, synthesis/recipe-picker, concepts/saturation-in-flat-light, wiki/index.md
+- notes: BIG — Loki & Schaller collapse in flat shade w/o hard light + EV −2/3 (condition-dependent tools, not portable looks; user flagged 5155 "overexposed for it" Loki); Fortia rescue confirmed close-range (caveat: dense dark greens go heavy); SCU faithful baseline; Brian's Sepia texture partially redeems a color subject; camera-order map documented
+- next: stop applying Loki/Schaller in flat light; smooth-skin portrait test still open
+
 ## [2026-05-17] debrief | flat-overcast 3-way A/B (5146/5150/5151) — gap CLOSED
 - updated: recipes/bay-area-fortia (gray-rescue confirmed), recipes/soft-color-universe (neutral-baseline note), recipes/brians-sepia (subject-match rule), entities/velvia, synthesis/debriefs, synthesis/recipe-picker, concepts/saturation-in-flat-light (status: confirmed), concepts/composition-and-subtraction
 - notes: controlled 3-way in flat overcast — Fortia visibly rescues color (no clipping on natural foliage), SCU records flatness, Brian's Sepia weakest when color is the subject; saturation-in-flat-light gap CLOSED; blown overcast sky now a consistent composition weakness

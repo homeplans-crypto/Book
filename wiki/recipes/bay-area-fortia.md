@@ -33,6 +33,8 @@ A maximally saturated, punchy look on [[entities/velvia]] — the wiki's most vi
 
 > Self note 2026-05-17 (gray-overcast A/B — frames 5146/5150/5151, [[synthesis/debriefs]]): **gray-rescue CONFIRMED with controlled evidence.** Same flat-overcast scene (lush green tree, pond), Fortia vs [[recipes/soft-color-universe]]: SCU recorded the flatness accurately but low-impact; **Fortia visibly lifted it** — deeper, vivid greens, more depth and life, no garish clipping (natural foliage = color to amplify, unlike the McKnight artificial-light failure). The claim is now proven, not asserted. Works *because* there is natural color present to amplify.
 
+> Self note 2026-05-17 (fern-shade matrix, frame 5157, [[synthesis/debriefs]]): rescue confirmed at **close range** too — flat-shade Boston fern rendered lush/vivid vs [[recipes/soft-color-universe]]'s faithful-but-flat 5153. Mild caveat: on *dense dark* foliage the deepest interior greens go a touch heavy/blocked under the saturation — not damaging clipping, but watch very dark green masses.
+
 Saturation counterpart to [[recipes/junichiro]] — opposite ends of the wiki's color axis (Velvia Color +3 vs. PRO Neg. Hi Color −4).
 
 Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 5. The name nods to Fuji's hyper-saturated Fortia SP film, not to another creator. `author: self` (confirmed 2026-05-17).

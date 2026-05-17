@@ -12,6 +12,21 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Fern-shade matrix: 7 recipes, one subject, flat porch shade
+
+**Conditions:** Boston fern on a porch in flat shade (current overcast), all 7 recipes, camera-slot order: **5153 SCU · 5154 Pastel Vibes · 5155 Loki · 5156 Junichiro · 5157 Bay Area Fortia · 5158 Brian's Sepia · 5159 Schaller**. Full-size reviewed: 5153, 5157, 5158, 5159 (+ photographer's notes on 5155/5158). Images reviewed from chat — *not filed to `raw/assets/`*. A new controlled single-subject reference set complementing the night reference-location matrix and the gray-overcast A/B.
+
+**Headline — Loki & Schaller are condition-dependent tools, not portable looks** (biggest finding): photographer flagged 5155 as "an over exposed (for it) Loki." In flat shade at normal exposure, **both Loki (5155) and Schaller (5159) collapsed** — no hard light, no EV −2/3, so Shadow +4 had nothing to crush → flat / high-key / generic, none of their identity. The EV −2/3 + hard light is **load-bearing**. New concept: [[concepts/condition-dependent-recipes]].
+
+**Saturation-in-flat-light — confirmed at close range:**
+- 5153 [[recipes/soft-color-universe]]: faithful, natural green — the true baseline (records, doesn't lift).
+- 5157 [[recipes/bay-area-fortia]]: visibly lush/vivid — rescue works on a close dense subject too. Mild caveat: deepest interior greens go a touch heavy under saturation (not damaging).
+- 5158 [[recipes/brians-sepia]]: warm mono — weaker for "lush green," but the fern's dense *texture* gave it more to grip than a flat green would. Nuance on the subject-match rule.
+
+**Drill next:** Stop applying Loki/Schaller in flat light — they need hard light + EV −2/3 or don't bother. For flat-shade color subjects, the choice is SCU (true) vs Fortia (lifted). Still open: smooth-skin portrait test.
+
+---
+
 ## 2026-05-17 — Flat-overcast 3-way A/B: closes the saturation gap · [[recipes/bay-area-fortia]]
 
 **Conditions:** 9:36 AM, heavy flat overcast (pre-rain), same scene each frame — big lush green tree, pond, suburban houses. Controlled 3-way: SCU 5146 / Bay Area Fortia 5150 / Brian's Sepia 5151. The test the wiki has been waiting on. Images reviewed from chat — *not filed to `raw/assets/`*.

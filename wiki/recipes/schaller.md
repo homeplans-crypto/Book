@@ -34,6 +34,8 @@ A dramatic [[entities/acros]] black-and-white with a red filter — the wiki's p
 
 > Self note 2026-05-17 (vs [[recipes/bay-area-fortia]], same McKnight facade): where Fortia over-saturated/clipped the warm artificial light, Schaller **sidesteps the problem entirely** and turns the mullion grid into the subject. Rule: when night artificial color is problematic, go mono and let geometry carry it.
 
+> Self note 2026-05-17 (fern-shade matrix, frame 5159, [[synthesis/debriefs]]): in flat porch shade at normal exposure it rendered **soft, high-key, low-contrast** — pleasant but *not the Schaller look at all*. Same failure mode as the "overexposed Loki" (5155): Shadow +4 needs hard light + the EV −2/3 underexposure to produce drama; without them it collapses to a generic bright mono. **Condition-dependent tool, not a portable filter** — the EV −2/3 + hard light is load-bearing. See [[concepts/condition-dependent-recipes]].
+
 Pairs with [[recipes/brians-sepia]] as the wiki's monochrome set: Schaller is fine-grained ACROS + red-filter drama; Brian's Sepia is warm-toned and harder-edged. Both share the gritty Clarity +3 / deep-shadow formula seen in [[recipes/loki]].
 
 The look chases [[entities/schaller|Alan Schaller]]'s high-contrast minimalist B&W. Key for actually getting there: the recipe is the small part. Shoot it in hard directional light, expose for the highlights (the EV −2/3 helps), and compose for negative space and geometry, not just a subject. The X100VI's 35mm-equiv f/2 lens matches his Leica setup — the constraint is deliberate, lean into it.

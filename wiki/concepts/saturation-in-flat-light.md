@@ -28,6 +28,8 @@ Flat, gray, overcast, or wet light strips color out of a scene — everything tr
 
 > Confirmation 2026-05-17 ([[synthesis/debriefs]], frames 5146/5150/5151): controlled 3-way A/B, identical flat-overcast scene. SCU = accurate but low-impact (records the flat light); **Bay Area Fortia = visibly lifted, vivid greens, no clipping** (natural foliage to amplify); Brian's Sepia = weakest here (mono discards the green, the scene's value). Principle proven; mono-vs-color choice is decided by what the scene is *about*.
 
+> Confirmation 2026-05-17 ([[synthesis/debriefs]], fern-shade matrix 5153/5157): holds at **close range / dense subject** too — flat-shade fern, Fortia lifted vs SCU's faithful-flat baseline. Caveat: very dark dense foliage goes slightly heavy under heavy saturation.
+
 ## Open / to deepen
 
 - Active-rain (wet-reflection) frames now optional — gray/overcast is proven. A wet scene would be a bonus, not a requirement.

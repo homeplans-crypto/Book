@@ -34,4 +34,6 @@ A soft, saturated-but-gentle color look. [[entities/astia]] base with both tone 
 
 > A/B 2026-05-17 (vs [[recipes/bay-area-fortia]], flat-overcast tree/pond — frames 5146/5150, [[synthesis/debriefs]]): in flat gray, SCU rendered the scene **accurately but low-impact** — it *records* the flatness, doesn't fight it. That's the honest neutral baseline: reach for SCU when you want truth, Fortia when you want the flat light rescued.
 
+> A/B 2026-05-17 (fern-shade matrix, frame 5153 vs Fortia 5157): same role at close range — natural, faithful green; the true baseline against which Fortia's lift is measured. Confirms SCU as the recipe for an accurate record, not impact.
+
 Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 1. Not a published recipe. `author: self` (confirmed 2026-05-17).
