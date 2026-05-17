@@ -24,7 +24,7 @@ Camera roster (committed): CUSTOM 1 SCU · 2 People · 3 Stillwater Street · 4 
 
 ## Sources
 
-_No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
+- [[sources/schaller-night-shooting]] — Alan Schaller night-shooting video transcript (London); his night kit, settings, underexpose-for-highlights method.
 
 ## Entities
 
@@ -53,5 +53,6 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 - [[synthesis/photographer-profile]] — the human's practice, conditions, subjects, and per-recipe intent. Read first.
 - [[synthesis/recipe-picker]] — "which recipe for these conditions?" decision guide across all 7 recipes.
 - [[synthesis/recipe-roster-review]] — keep/update/swap scorecard for the 7 camera slots. Read for roster decisions.
+- [[synthesis/schaller-technique]] — **living repository** of Alan Schaller's own technique, distilled from his videos (grows as transcripts are added).
 - [[synthesis/reference-matrix]] — all 7 recipes on one fixed scene; the controlled comparison consolidated.
 - [[synthesis/debriefs]] — running reverse-chronological shoot debriefs (the skill loop).

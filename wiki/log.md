@@ -172,3 +172,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: synthesis/recipe-roster-review, synthesis/photographer-profile, recipes/schaller (→ Schaller Dark: +R→+Ye, grain off, misdials flagged), recipes/pastel-vibes, recipes/junichiro, recipes/bay-area-fortia, wiki/index.md
 - swap: Pastel Vibes / Junichiro / Bay Area Fortia retired from camera; Clean Sunrise retired-before-built (SCU absorbs sunrise) | retroactive A/Bs: #1 SCU@sunrise, #2 Stillwater St vs Fortia vs SCU on orange-gray, #3 Schaller Dark +Ye/grain-off vs +R, #4 Luminous vs Dark
 - notes: owner committed all 7 slots ahead of A/Bs (guardrail overridden by owner choice — flagged, not silently dropped; A/Bs reframed gating→retroactive; future cycles default back to gate-then-commit). Roster = SCU·People·Stillwater St·Loki·Brian's Sepia·Schaller Dark·Schaller Luminous. Schaller Dark camera misdials (EV+2/3, Sharp+3, WC+2, NR−4) → correct camera to designed (−2/3, 0, WC−1, −3)
+
+## [2026-05-17] ingest | Alan Schaller — night-shooting video (transcript)
+- created: sources/schaller-night-shooting, synthesis/schaller-technique
+- updated: entities/schaller, recipes/schaller, concepts/condition-dependent-recipes, wiki/index.md
+- notes: started a LIVING Schaller technique repository (populate from future video transcripts; legend [NS]). Author-confirms Schaller Dark's underexpose-for-highlights / EV −2/3 (he shoots ≈ −2, RAW+post — magnitude caveat vs our JPEG −2/3); ISO 20k flagged Monochrom-only (does NOT close the open high-ISO-night gap); new night nugget — wet pavement = highlight bursts

@@ -2,7 +2,7 @@
 type: concept
 created: 2026-05-17
 updated: 2026-05-17
-sources: [synthesis/debriefs]
+sources: [synthesis/debriefs, sources/schaller-night-shooting]
 tags: [concept, technique, recipe-behavior]
 ---
 
@@ -26,6 +26,8 @@ Before choosing a condition-dependent recipe, check its precondition is present.
 ## Observations (dated, first-class)
 
 > Self note 2026-05-17 ([[synthesis/debriefs]], frames 5155/5159): photographer flagged 5155 as "an over exposed (for it) Loki." In flat porch shade at normal exposure, both Loki (5155) and Schaller (5159) collapsed to flat/high-key — neither look survived without hard light + EV −2/3. Confirms the split: these two are tools, not filters.
+
+> External corroboration 2026-05-17 ([[sources/schaller-night-shooting]], [[synthesis/schaller-technique]]): the underexpose-for-highlights precondition behind [[recipes/schaller|Schaller Dark]] is **Schaller's own deliberate method**, not just our inference — he shoots EV ≈ −2 because *"most of the dynamic range comes from boosting out of the shadows rather than cutting back on highlight."* Strengthens "EV underexposure is load-bearing." Magnitude caveat: his −2 assumes RAW + post shadow-boost; the JPEG recipe's −2/3 is the in-camera analog (can't lift as far).
 
 ## Open / to deepen
 
