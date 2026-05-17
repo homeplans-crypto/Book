@@ -12,6 +12,18 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Brian's Sepia in flat overcast (frame 5042) · [[recipes/brians-sepia]]
+
+**Conditions:** Daytime flat overcast, brick/stone institutional building. Tests the recipe's old "avoid flat overcast" caveat. Image reviewed from chat — *not filed to `raw/assets/`*.
+
+**Finding — caveat refined:** It **holds up**. On a textured/architectural subject, Clarity +3 + the deep tone curve manufacture the contrast flat light won't supply; brick, stone, and mullions read with grip and a timeless tone. The formula worry ("needs real shadows") was too pessimistic — the true rule is **needs light + subject structure**, not literal hard shadows. (Low-light caveat unchanged.) Reinforces Brian's Sepia as the versatile mono default; `best_for` += overcast, architecture. This is the **mono analog of the Fortia gray-rescue principle** — flat light: compensate for what it lacks (color → saturation; mono → manufactured contrast). See [[concepts/saturation-in-flat-light]].
+
+**Weakness / composition:** the overcast sky blows to featureless white — dead space. In flat light, compose to minimize sky and let the textured subject fill the frame. Same subtraction discipline, weather variant — [[concepts/composition-and-subtraction]].
+
+**Drill next:** In flat light, actively crop out blown sky; angle to fill with texture/geometry. Still outstanding: Fortia dedicated gray/rain frames; smooth-skin portrait test.
+
+---
+
 ## 2026-05-17 — Schaller: completes the 7-recipe matrix · [[recipes/schaller]]
 
 **Conditions:** 5 frames — reference scene; Kicker Soundstage; festoon-lit patio; the shared grass clump; McKnight facade. All night. **This closes the full 7-recipe reference matrix** → see [[synthesis/reference-matrix]]. Images reviewed from chat — *not filed to `raw/assets/`*.

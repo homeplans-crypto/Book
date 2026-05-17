@@ -95,6 +95,11 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - notes: modern/clean (no-grain) Sepia = versatile default toned-mono "as long as there's light"; first portrait — Clarity/Sharpness +3 flatters characterful/aged faces, harms smooth skin; Shadow +3 X-Trans 5 resolved; only Schaller now untested
 - next: test soft recipe on smooth-skin subject; SCU-vs-Brian's-Sepia face A/B; shoot Schaller at reference spot to complete the 7-recipe matrix
 
+## [2026-05-17] debrief | Brian's Sepia flat overcast (frame 5042)
+- updated: recipes/brians-sepia (best_for += overcast/architecture, self note + caveat refinement), synthesis/debriefs, synthesis/recipe-picker, concepts/saturation-in-flat-light
+- notes: holds up in flat overcast daytime on textured/architectural subjects (Clarity+tone curve manufacture contrast) — old "avoid flat overcast" caveat refined to "needs light + structure"; mono analog of Fortia gray-rescue; weakness = blown white sky, compose it out
+- next: in flat light crop out blown sky; outstanding — Fortia gray/rain frames, smooth-skin portrait
+
 ## [2026-05-17] debrief | Schaller — completes the 7-recipe matrix
 - created: synthesis/reference-matrix
 - updated: recipes/schaller (best_for widened, self notes, X-Trans 5 resolved), entities/schaller (payoff confirmed), entities/acros, synthesis/debriefs, synthesis/recipe-picker, concepts/composition-and-subtraction, wiki/index.md

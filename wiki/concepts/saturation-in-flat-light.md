@@ -21,6 +21,8 @@ Flat, gray, overcast, or wet light strips color out of a scene — everything tr
 
 > Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/bay-area-fortia]]): photographer's field finding — Bay Area Fortia "raises color in gray and takes good images in rain." Asserted from prior experience; the two frames filed this round were night artificial scenes (out of its element) where the same saturation instead over-saturated warm cove lighting. Both directions confirm the principle.
 
+> Generalization 2026-05-17 ([[synthesis/debriefs]], [[recipes/brians-sepia]]): the principle isn't only about color. **Flat light: compensate for what it lacks.** Color path → boost saturation (Velvia/Fortia). Monochrome path → *manufacture contrast* via high Clarity + a deep tone curve ([[recipes/brians-sepia]] held up in flat overcast on a textured subject). Same idea, two media; the subject must have structure for either to grip.
+
 ## Open / to deepen
 
 - Dedicated gray + rain sample frames not yet filed — capture some to lock this and refine `best_for`.

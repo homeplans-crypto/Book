@@ -19,13 +19,13 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 | **Gray / overcast / rain** (color-poor light) | [[recipes/bay-area-fortia]] — saturation *rescues* dull light (field finding) | — |
 | **Soft / directional daylight, golden hour, blue hour** (portraits, warm) | [[recipes/soft-color-universe]] — soft, saturated, rich sky | [[recipes/schaller]] if going mono |
 | **Soft light *with structure*, want restraint** | [[recipes/pastel-vibes]] — muted, cool (needs texture/point light; deprioritized by taste) | — |
-| **Flat / featureless overcast** | Neutral default: [[recipes/soft-color-universe]]. Color-rescue: [[recipes/bay-area-fortia]] (bold, lifts gray) | (mono recipes go flat — see gap) |
+| **Flat / featureless overcast** | Neutral default: [[recipes/soft-color-universe]]. Color-rescue: [[recipes/bay-area-fortia]] (bold, lifts gray) | [[recipes/brians-sepia]] on textured/architectural subjects (manufactures contrast) |
 | **Low / moody, shadow-led** | [[recipes/loki]] (assertive, warm, crushed) or [[recipes/junichiro]] (wistful, soft, faded) — choose by mood; Junichiro safer with lamps | both read near-mono |
 
 ## By intent
 
 - **Unsure / default color** → [[recipes/soft-color-universe]]. Field-tested to hold up in *most* lighting (2026-05-17 cross-test); the safe everyday choice. Pick a specialized recipe when you want a specific *look*, not because this one fails.
-- **Unsure / default monochrome** → [[recipes/brians-sepia]]. Clean modern Sepia, versatile in any *lit* condition (the mono analog of SCU). Not for low light — the high tone curve needs light.
+- **Unsure / default monochrome** → [[recipes/brians-sepia]]. Clean modern Sepia, versatile in any *lit* condition incl. **flat overcast on textured/architectural subjects** (Clarity + tone curve manufacture the missing contrast). Not for low light. In overcast, compose out the blown white sky.
 - **Portrait, characterful / aged face** → [[recipes/brians-sepia]] (mono, texture = character) or [[recipes/soft-color-universe]] (color, soft). See [[concepts/portraits-and-skin-rendering]].
 - **Punchy & graphic, color** → Loki (hard light) / Bay Area Fortia (saturated subjects).
 - **Soft & flattering, skin** → Soft Color Universe (warm; preferred) for general/smooth skin. Brian's Sepia for characterful/aged faces in mono (texture = character — *not* smooth skin). Pastel Vibes (cool, muted) skin-safe but deprioritized by taste. Avoid Velvia/Loki on faces. Detail: [[concepts/portraits-and-skin-rendering]].
