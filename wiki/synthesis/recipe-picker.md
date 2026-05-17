@@ -18,7 +18,7 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 
 Read the tables below as "when to step *off* the primary," not as seven equals.
 
-**Practice context** ([[synthesis/photographer-profile]]): mostly outdoor nature / quiet streets, shot **at night or around sunrise**; people rarely; vacations need reliable color (→ SCU). Weight recommendations toward low-light/night/sunrise; the portrait gap is low-priority. [[recipes/loki]] is on the camera specifically for *light on objects at night*.
+**Practice context** ([[synthesis/photographer-profile]]): mostly outdoor nature / quiet streets (Stillwater OK — all weather), shot **at night or around sunrise**; people rarely; vacations need reliable color (→ SCU). Weight toward low-light/night/sunrise; portrait gap low-priority. [[recipes/loki]] is for *light on objects at night*. **Aesthetic constraints:** local environment is orange-heavy → recipes that add red/warmth often clash; **no warm-nostalgia, no heavy grain / film mimicry; museum-quality target; architectural eye.** Favor clean, neutral, structural rendering; see [[synthesis/recipe-roster-review]].
 
 ## By light
 

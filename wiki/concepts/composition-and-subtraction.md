@@ -32,6 +32,8 @@ The recurring weak point across early debriefs is not the recipe — it's **too 
 
 > Recurring 2026-05-17 ([[synthesis/debriefs]], frames 5042/5146/5150/5151): a large blown white **overcast sky** has now diluted multiple frames — a *consistent* identified weakness, not isolated. Standing fix: in flat overcast, angle down and crop so texture/subject fills the frame and the dead sky is minimized or excluded.
 
+> Context 2026-05-17 ([[synthesis/photographer-profile]]): the photographer has an **architectural background** and sees structurally (geometry, line, negative space). This explains why the subtraction/Schaller lessons landed fast — it is a native mode, not a new skill. Lean into it: structural seeing is a strength to push, not a gap to close.
+
 ## Drill
 
 Before pressing the shutter: name the subject in three words; identify what's fighting it; move or reframe to remove one distraction. Repeat until the frame is about one thing.

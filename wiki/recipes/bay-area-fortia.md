@@ -35,6 +35,8 @@ A maximally saturated, punchy look on [[entities/velvia]] — the wiki's most vi
 
 > Self note 2026-05-17 (fern-shade matrix, frame 5157, [[synthesis/debriefs]]): rescue confirmed at **close range** too — flat-shade Boston fern rendered lush/vivid vs [[recipes/soft-color-universe]]'s faithful-but-flat 5153. Mild caveat: on *dense dark* foliage the deepest interior greens go a touch heavy/blocked under the saturation — not damaging clipping, but watch very dark green masses.
 
+> Self note 2026-05-17 ([[synthesis/photographer-profile]], [[synthesis/recipe-roster-review]]): **local-palette caveat.** The photographer's environment (Stillwater / OSU) is already orange-heavy in its natural materials; Velvia + Color +3 + WB R+2 **amplifies that orange**, and warm-color amplification is explicitly *not* their taste. The real gray/rain-rescue value stands, but slot 5 is KEEP-**re-evaluate** pending a local-daytime A/B on OSU-orange materials (Fortia vs SCU vs neutral). Not for orange-dominant daytime.
+
 Saturation counterpart to [[recipes/junichiro]] — opposite ends of the wiki's color axis (Velvia Color +3 vs. PRO Neg. Hi Color −4).
 
 Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 5. The name nods to Fuji's hyper-saturated Fortia SP film, not to another creator. `author: self` (confirmed 2026-05-17).

@@ -32,4 +32,6 @@ A dark, faded, low-saturation look by [[entities/mehdi-berrada]] on [[entities/p
 
 Companion to [[recipes/loki]] — both Berrada, both EV −2/3 deep/dark looks. Split: Loki is high-contrast and graphic (Classic Neg); Junichiro is soft, grainy, desaturated (PRO Neg. Hi).
 
+> Self note 2026-05-17 ([[synthesis/photographer-profile]], [[synthesis/recipe-roster-review]]): **roster disposition SWAP.** This recipe's identity — soft, faded, **grainy**, melancholic, film-like — runs directly counter to the photographer's stated aesthetic (no grain, no film mimicry, museum/exhibition quality). It also twins Loki's family (low distinctiveness). Slot 4 is queued to free, gated by a controlled A/B (do not swap on theory).
+
 Source: Mehdi Berrada via film.recipes — https://film.recipes/2023/05/29/junichiro-by-mehdi-berrada/ . No raw article ingested; cited inline per schema.

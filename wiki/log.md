@@ -136,3 +136,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: CLAUDE.md (Roster review workflow + roster log type), wiki/index.md
 - swap: slot 2 Pastel Vibes → sunrise recipe (or Classic Chrome) | queued A/B: candidate + Pastel Vibes + SCU on one sunrise/street scene
 - notes: SCU/Loki/Brian's Sepia/Schaller KEEP; Junichiro KEEP-watch (#2 swap candidate, twins Loki); Bay Area Fortia KEEP-re-evaluate (track gray/rain frequency); no camera change until queued A/B filed as a debrief
+
+## [2026-05-17] roster | re-review after added context — now 2 swaps
+- updated: synthesis/photographer-profile (location/palette/aesthetic), synthesis/recipe-roster-review (re-scored), synthesis/recipe-picker, recipes/junichiro, recipes/bay-area-fortia, recipes/schaller, recipes/brians-sepia, concepts/composition-and-subtraction
+- swap: slot 2 Pastel Vibes + slot 4 Junichiro (grain/film aesthetic rejected) | queued A/Bs: slot-2 sunrise/Classic Chrome, slot-4 candidate, + UPDATE probes (Sepia-vs-neutral-mono, Fortia-orange, Schaller +Ye/+G)
+- notes: new context — Stillwater OK, orange-heavy environment (red-adds clash), anti-warm-nostalgia, no grain/film-mimicry, museum-quality, architectural eye. Schaller up to KEEP-strong (native); Junichiro → SWAP; Fortia/Sepia flags sharpened; SCU/Loki reaffirmed. No camera change on theory.

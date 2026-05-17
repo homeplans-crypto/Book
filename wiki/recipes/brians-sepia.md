@@ -40,4 +40,6 @@ The wiki's first toned-monochrome recipe — [[entities/sepia]] pushed hard: Hig
 
 Tonally a monochrome cousin of [[recipes/loki]] — same gritty high-contrast formula (Clarity +3, Sharpness +3, WB R+3 B−5, deep tone curve), just toned instead of color.
 
+> Self note 2026-05-17 ([[synthesis/photographer-profile]], [[synthesis/recipe-roster-review]]): **KEEP (flag).** Its clean/no-grain modern character aligns with the museum-quality stance — but *sepia toning is itself a warm/nostalgic gesture*, in tension with the photographer's explicit anti-warm-nostalgia position. Open question queued: is a **neutral** clean mono a better default? Resolve via A/B (Brian's Sepia vs neutral ACROS/Monochrome on the same lit textured subject) — not changed on theory.
+
 Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 6. The name is personal, not a published creator's recipe. `author: self` (confirmed 2026-05-17).
