@@ -13,3 +13,6 @@ Fujifilm recipe creator, published via film.recipes. Known for strongly stylized
 ## Recipes by this author
 
 - [[recipes/loki]] — high-contrast "inky" Classic Negative, harsh-light look. https://film.recipes/2023/05/29/loki-by-mehdi-berrada/
+- [[recipes/junichiro]] — dark, faded, desaturated PRO Neg. Hi, moody low-key look. https://film.recipes/2023/05/29/junichiro-by-mehdi-berrada/
+
+Signature: deep-toned, EV −2/3 underexposed, strongly stylized. Loki = high-contrast/graphic; Junichiro = soft/grainy/desaturated.

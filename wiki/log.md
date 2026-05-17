@@ -25,3 +25,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: recipes/loki, entities/mehdi-berrada
 - updated: entities/classic-negative, entities/x100vi, wiki/index.md
 - notes: Mehdi Berrada (film.recipes), high-contrast "inky" harsh-light Classic Neg; orig. X100V — flagged X-Trans 5 caveat; contrast counterpart of pastel-vibes; web-fetched to confirm EV −2/3 + intended look
+
+## [2026-05-17] recipe | Junichiro
+- created: recipes/junichiro, entities/pro-neg-hi
+- updated: entities/mehdi-berrada, entities/x100vi, wiki/index.md
+- notes: Mehdi Berrada (film.recipes), dark faded desaturated PRO Neg. Hi; EV −2/3; orig. X100V caveat; companion to loki (Berrada deep-tone family)
