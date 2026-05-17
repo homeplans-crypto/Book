@@ -10,3 +10,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: CLAUDE.md (recipe page type, strict recipe frontmatter, domain mapping, recipe-ingest + shoot-debrief workflows, log formats, conventions), wiki/index.md
 - created: wiki/recipes/
 - notes: groundwork for film-recipe catalog + technique-improvement loop; no recipes/sources filed yet
+
+## [2026-05-17] recipe | Soft Color Universe
+- created: recipes/soft-color-universe, entities/astia, entities/x100vi
+- updated: wiki/index.md
+- notes: Astia/Soft soft saturated daylight/portrait look; self-sourced (author flagged for confirmation); first recipe filed, no peers to compare yet

@@ -11,7 +11,7 @@ Catalog of all wiki pages. Updated on every ingest. Organized by type.
 
 ## Recipes
 
-_No recipes filed yet. Paste a recipe (Fuji X Weekly, another creator, or your own dialed-in settings) and ask Claude to file it._
+- [[recipes/soft-color-universe]] — Astia/Soft, soft saturated daylight/portrait look (Color +3, Color Chrome Strong, tones −1/−1, Clarity +3). `self`.
 
 ## Sources
 
@@ -19,7 +19,8 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 
 ## Entities
 
-_No entity pages yet. Will cover: the X100VI body, film simulations, filters, recipe authors, photographers studied._
+- [[entities/x100vi]] — the camera body all recipes target.
+- [[entities/astia]] — Astia/Soft film simulation.
 
 ## Concepts
 
