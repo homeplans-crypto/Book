@@ -22,6 +22,10 @@ All 7 custom recipes shot from the **same campus vantage** (Wesley Foundation st
 | [[recipes/brians-sepia]] | Sepia | Clean warm toned-mono (no grain). Versatile **default mono**, modern not vintage. |
 | [[recipes/schaller]] | ACROS+R | Neutral, dramatic deep-black B&W, subtle grain. Fine-art geometry/negative-space. |
 
+## Usage model
+
+The photographer's own framing (2026-05-17): **SCU is the primary daily driver; all others are specialty/support**, deployed around it — not seven equals. Schaller's primary use is architectural. The matrix below maps *when to step off the primary*, not a flat menu.
+
 ## Axes the matrix revealed
 
 - **Color saturation/realism dial:** Junichiro/Loki (erased) → Pastel Vibes (muted) → SCU (rich, believable) → Bay Area Fortia (max, processed).

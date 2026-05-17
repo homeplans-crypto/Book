@@ -95,6 +95,10 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - notes: modern/clean (no-grain) Sepia = versatile default toned-mono "as long as there's light"; first portrait — Clarity/Sharpness +3 flatters characterful/aged faces, harms smooth skin; Shadow +3 X-Trans 5 resolved; only Schaller now untested
 - next: test soft recipe on smooth-skin subject; SCU-vs-Brian's-Sepia face A/B; shoot Schaller at reference spot to complete the 7-recipe matrix
 
+## [2026-05-17] note | usage model — SCU primary, others specialty/support
+- updated: synthesis/recipe-picker, synthesis/reference-matrix, recipes/soft-color-universe, recipes/schaller
+- notes: photographer's own framing — Soft Color Universe is the primary daily driver; all others specialty/support deployed around it; Schaller primarily architectural. Encoded as the top-level usage model + Schaller best_for reordered (architecture first)
+
 ## [2026-05-17] debrief | Brian's Sepia adult-male portrait, two EV
 - updated: recipes/brians-sepia, concepts/portraits-and-skin-rendering, synthesis/debriefs, synthesis/recipe-picker
 - notes: recipe holds for general adult-male faces (extends past elderly); new principle — EV is the portrait flattery dial (brighter softens, darker models); smooth/young-skin inverse still the only open portrait case

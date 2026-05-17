@@ -20,13 +20,15 @@ clarity: +3
 noise_reduction: -3
 iso: "Auto"           # not shown in source; set per scene
 exposure_comp: "-2/3" # baked-in intent: underexpose 2/3 in daytime
-best_for: [monochrome, high-contrast, geometry, architecture, night, texture, negative-space, street]
+best_for: [architecture, geometry, monochrome, high-contrast, negative-space, night, texture, street]
 tags: [recipe, acros, monochrome]
 ---
 
 A dramatic [[entities/acros]] black-and-white with a red filter — the wiki's premium B&W look. The +R filter darkens skies and deepens tonal separation; Shadow +4 crushes blacks while Highlight +1 keeps a slight roll-off; Clarity +3 adds grit; Weak/Small grain gives fine analog texture; Monochromatic Color WC−1 MG−1 cools the tone very slightly. A tribute recipe to the photographer [[entities/schaller]] — not authored by him. Built to be shot at **EV −2/3 in daytime** (the user's stated intent), in strong light with sky and structure. Avoid flat overcast — Shadow +4 needs real contrast to read. Caveat: Adobe RGB, JPEG.
 
 > User note 2026-05-17: −2/3 EV is the suggested daytime exposure for this recipe — treat it as part of the recipe, not optional.
+
+> Self note 2026-05-17 (usage model): **primary use is architectural photography** — geometry, structure, hard light. Other uses (street, texture, negative-space studies) are secondary. A specialty tool around the primary [[recipes/soft-color-universe]], not a general alternative.
 
 > Self note 2026-05-17 (shot — completes the 7-recipe matrix, [[synthesis/debriefs]]): **delivers the [[entities/schaller|Alan Schaller]] aesthetic.** The Kicker Soundstage frame (lit geometry, pure-black sky/void, negative space) is the clearest proof — recipe + the *seeing* both landed. Works at **night**, not just harsh daytime: Shadow +4 + ACROS+R turns artificial-lit structure into stark geometry; X-Trans 5 fine (deep but not destroyed when there's light/contrast). `best_for` widened (architecture, night, texture, negative-space).
 

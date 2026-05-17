@@ -10,6 +10,14 @@ tags: [synthesis, recipe-picker, decision-guide]
 
 Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **light first**, then intent. All recipes are JPEG / Adobe RGB (export sRGB for web). **Fully field-tested** (see [[synthesis/debriefs]]) — all 7 recipes shot from one fixed vantage; the controlled comparison is consolidated in [[synthesis/reference-matrix]]. Only loose end: Fortia's gray/rain strength is asserted from experience, dedicated sample frames pending.
 
+## Usage model (photographer's own framing, 2026-05-17)
+
+- **[[recipes/soft-color-universe]] is the primary** — the daily driver, default unless there's a reason to switch.
+- **Everything else is specialty or support** — situational tools deployed around the primary, not co-equal alternatives.
+- **[[recipes/schaller]] is primarily for architectural photography** (geometry, structure, hard light), with other uses secondary.
+
+Read the tables below as "when to step *off* the primary," not as seven equals.
+
 ## By light
 
 | Light | Color | Black & white |
