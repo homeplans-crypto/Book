@@ -2,15 +2,17 @@
 type: synthesis
 created: 2026-05-17
 updated: 2026-05-17
-sources: [synthesis/photographer-profile, synthesis/reference-matrix, synthesis/recipe-picker, synthesis/debriefs, concepts/condition-dependent-recipes, recipes/soft-color-universe, recipes/pastel-vibes, recipes/bay-area-fortia, recipes/loki, recipes/junichiro, recipes/brians-sepia, recipes/schaller]
+sources: [synthesis/photographer-profile, synthesis/reference-matrix, synthesis/recipe-picker, synthesis/debriefs, concepts/condition-dependent-recipes, recipes/soft-color-universe, recipes/people, recipes/stillwater-street, recipes/loki, recipes/brians-sepia, recipes/schaller, recipes/schaller-luminous, recipes/pastel-vibes, recipes/junichiro, recipes/bay-area-fortia]
 tags: [synthesis, roster-review, decision-guide]
 ---
 
 # Recipe roster review
 
-Living scorecard for deciding which of the 7 [[entities/x100vi]] custom slots to **keep, update, or swap**, optimized for the [[synthesis/photographer-profile|photographer's actual practice]] (outdoor nature / quiet streets, mostly night & sunrise, light-on-objects-at-night, people rarely, vacations need reliable color). Re-run via the **Roster review** workflow in `CLAUDE.md`. Re-edited each review (not append-only).
+Living scorecard for the 7 [[entities/x100vi]] custom slots, optimized for the [[synthesis/photographer-profile|photographer's actual practice]] (outdoor nature / quiet streets, mostly night & sunrise, light-on-objects-at-night, people *rarely but deliberately*, vacations need reliable color). Re-run via the **Roster review** workflow in `CLAUDE.md`. Re-edited each review (not append-only); the decisions log is cumulative.
 
-**Hard guardrail:** this page only *proposes*. No camera slot changes until the proposed UPDATE/SWAP is validated by a controlled A/B vs. the incumbent and filed as a `debrief`.
+## Status: COMMITTED roster (process change — flagged)
+
+**The full 7-slot roster is now physically on the camera.** The owner committed all slots **ahead of the validation A/Bs**, by explicit choice. This does not violate the workflow's hard guardrail — the owner overrode it; revealed preference is first-class — but the guardrail's "no slot reaches the camera until its A/B is filed as a debrief" clause **was not applied this cycle, by owner choice**. Consequence: the four A/Bs below are reframed from *gating* to **retroactive validation** (confirm the committed choice held; correct course only if one fails). **Future cycles default back to gate-then-commit** unless the owner again overrides. Flagged here rather than silently rewritten.
 
 ## Rubric (score 1–5, must trace to a citable wiki line)
 
@@ -20,95 +22,55 @@ Living scorecard for deciding which of the 7 [[entities/x100vi]] custom slots to
 4. **Reliability** — portable, or condition-dependent with a precondition that *actually occurs* in practice?
 5. **Aesthetic fit** — owner actually likes & reaches for it?
 
-## Scorecard — review 2026-05-17
+## Committed roster — review 2026-05-17
+
+Camera order (slot numbers are flexible per the owner; this is the committed arrangement):
 
 | Slot | Recipe | Align | Evid | Distinct | Reliab | Aesth | Disposition |
 |---|---|:-:|:-:|:-:|:-:|:-:|---|
-_Re-scored 2026-05-17 after added context (location/orange palette, anti-warm-nostalgia, no grain/film-mimicry, museum-quality target, architectural eye)._
+| CUSTOM 1 | [[recipes/soft-color-universe]] | 5 | 5 | 4 | 5 | 5 | **KEEP** — primary; now also the sunrise recipe |
+| CUSTOM 2 | [[recipes/people]] | 3 | 2 | 4 | 4 | 4 | **KEEP** — committed; revealed-preference (see below) |
+| CUSTOM 3 | [[recipes/stillwater-street]] | 4 | 1 | 4 | 4 | 4 | **KEEP (validate)** — committed; retroactive A/B #2 |
+| CUSTOM 4 | [[recipes/loki]] | 5 | 5 | 4 | 4 | 5 | **KEEP** — signature subject; position moved 3→4 |
+| CUSTOM 5 | [[recipes/brians-sepia]] | 4 | 5 | 4 | 4 | 4 | **KEEP** — versatile clean toned mono |
+| CUSTOM 6 | [[recipes/schaller|Schaller Dark]] | 5 | 5 | 5 | 4 | 5 | **KEEP** — taste fixes applied; misdials corrected (below) |
+| CUSTOM 7 | [[recipes/schaller-luminous]] | 5 | 1 | 5 | 4 | 5 | **KEEP (validate)** — new; retroactive A/B #4 |
 
-| Slot | Recipe | Align | Evid | Distinct | Reliab | Aesth | Disposition |
-|---|---|:-:|:-:|:-:|:-:|:-:|---|
-| 1 | [[recipes/soft-color-universe]] | 5 | 5 | 4 | 5 | 5 | **KEEP** (primary) |
-| 2 | [[recipes/pastel-vibes]] | 2 | 3 | 2 | 3 | 1 | **SWAP** |
-| 3 | [[recipes/loki]] | 5 | 5 | 4 | 4 | 5 | **KEEP** |
-| 4 | [[recipes/junichiro]] | 3 | 4 | 3 | 3 | 2 | **SWAP** |
-| 5 | [[recipes/bay-area-fortia]] | 2 | 5 | 5 | 4 | 2 | **KEEP (re-evaluate)** |
-| 6 | [[recipes/brians-sepia]] | 4 | 5 | 4 | 4 | 4 | **KEEP** |
-| 7 | [[recipes/schaller]] | 5 | 5 | 5 | 4 | 5 | **KEEP** (strong) |
+Evidence scores of 1 (People, Stillwater Street, Schaller Luminous) reflect *committed-but-unshot* — they have no earned field evidence yet; the retroactive A/Bs supply it.
 
-## Dispositions
+## Retired register (pages kept, not deleted)
 
-- **Slot 1 SCU — KEEP.** Primary/vacation, portable. Now *even better aligned*: Astia, no red shift, clean, no grain — matches the museum-quality / no-warm-nostalgia / no-grain stance. Only open: high-ISO night NR−4 (UPDATE-watch).
-- **Slot 3 Loki — KEEP.** Purpose-built for the signature subject (light-on-objects-at-night); subject supplies its precondition. Warm WB (R+3 B−5) is insulated by night/dark-background use; flag only if used in daytime/local-nature.
-- **Slot 7 Schaller — KEEP (strong).** Re-scored up: the **architectural eye makes this native, not peripheral**; clean ACROS at Sharpness 0 = museum quality. One precise caveat: the **+R** filter *lightens* local OSU-orange brick/material and flattens its tonal separation — a +Ye/+G variant holds more; matters for orange-dominant daytime subjects, less for hard-light/night geometry. Candidate UPDATE (test +Ye/+G), not a swap.
-- **Slot 6 Brian's Sepia — KEEP.** Versatile mono default, clean/no-grain, valued for *clean images and depth*. Earlier "nostalgia tension" was an over-read and is **retracted**: the photographer treats the sepia as a deliberate tint *alternative* (like a blue/brown option), not nostalgia — no taste conflict. Not untouchable, but no aesthetic swap. A neutral/blue/brown mono is a *parallel* exploration, not a replacement.
-- **Slot 5 Bay Area Fortia — KEEP (re-evaluate).** Real gray/rain-rescue capability (Stillwater has the weather for it) — keeps it for now. But it **amplifies the abundant local OSU-orange** (saturation + WB R+2) and warm-color amplification is explicitly *not* the photographer's taste. Aesthetic/align dropped. Strong re-evaluate: queued local-orange A/B will likely decide keep-vs-swap.
-- **Slot 4 Junichiro — SWAP.** Re-dispositioned. Its identity is soft/faded/**grainy**/melancholic/film-like — directly counter to "no grain, no film mimicry, museum quality." Also twins Loki's Berrada/EV−2/3 family (low distinctiveness). Aesthetic fit is now its defining weakness. **Second slot to free.**
-- **Slot 2 Pastel Vibes — SWAP.** Redundant with the SCU soft/Color+3 family, over-softens in flat light, **taste-rejected** (pastel). Lowest marginal value. First slot to free.
+- **[[recipes/pastel-vibes]]** — retired from camera (was CUSTOM 2). Taste-rejected (pastel) + redundant with the SCU soft family.
+- **[[recipes/junichiro]]** — retired from camera. Grain/film aesthetic counter to museum stance + twins Loki's Berrada family.
+- **[[recipes/bay-area-fortia]]** — retired from camera (was CUSTOM 5). Confirmed gray-rescue value, but amplifies the local OSU-orange; role re-served taste-aligned by [[recipes/stillwater-street]]. Fallback if A/B #2 shows Stillwater Street can't match the rescue.
+- **Clean Sunrise** — *retired before it was built.* SCU's no-red-shift neutrality already solves the sunrise-syrup risk and SCU is proven on the adjacent blue-hour condition; a dedicated recipe is redundant. Sunrise coverage = SCU; confirmed by retroactive A/B #1.
+- **Binet Form** — dropped earlier by owner choice; [[entities/helene-binet]] stays an influence, her tonal register absorbed into [[recipes/schaller-luminous]]. No dedicated architectural-color slot.
 
-## Recommended target roster
+Swap-candidate backlog: **empty** — roster is full and committed. Re-open only if a retroactive A/B fails or a new condition's debrief exposes a gap.
 
-The considered answer to "what recipes *should* I have," built around the full [[synthesis/photographer-profile]] (Stillwater; night/sunrise; quiet streets & nature; light-on-objects-at-night; orange-heavy environment; anti-warm-nostalgia; no grain/film-mimicry; museum/exhibition quality; **architectural eye**; admires [[entities/schaller|Schaller]] + [[entities/helene-binet|Binet]]). Slot numbers are flexible (the human is not locked to dial positions; Loki may move). **All NEW/UPDATE entries are proposed and A/B-gated — nothing reaches the camera on theory.**
+## Two records that override prior wiki claims (keep both, flagged)
 
-| # | Role | Recipe | Status | Why |
-|---|---|---|---|---|
-| A | Primary clean color (daylight/blue-hour/vacation) | [[recipes/soft-color-universe]] | **LOCKED** | Astia, no red shift, clean, no grain — exactly the museum/no-nostalgia stance; proven do-anything. |
-| B | **Sunrise / backlit** color | *Clean Sunrise* (NEW) | NEW (gate) | Core practice, currently uncovered. Clean, highlight-protected, *cool-locked* so sunrise isn't pushed orange-syrupy. |
-| C | Night light-on-objects | [[recipes/loki]] | **LOCKED** | Signature subject; purpose-built; position movable. |
-| D | Quiet street / overcast / rain / travel | *Stillwater Street* — Classic Chrome (NEW) | NEW (gate) | Lifts gray via **contrast/character, not raw saturation** → no orange/warm over-egg. Replaces Fortia's role *taste-aligned*; doubles as the documentary street/travel voice. |
-| E | **Schaller Dark** — graphic/crushed street B&W | [[recipes/schaller]] (de-grained, filter-retuned) | **UPDATE** (gate) | The proven inky Soundstage mode, kept; only taste-tweaked: grain OFF, filter off +R. |
-| F | Clean toned-mono alternative | [[recipes/brians-sepia]] | **KEEP** | Deliberate tint option, valued for clean images + depth. Distinct mono voice. |
-| G | **Schaller Luminous** — dimensional/sculptural B&W | *Schaller Luminous* (NEW) | NEW (gate) | The [Ann Demeulemeester](https://www.alanschaller.com/ann-demeulemeester) mode: deep-but-luminous, retained detail, clean. Absorbs the [[entities/helene-binet|Binet]] tonal register. |
+- **People = revealed preference.** [[synthesis/photographer-profile]] deprioritizes portrait ("people rarely → low priority"). But a *dedicated* People recipe is actively maintained (CUSTOM 2). Both kept: the inference stands, but People is weighted as a committed slot, not a low-priority gap. Partly closes the long-open smooth-skin thread → it becomes a People-vs-SCU same-face A/B.
+- **Schaller Dark camera misdials — RESOLVED.** CUSTOM 6 was found deviating from the designed recipe on **EV +2/3, Sharpness +3, Mono Color WC+2, NR −4** (a missed input, not intended). **2026-05-17: owner corrected the camera to the designed constants** (EV −2/3, Sharpness 0, WC −1 MG −1, NR −3); camera and wiki now agree. The grass-3way "Sharpness 0 is cleaner than +3" finding is *reinforced*, not contradicted. The two *intentional* roster-queued taste fixes (ACROS+R→+Ye, grain→off) are applied and are now canon.
 
-**Dropped:** Pastel Vibes (taste-rejected/redundant), Junichiro (grain/film aesthetic), **Bay Area Fortia** (gray/rain role re-served by D, taste-aligned; gives up Velvia brute-saturation — revisit only if a debrief proves a real need D can't meet), and **Binet Form** — *removed by the human's choice* to make room for a second Schaller mode. Binet stays an admired influence ([[entities/helene-binet]]); her tonal language now lives in Schaller Luminous rather than a separate color recipe; no dedicated architectural-color slot. Net: 7 → 2 locked, 1 keep, 2 Schaller B&W (1 update + 1 new), 2 new color.
+## Retroactive validation path (the guardrail, reframed)
 
-### Candidate recipe specs (proposed starting dials — refine via A/B, not authoritative)
+Each committed NEW/UPDATE still needs a controlled A/B (same method as [[synthesis/reference-matrix]] / the fern single-subject matrix), filed as a `debrief` — now to **confirm the committed choice held**, and to correct course if it failed. Priority order:
 
-**Clean Sunrise** — sim Astia/Soft · DR400 · grain off · Color Chrome Strong / FX Blue Weak · WB Daylight, shift R−1 B+1 (cool-lock) · Highlight −2 · Shadow 0 · Color +2 · Sharpness 0 · Clarity +1 · NR −4 · EV ~0…+1/3 · best_for [sunrise, backlit, golden-hour, landscape]. *Essence: SCU retuned for backlit sunrise — protected highlights, cool-locked WB, restrained color.*
-
-**Stillwater Street (Classic Chrome)** — sim Classic Chrome · DR200 · grain off · Color Chrome Strong / FX Blue Strong · WB Auto, shift R−1 B+1 · Highlight +1 · Shadow +2 · Color +1 · Sharpness +1 · Clarity +2 · NR −4 · best_for [overcast, rain, street, travel, documentary]. *Essence: color analog of "manufacture contrast in flat light" — lifts gray with structure + a cool documentary palette, not saturation.*
-
-**Schaller Dark (UPDATE of [[recipes/schaller]])** — the proven graphic/crushed *street* mode (Soundstage), kept intact; only the two taste fixes applied. sim **ACROS+Ye** (A/B vs **+R** — the dark mode tolerates/wants +R drama, but +R lightens local orange; pick on the orange-material test) · DR200 · grain **OFF** (was Weak/Small) · Color Chrome off · WB Auto White Priority R0 B0 · Monochromatic Color WC 0 MG 0 · Highlight +1 · **Shadow +4** (crush is the point of this mode) · Sharpness 0 · Clarity +3 · NR −3 · **EV −2/3** (baked-in; part of this mode). *Essence: the validated inky Soundstage look, de-grained and de-+R'd for the orange palette — minimal change to a proven recipe.*
-
-**Schaller Luminous (NEW)** — the [Ann Demeulemeester](https://www.alanschaller.com/ann-demeulemeester) *dimensional/sculptural* mode: deep **but luminous**, retained shadow detail, protected highlights, full tonal separation, strong-not-harsh, clean. Absorbs the [[entities/helene-binet|Binet]] tonal register. sim **ACROS+Ye** (A/B vs plain ACROS; *not* +R) · DR**400** · grain off · Color Chrome off · WB neutral R0 B0 · Monochromatic Color WC 0 MG 0 · Highlight **−1** · Shadow **−1** (retain detail — deep-not-crushed) · Sharpness 0 · Clarity **+1** (definition without harsh) · NR −3 · **EV ~0, metered to protect highlights** (no baked-in −2/3 — that belongs to Dark). *The opposite tonal philosophy from Dark: separation and luminosity, not crush.*
-
-## Validation path (the guardrail, applied)
-
-Each NEW/UPDATE enters only via a controlled A/B (same method as [[synthesis/reference-matrix]] / the fern single-subject matrix), filed as a `debrief`, *then* committed to a slot. Priority order:
-
-1. **Clean Sunrise** vs SCU (control) on one sunrise scene → also closes the sunrise gap.
-2. **Stillwater Street** vs Bay Area Fortia vs SCU on a gray/overcast scene **with OSU-orange material in frame** → settles D-replaces-Fortia and the orange-clash question in one test.
-3. **Schaller Dark** (grain-off, +Ye vs +R) vs current Schaller on an orange-material architectural/graphic scene → confirms the taste-tweak keeps the look + picks the filter.
-4. **Schaller Luminous** vs Schaller Dark on one sculptural light-on-form subject (same frame, both modes) → confirms the two modes are genuinely distinct and both earn a slot.
-Pastel Vibes / Junichiro / Bay Area Fortia / Binet Form (never built) retire only as replacements pass; existing recipe pages kept with a dated "retired from camera" note (wiki keeps history).
+1. **SCU at sunrise**, EV-bracketed (0 / −1/3 / −2/3), judged against SCU's own standard → closes the sunrise gap and confirms Clean Sunrise was correctly retired-before-built. If SCU breaks at sunrise in a specific way, the fix is a discipline note or a small SCU UPDATE — not a new slot.
+2. **Stillwater Street vs [[recipes/bay-area-fortia]] vs [[recipes/soft-color-universe]]** on a gray/overcast scene **with OSU-orange material in frame** → confirms Stillwater Street replaces Fortia's gray-rescue *and* settles the orange-clash question in one shoot.
+3. **Schaller Dark** (designed dials: +Ye, grain off, EV −2/3, Sharpness 0) **vs the prior +R version** on an orange-material architectural/graphic scene → confirms the taste fixes kept the look and that +Ye holds local-orange separation better than +R.
+4. **[[recipes/schaller-luminous]] vs [[recipes/schaller|Schaller Dark]]** on one sculptural light-on-form subject, same frame, both modes → confirms the two modes are genuinely distinct and both earn a slot; also checks the Luminous spec deltas (committed DR200/EV+2/3 vs proposed DR400/EV~0).
 
 ## Decisions log
 
-### 2026-05-17 — first review
-- KEEP ×6 (incl. conditional), SWAP ×1 (Pastel Vibes). Slot-2 swap queued behind an A/B; Junichiro & Fortia flagged for re-evaluation.
+### 2026-05-17 — full roster committed; wiki reconciled to camera reality
+- Owner committed the entire target roster to the camera **ahead of the A/Bs** (override of the gate-then-commit guardrail; revealed preference, first-class). Wiki reconciled to camera: **CUSTOM 1 SCU · 2 People · 3 Stillwater Street · 4 Loki · 5 Brian's Sepia · 6 Schaller Dark · 7 Schaller Luminous.**
+- Created [[recipes/people]], [[recipes/stillwater-street]] (built from the Classic Chrome spec, owner-confirmed), [[recipes/schaller-luminous]], [[entities/classic-chrome]]. Updated [[recipes/schaller]] → Schaller Dark (film_sim +Ye, grain off; misdials flagged to fix). Retired Pastel Vibes / Junichiro / Bay Area Fortia (pages kept). Clean Sunrise retired-before-built (SCU absorbs sunrise).
+- Process change recorded: guardrail not applied this cycle by owner choice; A/Bs reframed gating → retroactive; future cycles default back to gate-then-commit.
+- People revealed-preference contradiction + Schaller Dark misdials recorded (keep both, flagged).
+- **Schaller Dark misdials resolved same day:** owner corrected CUSTOM 6 to the designed dials (EV −2/3, Sharpness 0, WC −1 MG −1, NR −3) — camera now matches the wiki. CUSTOM 6 needs no further reconciliation.
+- Next: shoot retroactive A/B #1 (SCU at sunrise) — closes the only stated-core condition with zero evidence.
 
-### 2026-05-17 — correction: Brian's Sepia "tension" retracted
-- Photographer clarified the sepia is a deliberate tint *alternative* (like blue/brown), valued for clean images + depth — **not** nostalgia, no taste conflict. Slot 6 **KEEP (flag) → KEEP**; aesthetic 3 → 4; slot-6 probe removed. Neutral/other-tint mono reframed as an optional *parallel* exploration, not a corrective. No change to the two queued swaps (slots 2 & 4).
-
-### 2026-05-17 — re-review after added context (location / palette / aesthetic)
-- New first-class context: Stillwater OK (all weather), **orange-heavy local environment** (red-adds clash), **anti-warm-nostalgia**, **no grain / no film mimicry**, **museum/exhibition target**, **architectural eye**.
-- Changes: **Junichiro KEEP-watch → SWAP** (grain/film aesthetic counter to museum stance + twins Loki). **Schaller KEEP → KEEP-strong** (architectural eye makes it native). **Bay Area Fortia** aesthetic/align dropped (amplifies local orange) — KEEP-re-evaluate sharpened to a decision A/B. **Brian's Sepia → KEEP-flag** (sepia warmth vs anti-nostalgia → neutral-mono question). SCU & Loki reaffirmed (better-aligned).
-- Net: **2 slots to free** (Pastel Vibes, Junichiro); backlog reprioritized. Multiple A/Bs queued; **no camera change until each is shot & filed as a debrief**.
-
-### 2026-05-17 — two Schaller modes adopted; Binet Form dropped
-- Human's decision: keep **both** Schaller modes as separate recipes — **Schaller Dark** (crushed/graphic street, the proven Soundstage look) **and Schaller Luminous** (Ann Demeulemeester dimensional/luminous) — and **remove Binet Form** to make room.
-- Roster G split into E (Schaller Dark = UPDATE of current Schaller: grain off + filter retuned, otherwise unchanged) and G (Schaller Luminous = NEW). **Binet Form deleted from the roster**; [[entities/helene-binet]] stays as an influence, her tonal language absorbed into Schaller Luminous; no dedicated architectural-color slot. The "Binet Form for exteriors?" question is moot (recipe removed).
-- Validation #4 changed to a **Luminous-vs-Dark same-frame A/B** to prove the two modes are distinct and both slot-worthy.
-- Next: confirm/lock the two Schaller specs, then run validation A/B #1 (Clean Sunrise).
-
-### 2026-05-17 — Schaller look nailed down (Ann Demeulemeester reference)
-- Human supplied [alanschaller.com/ann-demeulemeester](https://www.alanschaller.com/ann-demeulemeester) as the target. Finding: Schaller has **two modes**; the desired one is **dimensional/luminous** (retained shadow detail, protected highlights, full tonal range, strong-not-harsh, clean) — *not* the crushed inky street mode the current recipe dials.
-- C7 *Architectural ACROS* spec **revised**: Shadow +4 → −1, Highlight −1, DR400, Clarity +3 → +1, grain off, ACROS+Ye (not +R), **drop the baked-in EV −2/3** (meter for highlights instead). entities/schaller + recipes/schaller annotated (two modes; current dials ≠ target).
-- Key knock-on: this mode **converges tonally with Binet** — informs the held Binet-Form/exteriors decision (deferred at the human's request until the Schaller look was locked).
-- Next: confirm the revised Schaller target, then resume the architectural-color-slot question.
-
-### 2026-05-17 — recommended target roster set (Schaller + Binet anchored)
-- Human asked for the *should-have* roster. Loki locked (movable); Schaller replaceable only by same-gap/same-reason; others flexible incl. color slot count. Added [[entities/helene-binet]] (admired architectural influence, B&W + color).
-- **Target roster A–G** defined: SCU (locked), *Clean Sunrise* (new), Loki (locked), *Stillwater Street*/Classic Chrome (new), *Binet Form*/Provia (new), Brian's Sepia (keep), Schaller→*Architectural ACROS* (update: grain off, filter retuned, Binet-luminous tone). **Bay Area Fortia → full SWAP-out** (role re-served by Stillwater Street, taste-aligned; Velvia brute-saturation tradeoff acknowledged).
-- Candidate dial specs filed; 4 validation A/Bs queued in priority order. **Nothing on the camera until each A/B is shot & filed as a debrief.**
-- Next: shoot A/B #1 (Clean Sunrise vs SCU) at a sunrise — also closes the sunrise gap.
+### 2026-05-17 — earlier reviews (condensed; superseded by the committed state above)
+- First review: 6 keep / 1 swap (Pastel Vibes). · Brian's Sepia "tension" retracted (deliberate tint alternative; KEEP). · Re-review after added context (Stillwater OK / orange palette / anti-warm-nostalgia / no-grain / museum / architectural eye): Junichiro→SWAP, Fortia aesthetic dropped, Schaller→KEEP-strong. · Two Schaller modes adopted, Binet Form dropped. · Schaller look nailed down (Ann Demeulemeester = the Luminous mode). · Recommended target roster A–G set with candidate specs + 4 gated A/Bs. All of this is now realized and committed; the entries are retained for provenance only.

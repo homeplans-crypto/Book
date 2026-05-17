@@ -39,4 +39,6 @@ A maximally saturated, punchy look on [[entities/velvia]] — the wiki's most vi
 
 Saturation counterpart to [[recipes/junichiro]] — opposite ends of the wiki's color axis (Velvia Color +3 vs. PRO Neg. Hi Color −4).
 
-Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 5. The name nods to Fuji's hyper-saturated Fortia SP film, not to another creator. `author: self` (confirmed 2026-05-17).
+> Self note 2026-05-17 (roster — **retired from camera**): removed from the camera in the committed roster reconciliation. Its real, *confirmed* gray/rain-rescue capability is genuinely valuable — but it amplifies the orange-heavy local environment (Velvia + Color +3 + WB R+2), which is explicitly not the photographer's taste. The gray-rescue role is re-served **taste-aligned** by [[recipes/stillwater-street]] (Classic Chrome — lifts gray via contrast/character, not raw saturation). Page kept for history; **not deleted**. Retroactive **A/B #2** (Stillwater Street vs Fortia vs [[recipes/soft-color-universe]] on a gray scene with OSU-orange) validates the replacement; if Stillwater Street can't match the rescue, Fortia is the fallback. See [[synthesis/recipe-roster-review]].
+
+Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), originally filed from camera slot CUSTOM 5 (since retired). The name nods to Fuji's hyper-saturated Fortia SP film, not to another creator. `author: self` (confirmed 2026-05-17).

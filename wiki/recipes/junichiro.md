@@ -34,4 +34,6 @@ Companion to [[recipes/loki]] — both Berrada, both EV −2/3 deep/dark looks. 
 
 > Self note 2026-05-17 ([[synthesis/photographer-profile]], [[synthesis/recipe-roster-review]]): **roster disposition SWAP.** This recipe's identity — soft, faded, **grainy**, melancholic, film-like — runs directly counter to the photographer's stated aesthetic (no grain, no film mimicry, museum/exhibition quality). It also twins Loki's family (low distinctiveness). Slot 4 is queued to free, gated by a controlled A/B (do not swap on theory).
 
+> Self note 2026-05-17 (roster — **retired from camera**): removed from the camera in the committed roster reconciliation. Reason: identity (soft, faded, **grainy**, melancholic, film-like) runs counter to the photographer's stated aesthetic (no grain / no film mimicry / museum-quality) and it twins [[recipes/loki]]'s Berrada family (low distinctiveness). Page kept for history; **not deleted** — re-trial only if a debrief shows a real gap. See [[synthesis/recipe-roster-review]].
+
 Source: Mehdi Berrada via film.recipes — https://film.recipes/2023/05/29/junichiro-by-mehdi-berrada/ . No raw article ingested; cited inline per schema.

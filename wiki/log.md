@@ -152,3 +152,23 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: synthesis/photographer-profile (location/palette/aesthetic), synthesis/recipe-roster-review (re-scored), synthesis/recipe-picker, recipes/junichiro, recipes/bay-area-fortia, recipes/schaller, recipes/brians-sepia, concepts/composition-and-subtraction
 - swap: slot 2 Pastel Vibes + slot 4 Junichiro (grain/film aesthetic rejected) | queued A/Bs: slot-2 sunrise/Classic Chrome, slot-4 candidate, + UPDATE probes (Sepia-vs-neutral-mono, Fortia-orange, Schaller +Ye/+G)
 - notes: new context — Stillwater OK, orange-heavy environment (red-adds clash), anti-warm-nostalgia, no grain/film-mimicry, museum-quality, architectural eye. Schaller up to KEEP-strong (native); Junichiro → SWAP; Fortia/Sepia flags sharpened; SCU/Loki reaffirmed. No camera change on theory.
+
+## [2026-05-17] recipe | People
+- created: recipes/people
+- updated: entities/astia, synthesis/photographer-profile, synthesis/recipe-roster-review, wiki/index.md
+- notes: Astia/Soft skin-tuned portrait (Color +1, Sharpness 0, NR −2, Shadow +2, Smooth Skin off, EV ~+2/3 range); CUSTOM 2; revealed-preference contradiction vs "portrait low priority" (keep both, flagged); partly closes the smooth-skin thread
+
+## [2026-05-17] recipe | Stillwater Street
+- created: recipes/stillwater-street, entities/classic-chrome
+- updated: synthesis/recipe-roster-review, recipes/bay-area-fortia, wiki/index.md
+- notes: Classic Chrome muted documentary street/gray-rescue (taste-aligned Fortia replacement — contrast not raw saturation); CUSTOM 3; built from the wiki Classic Chrome spec (owner-confirmed), not panel-verified; retroactive A/B #2
+
+## [2026-05-17] recipe | Schaller Luminous
+- created: recipes/schaller-luminous
+- updated: entities/schaller, entities/helene-binet, synthesis/recipe-roster-review, wiki/index.md
+- notes: ACROS+Ye deep-but-luminous sculptural B&W (Hi −1 / Sh −1, Clarity +1); Ann Demeulemeester mode, absorbs Binet register; CUSTOM 7; committed DR200/EV+2/3 vs proposed DR400/EV~0 (flagged); retroactive A/B #4
+
+## [2026-05-17] roster | full roster committed; wiki reconciled to camera
+- updated: synthesis/recipe-roster-review, synthesis/photographer-profile, recipes/schaller (→ Schaller Dark: +R→+Ye, grain off, misdials flagged), recipes/pastel-vibes, recipes/junichiro, recipes/bay-area-fortia, wiki/index.md
+- swap: Pastel Vibes / Junichiro / Bay Area Fortia retired from camera; Clean Sunrise retired-before-built (SCU absorbs sunrise) | retroactive A/Bs: #1 SCU@sunrise, #2 Stillwater St vs Fortia vs SCU on orange-gray, #3 Schaller Dark +Ye/grain-off vs +R, #4 Luminous vs Dark
+- notes: owner committed all 7 slots ahead of A/Bs (guardrail overridden by owner choice — flagged, not silently dropped; A/Bs reframed gating→retroactive; future cycles default back to gate-then-commit). Roster = SCU·People·Stillwater St·Loki·Brian's Sepia·Schaller Dark·Schaller Luminous. Schaller Dark camera misdials (EV+2/3, Sharp+3, WC+2, NR−4) → correct camera to designed (−2/3, 0, WC−1, −3)

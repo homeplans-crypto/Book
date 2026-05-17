@@ -34,4 +34,6 @@ A soft, muted-pastel take on [[entities/classic-negative]]. Highlight −2 keeps
 
 Sibling to [[recipes/soft-color-universe]] — same family of soft, low-contrast, Color +3 looks; this is the cooler, more muted Classic Neg version vs. the warmer, more saturated Astia one.
 
-Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 2. Not a published recipe. `author: self` (confirmed 2026-05-17).
+> Self note 2026-05-17 (roster — **retired from camera**): removed from the camera in the committed roster reconciliation; CUSTOM 2 is now [[recipes/people]]. Reason: taste-rejected (pastel) + redundant with the [[recipes/soft-color-universe]] soft Color +3 family. Page kept for history (wiki keeps history); **not deleted** — re-trial only if a debrief shows a real gap it uniquely fills. See [[synthesis/recipe-roster-review]].
+
+Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), originally filed from camera slot CUSTOM 2 (since retired). Not a published recipe. `author: self` (confirmed 2026-05-17).
