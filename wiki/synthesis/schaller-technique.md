@@ -2,7 +2,7 @@
 type: synthesis
 created: 2026-05-17
 updated: 2026-05-17
-sources: [sources/schaller-night-shooting, sources/schaller-composition]
+sources: [sources/schaller-night-shooting, sources/schaller-composition, sources/schaller-bw-street-tips]
 tags: [synthesis, schaller, technique, repository, living]
 ---
 
@@ -12,7 +12,7 @@ A **living, growing repository** of [[entities/schaller|Alan Schaller]]'s own te
 
 **How to add a video:** (1) ingest the transcript as a `sources/schaller-<slug>.md` page (summary + citable claims); (2) add a legend tag below; (3) file its discrete details under the stable sections here as terse bullets, each tagged with the source. Don't rewrite prior bullets — add, and flag contradictions inline (keep both).
 
-**Source legend:** `[NS]` = [[sources/schaller-night-shooting]] (night shooting, London); `[CO]` = [[sources/schaller-composition]] (composition walkthrough).
+**Source legend:** `[NS]` = [[sources/schaller-night-shooting]] (night shooting, London); `[CO]` = [[sources/schaller-composition]] (composition walkthrough); `[BW]` = [[sources/schaller-bw-street-tips]] (7 tips to improve B&W street).
 
 ## Philosophy & vision
 
@@ -21,7 +21,9 @@ A **living, growing repository** of [[entities/schaller|Alan Schaller]]'s own te
 - Drawn to **isolation** — single subjects, couples, small groups, quiet moments over mayhem. `[NS]`
 - **Composition is not formulaic** — like camera settings, it varies with what you need; **distrust anyone who states composition rules as definite** ("it doesn't exist"). `[CO]`
 - **Shoot with intention** — "what am I trying to do here?" Random walk-and-shoot "is not photography"; *"photography is making order out of your environment with a camera."* `[CO]`
-- Named composition influences (no entity pages until they recur / are asked): Ansel Adams, Bill Brandt, Steve McCurry, **Fan Ho** ("one of my biggest inspirations"), Cecil Beaton, Sebastião Salgado. `[CO]`
+- Named composition influences: **[[entities/ansel-adams|Ansel Adams]]** (now a page — recurs `[CO]` `[BW]`), Bill Brandt, Steve McCurry, **Fan Ho** ("one of my biggest inspirations"), Cecil Beaton, Sebastião Salgado. Others get pages only on recurrence / request. `[CO]`
+- **Shoot B&W on purpose** — go out with B&W *only* in mind; carrying a color mindset confuses you (color is a different skill set). A ~**1-month daily B&W immersion** yields marked improvement. `[BW]`
+- **There's no such thing as bad light** — don't force your will on the environment; let it dictate the look. Frustration comes from fighting conditions instead of drawing with them. `[BW]`
 
 ## Gear
 
@@ -40,6 +42,13 @@ A **living, growing repository** of [[entities/schaller|Alan Schaller]]'s own te
 
 - *"You don't need much light, just a little bit to create some magic."* `[NS]`
 - **Wet pavement after rain at night = a burst of highlights**; the wet-down "Sheen" is an asset, actively sought. `[NS]`
+- **Be realistic with the light you have** — rain → shoot reflections + the *mood* of the place; sun → backlighting + shadows. Accept it and draw with it. `[BW]`
+- **The "magic trio": good subject + good environment + good light** in one frame = "you're winning." `[BW]`
+
+## Tonality, contrast & what makes B&W work
+
+- Color barely matters in B&W — what does: **texture, tonality, contrast, light.** "A lady in a red coat looks great in color; in B&W it's just one shade of gray." Hunt **tonal contrast** and **light that varies across the frame.** `[BW]`
+- **Full tonal range ([[entities/ansel-adams|Adams]] Zone System)** — every tone represented, black → white + the greys between. You *don't* need extreme negative space / extreme contrast; a complete tonal range is the baseline. `[BW]` → this is the [[recipes/schaller-luminous|Schaller Luminous]] philosophy; [[recipes/schaller|Schaller Dark]]'s crush is the *deliberate exception*, not his default.
 
 ## Composition & negative space
 
@@ -54,6 +63,8 @@ A **living, growing repository** of [[entities/schaller|Alan Schaller]]'s own te
 - **Balance / unorthodox frames** work when elements connect (different scale, joined by a line) — *"gear doesn't matter; it's ideas, intent, execution; composition is a vessel for the idea."* `[CO]`
 - **Use the environment** — "full license to use the world": **symmetry, repetition, geometry** (the Oculus; glass for a split aspect). Not unique to street. `[CO]`
 - **Get it right in person, not by cropping** — "nothing beats being in the right place"; use the whole frame; crop only to fine-tune. `[CO]`
+- **Vary perspective** — don't shoot everything at head height (that's just "the world as we see it"); go high/low, odd angles, to show it differently. `[BW]`
+- **Use the environment** (reinforced) — geometry, context, reflections; don't fixate only on the human element. `[BW]`
 
 ## Night shooting
 
@@ -67,6 +78,11 @@ A **living, growing repository** of [[entities/schaller|Alan Schaller]]'s own te
 - **Ears guide you** — no music while shooting (you hear a subject before you see them). `[NS]`
 - **Be decisive at the moment of shooting** — composition is a conceptual idea + the confidence to execute it; know what you want in the frame. `[CO]`
 - **Plan the spot, then adapt** — pick your area/subframe, wait, and adjust to whoever actually walks in: *"hope for the best, be quick and able to adapt."* `[CO]`
+
+## Editing & post
+
+- **The capture defines the edit** — you can push a file hard, but in 99% of cases if it isn't in the frame you can't force it in the edit. `[BW]`
+- **"Editing is varnishing a table that's already well made"** — not the table itself; the finish, not the process. The single clearest statement of the wiki's recurring principle: *the recipe / post is the small part; the capture is the work.* `[BW]`
 
 ## Translating to the X100VI / our JPEG practice (caveats — load-bearing)
 

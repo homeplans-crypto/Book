@@ -21,7 +21,7 @@ London-based street photographer (b. 1988, London; came to photography in 2015 f
 
 His core gear is a 35mm-equiv f/2 prime — **the [[entities/x100vi]] is the same focal length and aperture**, a fixed-lens analog to his setup. The skill transfer is the point: emulating Schaller is less about a recipe and more about *seeing* hard light, negative space, and geometry. [[recipes/schaller]] (ACROS+R, Shadow +4, EV −2/3, shot in harsh daytime light) is the JPEG approximation; the technique is the real lever.
 
-His own tips: shoot B&W *on purpose*; adjust to the light rather than fight it; use the environment; aim for a full contrast range; change perspective; edit wisely.
+His own tips ([[sources/schaller-bw-street-tips]], now ingested): shoot B&W *on purpose*; adjust to the light rather than fight it ("no such thing as bad light"); use the environment (the "magic trio"); aim for a full contrast range ([[entities/ansel-adams|Adams]] Zone System); change perspective; edit wisely ("editing is varnishing a table that's already well made"). Distilled in [[synthesis/schaller-technique]].
 
 > Self note 2026-05-17 ([[synthesis/debriefs]]): **payoff confirmed.** [[recipes/schaller]] + the practice produced his aesthetic — the Kicker Soundstage frame (lit geometry against a pure-black void, deep negative space, minimalism) is genuinely Schaller-like. As predicted, the recipe was the small part; the *seeing* did the work. The composition discipline has compounded across the debrief series to where it's now deliberate, not accidental — the study closed its loop.
 
