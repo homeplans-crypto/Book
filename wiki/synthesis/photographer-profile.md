@@ -21,6 +21,7 @@ The human's own practice and intent (stated 2026-05-17). Read this alongside [[s
 
 - **The local environment is already orange-heavy** — OSU's team color recurs in the area's natural materials (brick, stone, soil, foliage). **Recipes that add a lot of red/warmth are often *not* complementary here** — they over-egg an already-warm scene.
 - **Not nostalgic about warm film color.** Grew up in the 70s/80s, *before* Kodak Gold / Portra-style looks were primary shooting habits — has no nostalgia for added yellow or red. Warm vintage-color emulation is a non-goal, not a draw.
+- **Mono toning is a palette choice, not nostalgia.** Sepia/blue/brown tints are viewed as deliberate **alternatives** (chosen looks), not film-vibe gestures. [[recipes/brians-sepia]] is valued for *clean images and depth*; its warmth does **not** conflict with the anti-nostalgia stance.
 - **Not into heavy grain or film mimicry.** Grain may serve a purpose, but "film vibes" is not that purpose. Clean rendering preferred.
 - **Target is museum / exhibition quality** — clean, considered, fine-art, not social-media film-sim aesthetics.
 - **Architectural background** — sees the world structurally (geometry, line, negative space). The Schaller/[[concepts/composition-and-subtraction|subtraction]] way of seeing is *native*, not aspirational.
@@ -33,12 +34,12 @@ The human's own practice and intent (stated 2026-05-17). Read this alongside [[s
 - **Flag red-adding recipes against the orange environment:** [[recipes/bay-area-fortia]] (saturation + R+2 amplifies abundant local orange), [[recipes/loki]] / [[recipes/brians-sepia]] (WB R+3 B−5 warmth). For local daytime/nature these can clash.
 - **Aesthetic-misaligned recipes:** [[recipes/junichiro]]'s identity is soft/faded/**grainy**/film-like — directly counter to "no grain / no film mimicry / museum quality." [[recipes/pastel-vibes]] is taste-rejected (pastel). Both are weak on aesthetic fit → see [[synthesis/recipe-roster-review]].
 - **[[recipes/schaller]] is strongly aligned, not peripheral** — the architectural eye makes its geometry/negative-space approach native; clean ACROS at Sharpness 0 fits museum quality. (Caveat: the **+R** filter *lightens* local orange/brick and flattens its tonal separation — a +Ye/+G variant would hold more; matters most for orange-dominant daytime subjects, less for hard-light/night geometry.)
-- **Mono-default tension:** [[recipes/brians-sepia]] is clean/modern (good) but *sepia toning is itself a warm/nostalgic gesture* — in slight tension with the anti-warm-nostalgia stance. Open question: is a **neutral** mono default better than a toned one?
+- **Brian's Sepia is aesthetically fine:** treated as a deliberate tint *alternative* (not nostalgia), admired for clean rendering + depth. No tension to resolve. A neutral or blue/brown-tint mono would be a *parallel option to explore*, not a replacement for it.
 - **Portrait gap is low priority.** The one open thread (smooth-skin portrait) matters little given how rarely people are shot.
 - **Sunrise** is a recurring condition worth its own attention as frames arrive (warm, clean, low directional light — adjacent to golden hour but cooler).
 
 ## Open
 
 - No dedicated sunrise debrief yet — flag for when sunrise frames come in.
-- Resolve the mono-default tension: trial a **neutral** clean mono vs. Brian's Sepia (does the sepia warmth actually serve, given the anti-nostalgia stance?).
+- Optional palette expansion: explore a **neutral** and/or blue/brown-tint clean mono as *parallel* alternatives alongside Brian's Sepia (not a corrective A/B — Sepia stays).
 - Confirm the orange-environment red-clash with a deliberate local daytime A/B (Fortia / warm-WB recipes vs. a neutral one on OSU-orange materials).

@@ -33,7 +33,7 @@ _Re-scored 2026-05-17 after added context (location/orange palette, anti-warm-no
 | 3 | [[recipes/loki]] | 5 | 5 | 4 | 4 | 5 | **KEEP** |
 | 4 | [[recipes/junichiro]] | 3 | 4 | 3 | 3 | 2 | **SWAP** |
 | 5 | [[recipes/bay-area-fortia]] | 2 | 5 | 5 | 4 | 2 | **KEEP (re-evaluate)** |
-| 6 | [[recipes/brians-sepia]] | 4 | 5 | 4 | 4 | 3 | **KEEP (flag)** |
+| 6 | [[recipes/brians-sepia]] | 4 | 5 | 4 | 4 | 4 | **KEEP** |
 | 7 | [[recipes/schaller]] | 5 | 5 | 5 | 4 | 5 | **KEEP** (strong) |
 
 ## Dispositions
@@ -41,7 +41,7 @@ _Re-scored 2026-05-17 after added context (location/orange palette, anti-warm-no
 - **Slot 1 SCU — KEEP.** Primary/vacation, portable. Now *even better aligned*: Astia, no red shift, clean, no grain — matches the museum-quality / no-warm-nostalgia / no-grain stance. Only open: high-ISO night NR−4 (UPDATE-watch).
 - **Slot 3 Loki — KEEP.** Purpose-built for the signature subject (light-on-objects-at-night); subject supplies its precondition. Warm WB (R+3 B−5) is insulated by night/dark-background use; flag only if used in daytime/local-nature.
 - **Slot 7 Schaller — KEEP (strong).** Re-scored up: the **architectural eye makes this native, not peripheral**; clean ACROS at Sharpness 0 = museum quality. One precise caveat: the **+R** filter *lightens* local OSU-orange brick/material and flattens its tonal separation — a +Ye/+G variant holds more; matters for orange-dominant daytime subjects, less for hard-light/night geometry. Candidate UPDATE (test +Ye/+G), not a swap.
-- **Slot 6 Brian's Sepia — KEEP (flag).** Still the versatile mono default and *clean/no-grain* (aligned). But **sepia toning is itself a warm/nostalgic gesture**, in tension with the anti-warm-nostalgia stance. Open question queued: is a **neutral** clean mono a better default? Not swapped on theory — needs the A/B below.
+- **Slot 6 Brian's Sepia — KEEP.** Versatile mono default, clean/no-grain, valued for *clean images and depth*. Earlier "nostalgia tension" was an over-read and is **retracted**: the photographer treats the sepia as a deliberate tint *alternative* (like a blue/brown option), not nostalgia — no taste conflict. Not untouchable, but no aesthetic swap. A neutral/blue/brown mono is a *parallel* exploration, not a replacement.
 - **Slot 5 Bay Area Fortia — KEEP (re-evaluate).** Real gray/rain-rescue capability (Stillwater has the weather for it) — keeps it for now. But it **amplifies the abundant local OSU-orange** (saturation + WB R+2) and warm-color amplification is explicitly *not* the photographer's taste. Aesthetic/align dropped. Strong re-evaluate: queued local-orange A/B will likely decide keep-vs-swap.
 - **Slot 4 Junichiro — SWAP.** Re-dispositioned. Its identity is soft/faded/**grainy**/melancholic/film-like — directly counter to "no grain, no film mimicry, museum quality." Also twins Loki's Berrada/EV−2/3 family (low distinctiveness). Aesthetic fit is now its defining weakness. **Second slot to free.**
 - **Slot 2 Pastel Vibes — SWAP.** Redundant with the SCU soft/Color+3 family, over-softens in flat light, **taste-rejected** (pastel). Lowest marginal value. First slot to free.
@@ -61,7 +61,7 @@ _Re-scored 2026-05-17 after added context (location/orange palette, anti-warm-no
 
 **Slot 4 (Junichiro → ?):** before swapping, confirm with a controlled shot that Junichiro's grain/film aesthetic is genuinely unwanted in a real night-with-lamps scene (its one technical edge was lamp control vs Loki). Candidate: Classic Chrome or the neutral mono. Same gate + debrief discipline.
 
-**Slot 6 UPDATE probe (Brian's Sepia neutral-mono question):** A/B Brian's Sepia vs a neutral clean mono on the same lit textured subject — does the sepia warmth actually serve, or is neutral better given the anti-nostalgia stance? Outcome may convert slot 6 to an UPDATE or fold into the slot-4 mono candidate.
+**Slot 6 — no probe needed.** Brian's Sepia stays. *Optional, non-blocking:* if a neutral or blue/brown-tint clean mono is ever built, trial it as a *parallel palette alternative* (possibly for the freed slot 4), never as a corrective to Sepia.
 
 **Slot 5 UPDATE/keep probe (Fortia orange clash):** local daytime A/B — Fortia vs SCU (and a neutral) on OSU-orange brick/material. If Fortia over-eggs the orange unacceptably, it moves to SWAP; if its gray/rain value still outweighs, KEEP with a "not for orange-dominant daytime" note.
 
@@ -71,6 +71,9 @@ _Re-scored 2026-05-17 after added context (location/orange palette, anti-warm-no
 
 ### 2026-05-17 — first review
 - KEEP ×6 (incl. conditional), SWAP ×1 (Pastel Vibes). Slot-2 swap queued behind an A/B; Junichiro & Fortia flagged for re-evaluation.
+
+### 2026-05-17 — correction: Brian's Sepia "tension" retracted
+- Photographer clarified the sepia is a deliberate tint *alternative* (like blue/brown), valued for clean images + depth — **not** nostalgia, no taste conflict. Slot 6 **KEEP (flag) → KEEP**; aesthetic 3 → 4; slot-6 probe removed. Neutral/other-tint mono reframed as an optional *parallel* exploration, not a corrective. No change to the two queued swaps (slots 2 & 4).
 
 ### 2026-05-17 — re-review after added context (location / palette / aesthetic)
 - New first-class context: Stillwater OK (all weather), **orange-heavy local environment** (red-adds clash), **anti-warm-nostalgia**, **no grain / no film mimicry**, **museum/exhibition target**, **architectural eye**.
