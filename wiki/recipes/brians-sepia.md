@@ -30,4 +30,4 @@ The wiki's first toned-monochrome recipe — [[entities/sepia]] pushed hard: Hig
 
 Tonally a monochrome cousin of [[recipes/loki]] — same gritty high-contrast formula (Clarity +3, Sharpness +3, WB R+3 B−5, deep tone curve), just toned instead of color.
 
-Filed from camera settings (CUSTOM 6: BRIAN'S SEPIA), self-sourced. Author set to `self`; the name suggests a creator's recipe — send a link if so and I'll correct attribution and add the source.
+Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 6. The name is personal, not a published creator's recipe. `author: self` (confirmed 2026-05-17).

@@ -53,3 +53,7 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 ## [2026-05-17] query | which recipe for these conditions
 - filed: synthesis/recipe-picker
 - notes: decision guide by light/intent across all 7; flagged gaps (flat-overcast color, X-Trans 5 untested, open attributions)
+
+## [2026-05-17] note | recipe attribution confirmed
+- updated: recipes/soft-color-universe, recipes/pastel-vibes, recipes/bay-area-fortia, recipes/brians-sepia, recipes/schaller, synthesis/recipe-picker
+- notes: human confirmed all non-web-sourced recipes are self-authored (AI-assisted, hand-tweaked to own style); replaced hedging notes with provenance lines; attribution gap closed

@@ -39,4 +39,5 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 
 - **No color recipe purpose-built for flat overcast.** Pastel Vibes is the least-bad default; consider sourcing/building one (e.g. a brighter, lifted-shadow Classic Neg or Astia).
 - **All recipes untested on this body.** Loki & Junichiro were designed for the X100V (X-Trans 4); X-Trans 5 may render Classic Neg / Clarity / grain differently. First debriefs should prioritize these.
-- **Author attribution open** on Soft Color Universe, Pastel Vibes, Bay Area Fortia (currently `self`, flagged).
+
+Attribution resolved 2026-05-17: Loki & Junichiro are Mehdi Berrada (film.recipes); the other five are self-authored (AI-assisted, hand-tweaked to the photographer's style).

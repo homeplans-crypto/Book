@@ -30,4 +30,4 @@ A maximally saturated, punchy look on [[entities/velvia]] — the wiki's most vi
 
 Saturation counterpart to [[recipes/junichiro]] — opposite ends of the wiki's color axis (Velvia Color +3 vs. PRO Neg. Hi Color −4).
 
-Filed from camera settings (CUSTOM 5: BAY AREA FORTIA), self-sourced. Author set to `self`; "Bay Area Fortia" reads like a published recipe (a Fortia look is a common Fuji X Weekly / community recipe) — if it came from a creator, send the link and I'll correct attribution and add the source.
+Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 5. The name nods to Fuji's hyper-saturated Fortia SP film, not to another creator. `author: self` (confirmed 2026-05-17).

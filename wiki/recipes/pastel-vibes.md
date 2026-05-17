@@ -30,4 +30,4 @@ A soft, muted-pastel take on [[entities/classic-negative]]. Highlight −2 keeps
 
 Sibling to [[recipes/soft-color-universe]] — same family of soft, low-contrast, Color +3 looks; this is the cooler, more muted Classic Neg version vs. the warmer, more saturated Astia one.
 
-Filed from camera/X RAW Studio settings (CUSTOM 2: PASTEL VIBES), self-sourced. Author set to `self`; if this is a published creator's recipe, tell me and I'll correct attribution and add the source.
+Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 2. Not a published recipe. `author: self` (confirmed 2026-05-17).

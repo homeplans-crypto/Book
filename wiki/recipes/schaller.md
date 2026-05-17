@@ -34,4 +34,4 @@ Pairs with [[recipes/brians-sepia]] as the wiki's monochrome set: Schaller is fi
 
 The look chases [[entities/schaller|Alan Schaller]]'s high-contrast minimalist B&W. Key for actually getting there: the recipe is the small part. Shoot it in hard directional light, expose for the highlights (the EV −2/3 helps), and compose for negative space and geometry, not just a subject. The X100VI's 35mm-equiv f/2 lens matches his Leica setup — the constraint is deliberate, lean into it.
 
-Filed from camera settings (CUSTOM 7: −2/3 SCHALLER), self-sourced tribute. `author: self`.
+Provenance: self-authored tribute — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 7. A homage to [[entities/schaller|Alan Schaller]]'s look, not authored by him. `author: self` (confirmed 2026-05-17).

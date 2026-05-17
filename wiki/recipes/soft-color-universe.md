@@ -28,4 +28,4 @@ A soft, saturated-but-gentle color look. [[entities/astia]] base with both tone 
 
 > Self note 2026-05-17: not yet shot — file a debrief after first use to lock in `best_for`.
 
-Filed from camera/X RAW Studio settings (CUSTOM 1: SOFT COLOR UNIVERSE), self-sourced. Author set to `self`; if this is a published recipe from a creator, tell me and I'll correct attribution and add the source.
+Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 1. Not a published recipe. `author: self` (confirmed 2026-05-17).
