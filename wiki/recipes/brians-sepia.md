@@ -30,6 +30,8 @@ The wiki's first toned-monochrome recipe — [[entities/sepia]] pushed hard: Hig
 
 > Self note 2026-05-17 (flat overcast daytime, architecture — frame 5042): **holds up well** despite the formula caveat below. On a textured/architectural subject, Clarity +3 + the deep tone curve *manufacture* the contrast the flat light won't give — brick/stone/mullions read with grip and a pleasant timeless tone. Refines (partially contradicts) the "avoid flat overcast / needs real shadows" line: the real rule is **needs light + subject structure**, not literally hard shadows. Low-light caveat still stands. Weakness: the overcast sky blows to featureless white — compose to minimize sky. `best_for` += overcast, architecture.
 
+> Self note 2026-05-17 (gray-overcast 3-way A/B — frame 5151, [[synthesis/debriefs]]): on a **color-led** subject (lush green tree) it was the *weakest* of the three — mono discards the very thing that made the scene (the green). Lesson: pick Brian's Sepia when the subject's value is **form/tone/texture/character**, not when it's color. Not a recipe fault — a subject-match rule.
+
 > Self note 2026-05-17 (portrait): excellent on a **characterful / aged face** in soft window light — Clarity +3 + Sharpness +3 render skin texture as *character*, and the sepia tone reads timeless/heirloom. Inverse caveat: that same Clarity/Sharpness would exaggerate pores/lines on **smooth-skin beauty portraits** — pick a softer recipe there. The wiki's first monochrome portrait option, conditional on face type. See [[concepts/portraits-and-skin-rendering]].
 
 Tonally a monochrome cousin of [[recipes/loki]] — same gritty high-contrast formula (Clarity +3, Sharpness +3, WB R+3 B−5, deep tone curve), just toned instead of color.

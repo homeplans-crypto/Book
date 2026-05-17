@@ -31,6 +31,8 @@ A maximally saturated, punchy look on [[entities/velvia]] — the wiki's most vi
 
 > Self note 2026-05-17 (out of element): the two shots filed were night artificial-light scenes (McKnight Center, reference spot) — *not* its forte. With strong warm artificial light, reds/oranges push toward over-saturation / channel clipping (loss of separation in the brightest cove lighting). At blue hour it gave the **most saturated sky of the whole reference series** (beats SCU) but the least natural — max pop, traded realism. Skin still off-limits.
 
+> Self note 2026-05-17 (gray-overcast A/B — frames 5146/5150/5151, [[synthesis/debriefs]]): **gray-rescue CONFIRMED with controlled evidence.** Same flat-overcast scene (lush green tree, pond), Fortia vs [[recipes/soft-color-universe]]: SCU recorded the flatness accurately but low-impact; **Fortia visibly lifted it** — deeper, vivid greens, more depth and life, no garish clipping (natural foliage = color to amplify, unlike the McKnight artificial-light failure). The claim is now proven, not asserted. Works *because* there is natural color present to amplify.
+
 Saturation counterpart to [[recipes/junichiro]] — opposite ends of the wiki's color axis (Velvia Color +3 vs. PRO Neg. Hi Color −4).
 
 Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 5. The name nods to Fuji's hyper-saturated Fortia SP film, not to another creator. `author: self` (confirmed 2026-05-17).

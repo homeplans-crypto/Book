@@ -32,4 +32,6 @@ A soft, saturated-but-gentle color look. [[entities/astia]] base with both tone 
 
 > A/B 2026-05-17 (vs [[recipes/pastel-vibes]], same campus blue-hour scene): SCU's Astia + Color Chrome Strong + FX Blue Weak produced a **richer, deeper sky and more pop**; Pastel Vibes (Classic Neg) of the identical scene was more muted, cooler, flatter. Reinforces SCU as the higher-impact default; Pastel Vibes is the choice only when you specifically want restraint.
 
+> A/B 2026-05-17 (vs [[recipes/bay-area-fortia]], flat-overcast tree/pond — frames 5146/5150, [[synthesis/debriefs]]): in flat gray, SCU rendered the scene **accurately but low-impact** — it *records* the flatness, doesn't fight it. That's the honest neutral baseline: reach for SCU when you want truth, Fortia when you want the flat light rescued.
+
 Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 1. Not a published recipe. `author: self` (confirmed 2026-05-17).

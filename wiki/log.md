@@ -95,6 +95,11 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - notes: modern/clean (no-grain) Sepia = versatile default toned-mono "as long as there's light"; first portrait — Clarity/Sharpness +3 flatters characterful/aged faces, harms smooth skin; Shadow +3 X-Trans 5 resolved; only Schaller now untested
 - next: test soft recipe on smooth-skin subject; SCU-vs-Brian's-Sepia face A/B; shoot Schaller at reference spot to complete the 7-recipe matrix
 
+## [2026-05-17] debrief | flat-overcast 3-way A/B (5146/5150/5151) — gap CLOSED
+- updated: recipes/bay-area-fortia (gray-rescue confirmed), recipes/soft-color-universe (neutral-baseline note), recipes/brians-sepia (subject-match rule), entities/velvia, synthesis/debriefs, synthesis/recipe-picker, concepts/saturation-in-flat-light (status: confirmed), concepts/composition-and-subtraction
+- notes: controlled 3-way in flat overcast — Fortia visibly rescues color (no clipping on natural foliage), SCU records flatness, Brian's Sepia weakest when color is the subject; saturation-in-flat-light gap CLOSED; blown overcast sky now a consistent composition weakness
+- next: re-shoot cropping sky out; active-rain frames optional; smooth-skin portrait still open
+
 ## [2026-05-17] debrief | Brian's Sepia flat overcast (frame 5042)
 - updated: recipes/brians-sepia (best_for += overcast/architecture, self note + caveat refinement), synthesis/debriefs, synthesis/recipe-picker, concepts/saturation-in-flat-light
 - notes: holds up in flat overcast daytime on textured/architectural subjects (Clarity+tone curve manufacture contrast) — old "avoid flat overcast" caveat refined to "needs light + structure"; mono analog of Fortia gray-rescue; weakness = blown white sky, compose it out

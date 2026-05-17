@@ -12,6 +12,23 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Flat-overcast 3-way A/B: closes the saturation gap · [[recipes/bay-area-fortia]]
+
+**Conditions:** 9:36 AM, heavy flat overcast (pre-rain), same scene each frame — big lush green tree, pond, suburban houses. Controlled 3-way: SCU 5146 / Bay Area Fortia 5150 / Brian's Sepia 5151. The test the wiki has been waiting on. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**GAP CLOSED — Fortia gray-rescue confirmed.** Direct A/B, identical scene:
+- **[[recipes/soft-color-universe]] (5146):** accurate but low-impact — *records* the flat light, doesn't fight it. Honest neutral baseline.
+- **[[recipes/bay-area-fortia]] (5150):** visibly **lifted** — deeper, vivid greens, more depth and life. No garish clipping (natural foliage = color to amplify, the inverse of the McKnight artificial-light failure). The "raises color in gray" claim is now *proven*, not asserted. → [[concepts/saturation-in-flat-light]] upgraded to confirmed.
+- **[[recipes/brians-sepia]] (5151):** weakest *for this subject* — mono discards the green, which was the whole point. Not a fault: a subject-match rule.
+
+**Refined principle:** in flat light, pick by **what the scene's value is** — color-led (foliage) → bold color (Fortia rescues, SCU records); form/tone/texture-led → mono. Velvia's "amplify what's there" now field-confirmed at both poles (foliage rescue ✓ / artificial clip ✓ — see [[entities/velvia]]).
+
+**Composition (recurring):** all three include a large blown white overcast sky — dead space, now a *consistent* identified weakness across overcast frames. The drill stands: tighter crop, favor the tree+pond, minimize sky. [[concepts/composition-and-subtraction]].
+
+**Drill next:** Re-shoot this exact frame cropping the sky out (tree + pond fill). Active-rain Fortia frames now optional (principle proven on gray); a wet-reflection scene would still be a nice bonus. Smooth-skin portrait test still open.
+
+---
+
 ## 2026-05-17 — Brian's Sepia in flat overcast (frame 5042) · [[recipes/brians-sepia]]
 
 **Conditions:** Daytime flat overcast, brick/stone institutional building. Tests the recipe's old "avoid flat overcast" caveat. Image reviewed from chat — *not filed to `raw/assets/`*.

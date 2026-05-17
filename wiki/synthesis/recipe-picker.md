@@ -43,7 +43,8 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 - **Classic Neg spans the range:** Pastel Vibes (soft) ↔ Loki (hard) — same sim, opposite dials.
 - **Soft/low-contrast recipes need scene structure.** Pastel Vibes (and soft looks generally) read well only with directional/point light or texture to grip; in genuinely flat light they go mushy. Match recipe softness to the light's structure, not just the time of day.
 - **Film sim sets blue-hour sky impact.** Astia + Color Chrome Strong (SCU) > Classic Neg + Weak (Pastel Vibes) for a vivid sky. Bay Area Fortia (Velvia) beats both for raw sky saturation but looks the least natural.
-- **Velvia amplifies the color already there.** Match it to the *deficit* (gray/rain — it rescues) not the *abundance* (warm artificial/neon — it clips). See [[concepts/saturation-in-flat-light]].
+- **Velvia amplifies the color already there.** Match it to the *deficit* (gray/rain — it rescues) not the *abundance* (warm artificial/neon — it clips). Both poles field-confirmed. See [[concepts/saturation-in-flat-light]].
+- **In flat light, pick by the scene's value.** Color-led (foliage) → Fortia rescues, SCU merely records; form/tone/texture-led → mono. Mono is the wrong tool when color is the point.
 - **High tone-curve recipes need light.** Brian's Sepia (and the high-Shadow looks) work "as long as there is light" — they are not low-light/dark-scene performers; the curve needs something to render.
 - **Skin recipe follows the face, not just the light.** High Clarity/Sharpness flatters aged/textured faces, harms smooth skin. See [[concepts/portraits-and-skin-rendering]].
 - **Problematic night artificial color → go mono.** When warm artificial light over-saturates/clips in color (Fortia), a neutral B&W (Schaller) sidesteps it and lets geometry carry the frame.
@@ -53,7 +54,7 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 
 ## Gaps (worth filling)
 
-- **Flat-overcast gap — likely answered.** [[recipes/bay-area-fortia]] is the field-asserted color-rescue for gray/rain (saturation compensates for color-poor light); [[recipes/soft-color-universe]] remains the *neutral* default; Pastel Vibes is *not* the answer (over-softens). To fully close: file dedicated gray/rain Fortia frames. Gap nearly closed pending those.
+- **Flat-overcast gap — CLOSED** (2026-05-17, controlled 3-way A/B). [[recipes/bay-area-fortia]] confirmed to rescue color in flat gray (vivid lift, no clipping on natural foliage); [[recipes/soft-color-universe]] = accurate but low-impact neutral baseline; [[recipes/brians-sepia]] = mono, only when the subject's value is form/tone not color; Pastel Vibes over-softens (not the answer). Active-rain frames optional bonus.
 - **X-Trans 5 transfer — fully RESOLVED.** All 7 shot on the X100VI; none broken by the sensor. Closed.
 
 Attribution resolved 2026-05-17: Loki & Junichiro are Mehdi Berrada (film.recipes); the other five are self-authored (AI-assisted, hand-tweaked to the photographer's style).
