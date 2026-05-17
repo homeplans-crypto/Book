@@ -77,3 +77,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: recipes/loki (X-Trans 5 caveat resolved, best_for widened, self notes), entities/mehdi-berrada, synthesis/debriefs, synthesis/recipe-picker, concepts/composition-and-subtraction, concepts/blue-hour-mixed-light
 - notes: X-Trans 5 transfer RESOLVED (Loki intact on X100VI); Loki = tonal/near-B&W, erases blue hour; domain = contrast+texture+directional light (widened from harsh-sun); composition progress noted (tightest reference frame yet)
 - next: hunt raking/directional light on texture (grass frame = template); pre-decide bloom-as-look vs mistake; keep tighter framing
+
+## [2026-05-17] debrief | Junichiro reference A/B + grass (vs Loki)
+- updated: recipes/junichiro (X-Trans 5 resolved, best_for widened, self notes), entities/mehdi-berrada, entities/pro-neg-hi, synthesis/debriefs, synthesis/recipe-picker, concepts/blue-hour-mixed-light
+- notes: last Berrada X-Trans 5 unknown CLOSED (grain fine on 40MP); Loki vs Junichiro = same family opposite mood (assertive vs wistful); Junichiro controls night lamps better (DR200/Hi 0); composition improvement now consistent
+- next: pick tonal recipe by intended emotion pre-shot; default Junichiro for night-with-lamps; shoot remaining 3 at reference spot

@@ -25,6 +25,8 @@ The window after sunset when the sky still holds saturated blue while artificial
 
 > Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/loki]]): high-contrast, low-saturation recipes (Color 0, deep tone curve, warm WB) **erase the blue entirely** and convert dusk into a warm dark low-key image. Valid as a deliberate choice, but it is *not* a blue-hour rendering. For the blue-hour palette, choose a color-forward soft recipe; reserve the tonal recipes for when you want to discard the blue on purpose.
 
+> Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/junichiro]]): if discarding the blue on purpose, the *tone curve / DR* still matters for night lamps — Junichiro (DR200, Highlight 0) keeps point sources controlled where Loki (DR100, Highlight +4) blows them out. For low-key dusk *with* lamps in frame, the gentler tonal recipe is the safer default.
+
 ## Open questions
 
 - Where does NR −4 break down as ISO climbs in real night shooting? (untested)

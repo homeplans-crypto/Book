@@ -12,6 +12,25 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Junichiro: reference A/B + grass (vs Loki) · [[recipes/junichiro]]
+
+**Conditions:** Same campus blue-hour reference scene + same grass clump as the Loki debrief — direct controlled A/B between the two Berrada recipes on identical subjects. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**X-Trans 5 caveat — RESOLVED (last Berrada unknown closed):** Junichiro transfers cleanly; soft/faded/desaturated look intact, and **Grain Strong/Small is fine on the 40MP X-Trans 5 sensor at low ISO** (fine, filmic, not overdone). Both Berrada recipes now verified — see [[entities/mehdi-berrada]]; treat them as X100VI-native.
+
+**Loki vs Junichiro — same subjects, opposite register:**
+- **Loki:** hard, warm, crushed blacks, crisp/gritty (Clarity/Sharpness +3), dramatic. DR100 + Highlight +4 → lamps blow & halate.
+- **Junichiro:** soft, cool-neutral, faded, grainy, melancholic (Color −4, Sharpness −2, grain). Shadow +1 retains more gradation; **DR200 + Highlight 0 controls night point sources better** — less lamp blowout.
+- Same family (Berrada, EV −2/3, tonal/near-mono, erase color) but **choose by mood**: Loki for punch/drama, Junichiro for quiet/faded. The grass clump is the clearest proof — identical subject, one dramatic, one elegiac.
+
+**Versatility:** Junichiro held up at blue hour *and* on directional-lit texture → more forgiving than Loki within the desaturated register. `best_for` widened (texture, soft-light).
+
+**Composition:** Reference frame again tight and committed — the improvement is now consistent across the series, not a fluke. Grass frame cleanly isolated. See [[concepts/composition-and-subtraction]].
+
+**Drill next:** Decide tonal recipe by *intended emotion* before shooting — Loki = assertive, Junichiro = wistful. For night scenes with lamps, default to Junichiro unless the bloom is wanted (then Loki). Keep shooting the remaining 3 recipes at the reference spot to complete the matrix.
+
+---
+
 ## 2026-05-17 — Loki: reference-location A/B + grass · [[recipes/loki]]
 
 **Conditions:** (1) Same campus blue-hour reference scene (3rd recipe in the controlled same-spot series, after SCU & Pastel Vibes). (2) Ornamental grass clump, raking directional light, dark mulch background. Images reviewed from chat — *not filed to `raw/assets/`*.

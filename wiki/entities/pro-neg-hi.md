@@ -13,3 +13,5 @@ Fujifilm film simulation based on professional portrait negative film, "Hi" vari
 ## Recipes using this sim
 
 - [[recipes/junichiro]] — dark, faded, desaturated moody look (Color −4, grain Strong/Small, Sharpness −2). By [[entities/mehdi-berrada]].
+
+> Self note 2026-05-17 ([[synthesis/debriefs]]): heavily desaturated (Color −4) PRO Neg. Hi reads as a **soft, cool-neutral, faded near-monochrome** with smooth roll-off — gentle and melancholic, distinct from Classic Neg's harder, warmer crush at the same desaturation. The sim's smooth tonal transitions survive aggressive Color/Sharpness reduction well.
