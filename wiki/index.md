@@ -17,6 +17,7 @@ Catalog of all wiki pages. Updated on every ingest. Organized by type.
 - [[recipes/junichiro]] — PRO Neg. Hi, dark faded desaturated moody look (Color −4, grain Strong/Small, Sharpness −2, EV −2/3). Mehdi Berrada.
 - [[recipes/bay-area-fortia]] — Velvia/Vivid, maximally vivid landscape/sunny look (Color +3, Color Chrome Strong, WB R+2 B−1). `self`.
 - [[recipes/brians-sepia]] — Sepia, gritty high-contrast toned monochrome (Highlight +2 / Shadow +3, Clarity +3, Sharpness +3). `self`.
+- [[recipes/schaller]] — ACROS+R, dramatic daytime B&W (Shadow +4, Clarity +3, EV −2/3, red filter). `self`, tribute to [[entities/schaller]].
 
 ## Sources
 
@@ -30,7 +31,9 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 - [[entities/pro-neg-hi]] — PRO Neg. Hi film simulation.
 - [[entities/velvia]] — Velvia/Vivid film simulation.
 - [[entities/sepia]] — Sepia toned-monochrome film simulation.
+- [[entities/acros]] — ACROS premium monochrome film simulation.
 - [[entities/mehdi-berrada]] — recipe author (film.recipes).
+- [[entities/schaller]] — photographer (stub; tribute subject of recipes/schaller).
 
 ## Concepts
 

@@ -40,3 +40,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: recipes/brians-sepia, entities/sepia
 - updated: entities/x100vi, wiki/index.md
 - notes: first toned-monochrome recipe; gritty high-contrast Sepia; self-sourced (author flagged); monochrome cousin of loki (shared gritty formula)
+
+## [2026-05-17] recipe | −2/3 Schaller
+- created: recipes/schaller, entities/acros, entities/schaller (stub)
+- updated: entities/x100vi, wiki/index.md
+- notes: ACROS+R dramatic daytime B&W; self-sourced tribute (not by Schaller); EV −2/3 baked-in per user; entities/schaller is a stub pending photographer detail
