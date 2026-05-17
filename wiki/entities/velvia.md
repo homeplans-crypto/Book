@@ -13,3 +13,5 @@ Fujifilm film simulation based on Velvia slide film: high contrast and the most 
 ## Recipes using this sim
 
 - [[recipes/bay-area-fortia]] — maximally vivid landscape/sunny look (Color +3, Color Chrome Strong, "Fortia" homage).
+
+> Self note 2026-05-17 ([[synthesis/debriefs]]): core behavior — **Velvia amplifies whatever color is present.** That cuts both ways: it *rescues* dull/gray/wet light (lifts color where it's lacking), but *over-eggs* already-saturated sources (warm artificial cove lighting → red channel clipping, loss of separation). Match it to the deficit, not the abundance.

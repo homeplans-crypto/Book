@@ -20,13 +20,16 @@ clarity: +1
 noise_reduction: -2
 iso: "Auto"            # not shown in source; set per scene
 exposure_comp: "0"     # not specified; push/pull 0 EV
-best_for: [landscape, vivid-color, sunny, nature]
+best_for: [landscape, vivid-color, sunny, nature, overcast, rain, gray]
 tags: [recipe, velvia]
 ---
 
 A maximally saturated, punchy look on [[entities/velvia]] — the wiki's most vivid recipe. Color +3 on top of Velvia's already-bold rendering, with Color Chrome Strong deepening saturated hues and FX Blue Weak enriching skies; Highlight +1 adds a little snap, WB R+2 B−1 warms slightly. Named after Fuji's hyper-saturated Fortia SP film. Reach for it in bright sun, vivid scenes, and landscapes/nature where bold color is the point — avoid for skin tones and flat or already-busy color (it tips to garish). Caveat: Adobe RGB, JPEG; DR200 needs ISO ≥ ~320.
 
-> Self note 2026-05-17: not yet shot — debrief after first use; watch for clipped saturated reds/greens in harsh sun.
+> Self note 2026-05-17 (shot, [[synthesis/debriefs]]): **discovered strength — it raises color in gray and takes good images in rain.** Velvia's heavy saturation *rescues* dull, low-color flat/wet light, injecting life where neutral recipes go drab. This is the recipe's most valuable use and a likely answer to the wiki's flat-overcast gap. See [[concepts/saturation-in-flat-light]].
+> Contradicts the "avoid flat color" caveat above: that holds for *already-saturated/busy* color (it over-eggs), **not** for flat/gray/dull light (it helps). Keep both — the distinction is the lesson.
+
+> Self note 2026-05-17 (out of element): the two shots filed were night artificial-light scenes (McKnight Center, reference spot) — *not* its forte. With strong warm artificial light, reds/oranges push toward over-saturation / channel clipping (loss of separation in the brightest cove lighting). At blue hour it gave the **most saturated sky of the whole reference series** (beats SCU) but the least natural — max pop, traded realism. Skin still off-limits.
 
 Saturation counterpart to [[recipes/junichiro]] — opposite ends of the wiki's color axis (Velvia Color +3 vs. PRO Neg. Hi Color −4).
 

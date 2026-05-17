@@ -39,6 +39,7 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 
 - [[concepts/blue-hour-mixed-light]] — shooting twilight with mixed warm/cool light: exposure, WB, composition.
 - [[concepts/composition-and-subtraction]] — the recurring lesson: one subject, clean edges, subtract distractions.
+- [[concepts/saturation-in-flat-light]] — using a bold recipe to rescue color in gray/overcast/rain.
 
 ## Synthesis
 

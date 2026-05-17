@@ -12,6 +12,22 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Bay Area Fortia: night + reference spot · [[recipes/bay-area-fortia]]
+
+**Conditions:** (1) McKnight Center glass facade at night — warm interior + red/orange cove lighting, balloons. (2) Same campus reference scene, blue hour. Both *out of the recipe's element* (its forte is gray/rain — see below). Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**Headline finding (photographer, first-class):** Bay Area Fortia **raises color in gray and takes good images in rain.** Velvia's heavy saturation *rescues* dull/wet/low-color light where neutral recipes go drab. This is a strong candidate answer to the wiki's long-tracked **flat-overcast gap** → new concept [[concepts/saturation-in-flat-light]]; `best_for` gained overcast/rain/gray. (Dedicated gray/rain frames still wanted to fully lock it — this round's images were night, not gray.)
+
+**From the filed (out-of-element) frames:**
+- **Night warm artificial → over-eggs.** The McKnight cove reds/oranges push to over-saturation / channel clipping (lost separation in the brightest red). Confirms the inverse of the principle: bold recipe + already-saturated light = garish. Refines (and partially contradicts) the recipe's old "avoid flat *color*" caveat — flag kept on the page.
+- **Blue hour: most saturated sky of the entire reference series** (beats SCU's Astia) — but the least natural. Max pop, realism traded. Velvia amplifies whatever color is present, full stop — see [[entities/velvia]].
+
+**Composition:** McKnight frame is a competent architectural shot (streetlamp anchor, mullion rhythm, signage base) though busy; reference frame consistent with the now-steady tight framing of the series.
+
+**Drill next:** Shoot it **on purpose in gray/overcast/rain** and file those frames — that's the test that matters and closes the gap. Avoid it for night warm-artificial scenes (use a neutral recipe there). Pre-ask: "is the light short on color (use Fortia) or already full of it (don't)?"
+
+---
+
 ## 2026-05-17 — Junichiro: reference A/B + grass (vs Loki) · [[recipes/junichiro]]
 
 **Conditions:** Same campus blue-hour reference scene + same grass clump as the Loki debrief — direct controlled A/B between the two Berrada recipes on identical subjects. Images reviewed from chat — *not filed to `raw/assets/`*.

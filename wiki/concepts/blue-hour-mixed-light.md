@@ -27,6 +27,8 @@ The window after sunset when the sky still holds saturated blue while artificial
 
 > Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/junichiro]]): if discarding the blue on purpose, the *tone curve / DR* still matters for night lamps — Junichiro (DR200, Highlight 0) keeps point sources controlled where Loki (DR100, Highlight +4) blows them out. For low-key dusk *with* lamps in frame, the gentler tonal recipe is the safer default.
 
+> Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/bay-area-fortia]]): on the identical reference scene, Velvia/Fortia produced the **most saturated blue-hour sky of all tested recipes** — but the least natural. There's a pop-vs-realism dial across recipes for the same sky: SCU (rich, believable) → Fortia (max, processed). Pick the point on that dial deliberately.
+
 ## Open questions
 
 - Where does NR −4 break down as ISO climbs in real night shooting? (untested)

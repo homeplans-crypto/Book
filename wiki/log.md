@@ -82,3 +82,9 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: recipes/junichiro (X-Trans 5 resolved, best_for widened, self notes), entities/mehdi-berrada, entities/pro-neg-hi, synthesis/debriefs, synthesis/recipe-picker, concepts/blue-hour-mixed-light
 - notes: last Berrada X-Trans 5 unknown CLOSED (grain fine on 40MP); Loki vs Junichiro = same family opposite mood (assertive vs wistful); Junichiro controls night lamps better (DR200/Hi 0); composition improvement now consistent
 - next: pick tonal recipe by intended emotion pre-shot; default Junichiro for night-with-lamps; shoot remaining 3 at reference spot
+
+## [2026-05-17] debrief | Bay Area Fortia night + reference spot
+- created: concepts/saturation-in-flat-light
+- updated: recipes/bay-area-fortia (best_for +overcast/rain/gray, self notes + contradiction flag), entities/velvia, synthesis/debriefs, synthesis/recipe-picker, concepts/blue-hour-mixed-light, wiki/index.md
+- notes: field finding — raises color in gray, good in rain → likely answer to flat-overcast gap (gap nearly closed pending dedicated gray/rain frames); night warm-artificial over-saturates/clips; most saturated blue-hour sky of series but least natural
+- next: shoot Fortia on purpose in gray/overcast/rain and file those frames; avoid night warm-artificial; remaining at reference spot — Brian's Sepia, Schaller
