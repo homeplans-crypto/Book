@@ -56,11 +56,11 @@ The considered answer to "what recipes *should* I have," built around the full [
 | B | **Sunrise / backlit** color | *Clean Sunrise* (NEW) | NEW (gate) | Core practice, currently uncovered. Clean, highlight-protected, *cool-locked* so sunrise isn't pushed orange-syrupy. |
 | C | Night light-on-objects | [[recipes/loki]] | **LOCKED** | Signature subject; purpose-built; position movable. |
 | D | Quiet street / overcast / rain / travel | *Stillwater Street* — Classic Chrome (NEW) | NEW (gate) | Lifts gray via **contrast/character, not raw saturation** → no orange/warm over-egg. Replaces Fortia's role *taste-aligned*; doubles as the documentary street/travel voice. |
-| E | Architectural **color** (light-on-form) | *Binet Form* — Provia (NEW) | NEW (gate) | Controlled, cool, muted, deep-but-luminous — the [[entities/helene-binet|Binet]] color register; serves the architectural eye distinct from SCU. |
-| F | Clean toned-mono alternative | [[recipes/brians-sepia]] | **KEEP** | Deliberate tint option, valued for clean images + depth. Distinct mono voice from G. |
-| G | Architectural **B&W** (Schaller + Binet) | [[recipes/schaller]] → *Architectural ACROS* | **UPDATE** (gate) | Same gap, same reasons (the human's condition for any Schaller replacement). Evolve: **grain OFF**, filter retuned for the orange environment, tone eased toward Binet luminosity. |
+| E | **Schaller Dark** — graphic/crushed street B&W | [[recipes/schaller]] (de-grained, filter-retuned) | **UPDATE** (gate) | The proven inky Soundstage mode, kept; only taste-tweaked: grain OFF, filter off +R. |
+| F | Clean toned-mono alternative | [[recipes/brians-sepia]] | **KEEP** | Deliberate tint option, valued for clean images + depth. Distinct mono voice. |
+| G | **Schaller Luminous** — dimensional/sculptural B&W | *Schaller Luminous* (NEW) | NEW (gate) | The [Ann Demeulemeester](https://www.alanschaller.com/ann-demeulemeester) mode: deep-but-luminous, retained detail, clean. Absorbs the [[entities/helene-binet|Binet]] tonal register. |
 
-**Dropped:** Pastel Vibes (taste-rejected/redundant), Junichiro (grain/film aesthetic), **Bay Area Fortia (full SWAP-out)** — its gray/rain *role* is re-served by D in a taste-aligned way. Tradeoff acknowledged: this gives up Velvia brute-saturation rescue; if a future debrief proves a real need D can't meet, revisit. Net: 7 → coherent role-complete toolkit (2 locked, 1 keep, 1 update, 3 new).
+**Dropped:** Pastel Vibes (taste-rejected/redundant), Junichiro (grain/film aesthetic), **Bay Area Fortia** (gray/rain role re-served by D, taste-aligned; gives up Velvia brute-saturation — revisit only if a debrief proves a real need D can't meet), and **Binet Form** — *removed by the human's choice* to make room for a second Schaller mode. Binet stays an admired influence ([[entities/helene-binet]]); her tonal language now lives in Schaller Luminous rather than a separate color recipe; no dedicated architectural-color slot. Net: 7 → 2 locked, 1 keep, 2 Schaller B&W (1 update + 1 new), 2 new color.
 
 ### Candidate recipe specs (proposed starting dials — refine via A/B, not authoritative)
 
@@ -68,9 +68,9 @@ The considered answer to "what recipes *should* I have," built around the full [
 
 **Stillwater Street (Classic Chrome)** — sim Classic Chrome · DR200 · grain off · Color Chrome Strong / FX Blue Strong · WB Auto, shift R−1 B+1 · Highlight +1 · Shadow +2 · Color +1 · Sharpness +1 · Clarity +2 · NR −4 · best_for [overcast, rain, street, travel, documentary]. *Essence: color analog of "manufacture contrast in flat light" — lifts gray with structure + a cool documentary palette, not saturation.*
 
-**Binet Form (Provia)** — sim Provia/Standard · DR400 · grain off · Color Chrome Strong / FX Blue Strong · WB Daylight, shift R−2 B+2 (cool) · Highlight −1 · Shadow +2 · Color −2 (muted) · Sharpness 0 · Clarity +2 · NR −4 · best_for [architecture, light-on-form, structure, quiet-detail]. *Essence: controlled, cool, muted, deep-but-luminous — Binet's color restraint for the architectural eye.*
+**Schaller Dark (UPDATE of [[recipes/schaller]])** — the proven graphic/crushed *street* mode (Soundstage), kept intact; only the two taste fixes applied. sim **ACROS+Ye** (A/B vs **+R** — the dark mode tolerates/wants +R drama, but +R lightens local orange; pick on the orange-material test) · DR200 · grain **OFF** (was Weak/Small) · Color Chrome off · WB Auto White Priority R0 B0 · Monochromatic Color WC 0 MG 0 · Highlight +1 · **Shadow +4** (crush is the point of this mode) · Sharpness 0 · Clarity +3 · NR −3 · **EV −2/3** (baked-in; part of this mode). *Essence: the validated inky Soundstage look, de-grained and de-+R'd for the orange palette — minimal change to a proven recipe.*
 
-**Architectural ACROS (Schaller UPDATE)** — from current Schaller: **grain off** (was Weak/Small — removes the only film-mimicry element); **filter +R → A/B +Ye vs none** (+R lightens local OSU-orange material; +Ye gives natural sky separation without washing it); **Shadow +4 → +3** with gentle Highlight (Binet *luminous* deep blacks, retained mid-tone gradation, not pure crush); keep EV −2/3, ACROS base, Clarity for edge. *Fills the same gap for the same reasons — an evolution, not a different tool.*
+**Schaller Luminous (NEW)** — the [Ann Demeulemeester](https://www.alanschaller.com/ann-demeulemeester) *dimensional/sculptural* mode: deep **but luminous**, retained shadow detail, protected highlights, full tonal separation, strong-not-harsh, clean. Absorbs the [[entities/helene-binet|Binet]] tonal register. sim **ACROS+Ye** (A/B vs plain ACROS; *not* +R) · DR**400** · grain off · Color Chrome off · WB neutral R0 B0 · Monochromatic Color WC 0 MG 0 · Highlight **−1** · Shadow **−1** (retain detail — deep-not-crushed) · Sharpness 0 · Clarity **+1** (definition without harsh) · NR −3 · **EV ~0, metered to protect highlights** (no baked-in −2/3 — that belongs to Dark). *The opposite tonal philosophy from Dark: separation and luminosity, not crush.*
 
 ## Validation path (the guardrail, applied)
 
@@ -78,9 +78,9 @@ Each NEW/UPDATE enters only via a controlled A/B (same method as [[synthesis/ref
 
 1. **Clean Sunrise** vs SCU (control) on one sunrise scene → also closes the sunrise gap.
 2. **Stillwater Street** vs Bay Area Fortia vs SCU on a gray/overcast scene **with OSU-orange material in frame** → settles D-replaces-Fortia and the orange-clash question in one test.
-3. **Architectural ACROS** (grain-off, +Ye/none) vs current Schaller on an orange-material architectural scene → validates the UPDATE.
-4. **Binet Form** vs SCU on an architectural light-on-form subject → confirms it earns a distinct slot (not SCU-duplicate).
-Pastel Vibes / Junichiro retire only as their replacements pass; recipe pages kept with a dated "retired from camera" note (wiki keeps history).
+3. **Schaller Dark** (grain-off, +Ye vs +R) vs current Schaller on an orange-material architectural/graphic scene → confirms the taste-tweak keeps the look + picks the filter.
+4. **Schaller Luminous** vs Schaller Dark on one sculptural light-on-form subject (same frame, both modes) → confirms the two modes are genuinely distinct and both earn a slot.
+Pastel Vibes / Junichiro / Bay Area Fortia / Binet Form (never built) retire only as replacements pass; existing recipe pages kept with a dated "retired from camera" note (wiki keeps history).
 
 ## Decisions log
 
@@ -94,6 +94,18 @@ Pastel Vibes / Junichiro retire only as their replacements pass; recipe pages ke
 - New first-class context: Stillwater OK (all weather), **orange-heavy local environment** (red-adds clash), **anti-warm-nostalgia**, **no grain / no film mimicry**, **museum/exhibition target**, **architectural eye**.
 - Changes: **Junichiro KEEP-watch → SWAP** (grain/film aesthetic counter to museum stance + twins Loki). **Schaller KEEP → KEEP-strong** (architectural eye makes it native). **Bay Area Fortia** aesthetic/align dropped (amplifies local orange) — KEEP-re-evaluate sharpened to a decision A/B. **Brian's Sepia → KEEP-flag** (sepia warmth vs anti-nostalgia → neutral-mono question). SCU & Loki reaffirmed (better-aligned).
 - Net: **2 slots to free** (Pastel Vibes, Junichiro); backlog reprioritized. Multiple A/Bs queued; **no camera change until each is shot & filed as a debrief**.
+
+### 2026-05-17 — two Schaller modes adopted; Binet Form dropped
+- Human's decision: keep **both** Schaller modes as separate recipes — **Schaller Dark** (crushed/graphic street, the proven Soundstage look) **and Schaller Luminous** (Ann Demeulemeester dimensional/luminous) — and **remove Binet Form** to make room.
+- Roster G split into E (Schaller Dark = UPDATE of current Schaller: grain off + filter retuned, otherwise unchanged) and G (Schaller Luminous = NEW). **Binet Form deleted from the roster**; [[entities/helene-binet]] stays as an influence, her tonal language absorbed into Schaller Luminous; no dedicated architectural-color slot. The "Binet Form for exteriors?" question is moot (recipe removed).
+- Validation #4 changed to a **Luminous-vs-Dark same-frame A/B** to prove the two modes are distinct and both slot-worthy.
+- Next: confirm/lock the two Schaller specs, then run validation A/B #1 (Clean Sunrise).
+
+### 2026-05-17 — Schaller look nailed down (Ann Demeulemeester reference)
+- Human supplied [alanschaller.com/ann-demeulemeester](https://www.alanschaller.com/ann-demeulemeester) as the target. Finding: Schaller has **two modes**; the desired one is **dimensional/luminous** (retained shadow detail, protected highlights, full tonal range, strong-not-harsh, clean) — *not* the crushed inky street mode the current recipe dials.
+- C7 *Architectural ACROS* spec **revised**: Shadow +4 → −1, Highlight −1, DR400, Clarity +3 → +1, grain off, ACROS+Ye (not +R), **drop the baked-in EV −2/3** (meter for highlights instead). entities/schaller + recipes/schaller annotated (two modes; current dials ≠ target).
+- Key knock-on: this mode **converges tonally with Binet** — informs the held Binet-Form/exteriors decision (deferred at the human's request until the Schaller look was locked).
+- Next: confirm the revised Schaller target, then resume the architectural-color-slot question.
 
 ### 2026-05-17 — recommended target roster set (Schaller + Binet anchored)
 - Human asked for the *should-have* roster. Loki locked (movable); Schaller replaceable only by same-gap/same-reason; others flexible incl. color slot count. Added [[entities/helene-binet]] (admired architectural influence, B&W + color).

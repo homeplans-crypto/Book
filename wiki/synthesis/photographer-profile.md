@@ -25,7 +25,7 @@ The human's own practice and intent (stated 2026-05-17). Read this alongside [[s
 - **Not into heavy grain or film mimicry.** Grain may serve a purpose, but "film vibes" is not that purpose. Clean rendering preferred.
 - **Target is museum / exhibition quality** — clean, considered, fine-art, not social-media film-sim aesthetics.
 - **Architectural background** — sees the world structurally (geometry, line, negative space). The Schaller/[[concepts/composition-and-subtraction|subtraction]] way of seeing is *native*, not aspirational.
-- **Admired architectural photographers:** [[entities/schaller|Alan Schaller]] (high-contrast minimalist B&W street/architecture) and [[entities/helene-binet|Hélène Binet]] (light-on-form, luminous deep tone, the zoomed-in fragment — **B&W *and* color**). These two anchor the architectural recipes (B&W *and* a controlled architectural color).
+- **Admired architectural photographers:** [[entities/schaller|Alan Schaller]] and [[entities/helene-binet|Hélène Binet]]. The human wants **both Schaller modes as recipes** — *Dark* (crushed/graphic street) and *Luminous* (Ann Demeulemeester: deep-but-luminous, retained detail, clean). Binet is an influence whose tonal register is **absorbed into Schaller Luminous**; no dedicated architectural-color recipe (Binet Form dropped).
 
 ## What this implies for the wiki
 

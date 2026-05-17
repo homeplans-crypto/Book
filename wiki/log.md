@@ -137,6 +137,11 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - swap: slot 2 Pastel Vibes → sunrise recipe (or Classic Chrome) | queued A/B: candidate + Pastel Vibes + SCU on one sunrise/street scene
 - notes: SCU/Loki/Brian's Sepia/Schaller KEEP; Junichiro KEEP-watch (#2 swap candidate, twins Loki); Bay Area Fortia KEEP-re-evaluate (track gray/rain frequency); no camera change until queued A/B filed as a debrief
 
+## [2026-05-17] roster | two Schaller modes adopted; Binet Form dropped
+- updated: synthesis/recipe-roster-review (target roster E/G split, specs, validation), entities/schaller, entities/helene-binet, recipes/schaller (= Schaller Dark), synthesis/photographer-profile
+- swap: Binet Form removed by human choice → second Schaller mode. Roster mono = Schaller Dark + Brian's Sepia + Schaller Luminous
+- notes: Schaller Dark = UPDATE of current recipe (grain off, +R→+Ye, else unchanged); Schaller Luminous = NEW (Ann Demeulemeester, deep-but-luminous, absorbs Binet register); no architectural-color slot; A/B-gated
+
 ## [2026-05-17] roster | recommended target roster (Schaller + Binet anchored)
 - created: entities/helene-binet
 - updated: synthesis/recipe-roster-review (target roster A–G + candidate specs + validation path), synthesis/photographer-profile (admired architects), entities/schaller (official site), wiki/index.md
