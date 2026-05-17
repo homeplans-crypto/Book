@@ -8,7 +8,7 @@ tags: [synthesis, recipe-picker, decision-guide]
 
 # Which recipe for these conditions?
 
-Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **light first**, then intent. All recipes are JPEG / Adobe RGB (export sRGB for web). Untested by the human as of 2026-05-17 — `best_for` is by formula, not yet by experience; revise via shoot debriefs.
+Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **light first**, then intent. All recipes are JPEG / Adobe RGB (export sRGB for web). Partially field-tested (see [[synthesis/debriefs]]) — Soft Color Universe and Pastel Vibes are now experience-based; the rest are still by formula.
 
 ## By light
 
@@ -16,15 +16,16 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 |---|---|---|
 | **Harsh midday sun** (hard shadows) | [[recipes/loki]] — inky, graphic, EV −2/3 | [[recipes/schaller]] — ACROS+R drama, EV −2/3 · [[recipes/brians-sepia]] — warm-toned, harder |
 | **Bright sun + bold color** (landscape/nature) | [[recipes/bay-area-fortia]] — max saturation | — |
-| **Soft / directional daylight, golden hour** (portraits, warm) | [[recipes/soft-color-universe]] — soft, saturated | [[recipes/schaller]] if going mono |
-| **Overcast / soft, everyday & street** | [[recipes/pastel-vibes]] — muted, cool | (mono recipes go flat — see gap) |
+| **Soft / directional daylight, golden hour, blue hour** (portraits, warm) | [[recipes/soft-color-universe]] — soft, saturated, rich sky | [[recipes/schaller]] if going mono |
+| **Soft light *with structure*, want restraint** | [[recipes/pastel-vibes]] — muted, cool (needs texture/point light; deprioritized by taste) | — |
+| **Flat / featureless overcast** | [[recipes/soft-color-universe]] — Pastel Vibes over-softens here | (mono recipes go flat — see gap) |
 | **Low / moody, shadow-led** | [[recipes/junichiro]] — dark, faded, EV −2/3 | [[recipes/junichiro]] reads near-mono |
 
 ## By intent
 
 - **Unsure / default color** → [[recipes/soft-color-universe]]. Field-tested to hold up in *most* lighting (2026-05-17 cross-test); the safe everyday choice. Pick a specialized recipe when you want a specific *look*, not because this one fails.
 - **Punchy & graphic, color** → Loki (hard light) / Bay Area Fortia (saturated subjects).
-- **Soft & flattering, skin** → Soft Color Universe (warm) or Pastel Vibes (cool, muted). The only skin-safe recipes — avoid Velvia/Loki on faces.
+- **Soft & flattering, skin** → Soft Color Universe (warm; preferred). Pastel Vibes (cool, muted) also skin-safe but deprioritized by taste. Avoid Velvia/Loki on faces.
 - **Dark, cinematic, restrained** → Junichiro.
 - **Dramatic B&W, geometry & negative space** → Schaller (the [[entities/schaller|Alan Schaller]] approach — see that page; the seeing matters more than the recipe).
 - **Toned, gritty B&W** → Brian's Sepia.
@@ -35,10 +36,12 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 - **High-contrast recipes need real shadows.** Loki, Junichiro, Brian's Sepia, Schaller all fail in flat overcast.
 - **Berrada family** (Loki, Junichiro) share a deep-toned, EV −2/3 signature — see [[entities/mehdi-berrada]].
 - **Classic Neg spans the range:** Pastel Vibes (soft) ↔ Loki (hard) — same sim, opposite dials.
+- **Soft/low-contrast recipes need scene structure.** Pastel Vibes (and soft looks generally) read well only with directional/point light or texture to grip; in genuinely flat light they go mushy. Match recipe softness to the light's structure, not just the time of day.
+- **Film sim sets blue-hour sky impact.** Astia + Color Chrome Strong (SCU) > Classic Neg + Weak (Pastel Vibes) for a vivid sky.
 
 ## Gaps (worth filling)
 
-- **No color recipe purpose-built for flat overcast** — but [[recipes/soft-color-universe]] is field-proven versatile enough to cover it as the practical default (2026-05-17). A dedicated flat-light recipe (brighter, lifted-shadow Classic Neg or Astia) is still worth building for the *look*, not out of necessity. Gap softened, not closed.
+- **No color recipe purpose-built for flat overcast.** Confirmed 2026-05-17 that Pastel Vibes is *not* the answer (it over-softens in flat light). [[recipes/soft-color-universe]] is the field-proven practical default. A dedicated flat-light recipe (brighter, lifted-shadow, more local contrast) is still worth building. Gap softened, not closed.
 - **All recipes untested on this body.** Loki & Junichiro were designed for the X100V (X-Trans 4); X-Trans 5 may render Classic Neg / Clarity / grain differently. First debriefs should prioritize these.
 
 Attribution resolved 2026-05-17: Loki & Junichiro are Mehdi Berrada (film.recipes); the other five are self-authored (AI-assisted, hand-tweaked to the photographer's style).

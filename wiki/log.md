@@ -66,3 +66,9 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 ## [2026-05-17] debrief | Soft Color Universe cross-test (versatility)
 - updated: recipes/soft-color-universe (best_for +versatile, cross-test self note), synthesis/debriefs, synthesis/recipe-picker
 - notes: human reports it holds up in most lighting → designated the versatile default color recipe; flat-overcast gap softened
+
+## [2026-05-17] debrief | Pastel Vibes A/B + second location
+- created: concepts/composition-and-subtraction
+- updated: recipes/pastel-vibes (best_for retuned, self notes + A/B + preference), recipes/soft-color-universe (A/B note), entities/classic-negative, synthesis/debriefs, synthesis/recipe-picker, concepts/blue-hour-mixed-light, wiki/index.md
+- notes: same-scene A/B vs SCU (Pastel Vibes cooler/flatter); needs scene structure or over-softens; not the flat-light pick; deprioritized by taste; composition failure pattern established → new concept page
+- next: reframe pond scene to one subject + clean edges (exclude foreground trunk, minimize power lines)

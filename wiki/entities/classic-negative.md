@@ -16,3 +16,5 @@ Fujifilm film simulation modeled on consumer color negative film (Superia lineag
 - [[recipes/loki]] — high-contrast "inky" harsh-light look (Highlight +4 / Shadow +4, Color Chrome off, WB R+3 B−5). By [[entities/mehdi-berrada]].
 
 Pastel Vibes and Loki bracket this sim's contrast range — same film simulation, opposite intent (minimal vs. maximal contrast).
+
+> Self note 2026-05-17 ([[synthesis/debriefs]]): in blue hour, a soft Classic Neg recipe (Pastel Vibes) renders noticeably **cooler and more muted** than an Astia recipe (Soft Color Universe) of the same scene — Classic Neg holds saturation back even with Color +3. Useful when restraint is the goal; not when you want the sky to sing.

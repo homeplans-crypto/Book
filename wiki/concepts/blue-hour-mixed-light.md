@@ -19,7 +19,9 @@ The window after sunset when the sky still holds saturated blue while artificial
 
 ## Observations (dated, first-class)
 
-> Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/soft-color-universe]]): Soft Color Universe (Astia, Color +3, Color Chrome Strong) excelled in blue-hour mixed light — rich sky, clean warm/cool separation, Auto WB held. Recipe was not the limiting factor; **composition was** (three competing subjects, uncommitted leading line). Lesson: at blue hour the palette is given to you cheaply — the discipline is subtraction, not settings.
+> Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/soft-color-universe]]): Soft Color Universe (Astia, Color +3, Color Chrome Strong) excelled in blue-hour mixed light — rich sky, clean warm/cool separation, Auto WB held. Recipe was not the limiting factor; **composition was** (three competing subjects, uncommitted leading line). Lesson: at blue hour the palette is given to you cheaply — the discipline is subtraction, not settings. See [[concepts/composition-and-subtraction]].
+
+> Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/pastel-vibes]]): same scene in a Classic Neg recipe was cooler/more muted than the Astia one — **film-sim choice sets blue-hour sky impact** (Astia + Color Chrome Strong > Classic Neg + Weak for a vivid sky). Also: soft/low-contrast recipes need scene structure (point/directional light, texture) at blue hour — in genuinely flat light they go limp. Pick the recipe to the light's structure, not just the hour.
 
 ## Open questions
 

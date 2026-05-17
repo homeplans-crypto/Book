@@ -12,6 +12,22 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Pastel Vibes A/B + second location · [[recipes/pastel-vibes]]
+
+**Conditions:** (1) Same campus blue-hour scene as the Soft Color Universe debrief — controlled A/B. (2) Second location: pond + lit fountain at deeper blue hour, flatter ambient light, two buildings, reflections. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**Findings:**
+- **A/B vs [[recipes/soft-color-universe]] (same scene):** Pastel Vibes is more muted, cooler, flatter — subdued sky vs. SCU's rich cobalt. Confirms the sibling split (warm/punchy Astia vs. cool/restrained Classic Neg). Both render the scene competently; the difference is intent, not quality.
+- **Holds up in soft light *with structure*.** Frame 1's artificial lamplight + texture gave it enough to grip — it reads well.
+- **Risk: over-softening in flat light.** Frame 2 (flatter, more even ambient) leans toward mushy/low-impact — the recipe needs scene structure (directional/point light, texture) or it goes limp. It is **not** the flat-overcast pick.
+- **Preference:** photographer dislikes the pastel aesthetic and will limit use. Deprioritized by taste, not performance.
+
+**Composition (recurring lesson):** Frame 2's strong idea is the fountain + symmetrical buildings + reflection. Working against it: a large near-black tree trunk dominating the right edge (heavy, detailless, not deliberate framing) and power lines bisecting the mid-frame. Same failure mode as the first debrief (three competing buildings) — **uncommitted subject, intrusive edges.** Pattern now established → see [[concepts/composition-and-subtraction]].
+
+**Drill next:** For the pond scene, reframe to make the fountain+reflection the unambiguous subject — exclude the foreground trunk, drop the horizon to minimize power lines, or use the trunk only if it reads as intentional silhouette framing (then expose so it's a clean shape, not mud). One subject, clean edges.
+
+---
+
 ## 2026-05-17 — Cross-test note · [[recipes/soft-color-universe]]
 
 Aggregated from the human's wider testing (not a single shoot): the recipe is strong in its named conditions (daylight, portrait, golden hour, blue hour) **and holds up in most lighting generally**. Conclusion: it's the **versatile default color recipe** — the reliable choice when there's no reason to reach for a specialized look. `best_for` gained `versatile`; recipe-picker now names it the default and softens the flat-overcast gap. Still open: NR −4 at high night ISO (untested).
