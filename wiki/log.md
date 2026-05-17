@@ -137,6 +137,12 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - swap: slot 2 Pastel Vibes → sunrise recipe (or Classic Chrome) | queued A/B: candidate + Pastel Vibes + SCU on one sunrise/street scene
 - notes: SCU/Loki/Brian's Sepia/Schaller KEEP; Junichiro KEEP-watch (#2 swap candidate, twins Loki); Bay Area Fortia KEEP-re-evaluate (track gray/rain frequency); no camera change until queued A/B filed as a debrief
 
+## [2026-05-17] roster | recommended target roster (Schaller + Binet anchored)
+- created: entities/helene-binet
+- updated: synthesis/recipe-roster-review (target roster A–G + candidate specs + validation path), synthesis/photographer-profile (admired architects), entities/schaller (official site), wiki/index.md
+- swap: Pastel Vibes + Junichiro + Bay Area Fortia OUT; NEW Clean Sunrise / Stillwater Street (Classic Chrome) / Binet Form (Provia); Schaller → Architectural ACROS (UPDATE: grain off, filter retuned); SCU + Loki locked; Brian's Sepia keep
+- notes: full should-have roster designed around the architectural eye + Schaller/Binet; 4 A/Bs queued in priority order; nothing to camera on theory
+
 ## [2026-05-17] roster | re-review after added context — now 2 swaps
 - updated: synthesis/photographer-profile (location/palette/aesthetic), synthesis/recipe-roster-review (re-scored), synthesis/recipe-picker, recipes/junichiro, recipes/bay-area-fortia, recipes/schaller, recipes/brians-sepia, concepts/composition-and-subtraction
 - swap: slot 2 Pastel Vibes + slot 4 Junichiro (grain/film aesthetic rejected) | queued A/Bs: slot-2 sunrise/Classic Chrome, slot-4 candidate, + UPDATE probes (Sepia-vs-neutral-mono, Fortia-orange, Schaller +Ye/+G)

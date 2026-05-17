@@ -46,26 +46,41 @@ _Re-scored 2026-05-17 after added context (location/orange palette, anti-warm-no
 - **Slot 4 Junichiro — SWAP.** Re-dispositioned. Its identity is soft/faded/**grainy**/melancholic/film-like — directly counter to "no grain, no film mimicry, museum quality." Also twins Loki's Berrada/EV−2/3 family (low distinctiveness). Aesthetic fit is now its defining weakness. **Second slot to free.**
 - **Slot 2 Pastel Vibes — SWAP.** Redundant with the SCU soft/Color+3 family, over-softens in flat light, **taste-rejected** (pastel). Lowest marginal value. First slot to free.
 
-## Swap-candidate backlog (priority order)
+## Recommended target roster
 
-**Two slots now free up** (2 Pastel Vibes, 4 Junichiro). Candidates, all chosen to fit the museum-quality / low-warmth / clean aesthetic:
+The considered answer to "what recipes *should* I have," built around the full [[synthesis/photographer-profile]] (Stillwater; night/sunrise; quiet streets & nature; light-on-objects-at-night; orange-heavy environment; anti-warm-nostalgia; no grain/film-mimicry; museum/exhibition quality; **architectural eye**; admires [[entities/schaller|Schaller]] + [[entities/helene-binet|Binet]]). Slot numbers are flexible (the human is not locked to dial positions; Loki may move). **All NEW/UPDATE entries are proposed and A/B-gated — nothing reaches the camera on theory.**
 
-1. **Sunrise-tuned color recipe** — core practice, uncovered/untested ([[synthesis/photographer-profile]] open). Keep WB neutral/cool-leaning given the orange environment. Highest priority.
-2. **Classic Chrome street/travel look** — unrepresented sim; desaturated, neutral, documentary, *no warm cast* — strongly fits quiet streets + travel + the anti-nostalgia/museum stance without duplicating SCU.
-3. **Neutral clean monochrome** — to resolve the Brian's-Sepia warmth tension: a plain ACROS / Monochrome (no toning, no/low grain) as the mono default candidate.
-4. Light-on-objects-at-night refinement — only if Loki shows gaps. Low.
+| # | Role | Recipe | Status | Why |
+|---|---|---|---|---|
+| A | Primary clean color (daylight/blue-hour/vacation) | [[recipes/soft-color-universe]] | **LOCKED** | Astia, no red shift, clean, no grain — exactly the museum/no-nostalgia stance; proven do-anything. |
+| B | **Sunrise / backlit** color | *Clean Sunrise* (NEW) | NEW (gate) | Core practice, currently uncovered. Clean, highlight-protected, *cool-locked* so sunrise isn't pushed orange-syrupy. |
+| C | Night light-on-objects | [[recipes/loki]] | **LOCKED** | Signature subject; purpose-built; position movable. |
+| D | Quiet street / overcast / rain / travel | *Stillwater Street* — Classic Chrome (NEW) | NEW (gate) | Lifts gray via **contrast/character, not raw saturation** → no orange/warm over-egg. Replaces Fortia's role *taste-aligned*; doubles as the documentary street/travel voice. |
+| E | Architectural **color** (light-on-form) | *Binet Form* — Provia (NEW) | NEW (gate) | Controlled, cool, muted, deep-but-luminous — the [[entities/helene-binet|Binet]] color register; serves the architectural eye distinct from SCU. |
+| F | Clean toned-mono alternative | [[recipes/brians-sepia]] | **KEEP** | Deliberate tint option, valued for clean images + depth. Distinct mono voice from G. |
+| G | Architectural **B&W** (Schaller + Binet) | [[recipes/schaller]] → *Architectural ACROS* | **UPDATE** (gate) | Same gap, same reasons (the human's condition for any Schaller replacement). Evolve: **grain OFF**, filter retuned for the orange environment, tone eased toward Binet luminosity. |
 
-## Queued A/Bs (gate every slot change — nothing on theory)
+**Dropped:** Pastel Vibes (taste-rejected/redundant), Junichiro (grain/film aesthetic), **Bay Area Fortia (full SWAP-out)** — its gray/rain *role* is re-served by D in a taste-aligned way. Tradeoff acknowledged: this gives up Velvia brute-saturation rescue; if a future debrief proves a real need D can't meet, revisit. Net: 7 → coherent role-complete toolkit (2 locked, 1 keep, 1 update, 3 new).
 
-**Slot 2 (Pastel Vibes → sunrise recipe or Classic Chrome):** build the candidate; shoot **candidate + Pastel Vibes + SCU (control)** on one scene in the target condition (sunrise; or quiet-street/travel for Classic Chrome), same controlled method as [[synthesis/reference-matrix]]. Gate: candidate clearly beats Pastel Vibes for a practice-relevant condition and doesn't duplicate SCU/Sepia. File as `debrief`, then write to slot 2; mark Pastel Vibes retired (keep page with dated retire note).
+### Candidate recipe specs (proposed starting dials — refine via A/B, not authoritative)
 
-**Slot 4 (Junichiro → ?):** before swapping, confirm with a controlled shot that Junichiro's grain/film aesthetic is genuinely unwanted in a real night-with-lamps scene (its one technical edge was lamp control vs Loki). Candidate: Classic Chrome or the neutral mono. Same gate + debrief discipline.
+**Clean Sunrise** — sim Astia/Soft · DR400 · grain off · Color Chrome Strong / FX Blue Weak · WB Daylight, shift R−1 B+1 (cool-lock) · Highlight −2 · Shadow 0 · Color +2 · Sharpness 0 · Clarity +1 · NR −4 · EV ~0…+1/3 · best_for [sunrise, backlit, golden-hour, landscape]. *Essence: SCU retuned for backlit sunrise — protected highlights, cool-locked WB, restrained color.*
 
-**Slot 6 — no probe needed.** Brian's Sepia stays. *Optional, non-blocking:* if a neutral or blue/brown-tint clean mono is ever built, trial it as a *parallel palette alternative* (possibly for the freed slot 4), never as a corrective to Sepia.
+**Stillwater Street (Classic Chrome)** — sim Classic Chrome · DR200 · grain off · Color Chrome Strong / FX Blue Strong · WB Auto, shift R−1 B+1 · Highlight +1 · Shadow +2 · Color +1 · Sharpness +1 · Clarity +2 · NR −4 · best_for [overcast, rain, street, travel, documentary]. *Essence: color analog of "manufacture contrast in flat light" — lifts gray with structure + a cool documentary palette, not saturation.*
 
-**Slot 5 UPDATE/keep probe (Fortia orange clash):** local daytime A/B — Fortia vs SCU (and a neutral) on OSU-orange brick/material. If Fortia over-eggs the orange unacceptably, it moves to SWAP; if its gray/rain value still outweighs, KEEP with a "not for orange-dominant daytime" note.
+**Binet Form (Provia)** — sim Provia/Standard · DR400 · grain off · Color Chrome Strong / FX Blue Strong · WB Daylight, shift R−2 B+2 (cool) · Highlight −1 · Shadow +2 · Color −2 (muted) · Sharpness 0 · Clarity +2 · NR −4 · best_for [architecture, light-on-form, structure, quiet-detail]. *Essence: controlled, cool, muted, deep-but-luminous — Binet's color restraint for the architectural eye.*
 
-**Slot 7 UPDATE probe (Schaller filter):** ACROS **+R vs +Ye vs +G** on an orange-dominant local scene — pick the variant that holds orange tonal separation best. Recipe-only tweak, not a slot swap.
+**Architectural ACROS (Schaller UPDATE)** — from current Schaller: **grain off** (was Weak/Small — removes the only film-mimicry element); **filter +R → A/B +Ye vs none** (+R lightens local OSU-orange material; +Ye gives natural sky separation without washing it); **Shadow +4 → +3** with gentle Highlight (Binet *luminous* deep blacks, retained mid-tone gradation, not pure crush); keep EV −2/3, ACROS base, Clarity for edge. *Fills the same gap for the same reasons — an evolution, not a different tool.*
+
+## Validation path (the guardrail, applied)
+
+Each NEW/UPDATE enters only via a controlled A/B (same method as [[synthesis/reference-matrix]] / the fern single-subject matrix), filed as a `debrief`, *then* committed to a slot. Priority order:
+
+1. **Clean Sunrise** vs SCU (control) on one sunrise scene → also closes the sunrise gap.
+2. **Stillwater Street** vs Bay Area Fortia vs SCU on a gray/overcast scene **with OSU-orange material in frame** → settles D-replaces-Fortia and the orange-clash question in one test.
+3. **Architectural ACROS** (grain-off, +Ye/none) vs current Schaller on an orange-material architectural scene → validates the UPDATE.
+4. **Binet Form** vs SCU on an architectural light-on-form subject → confirms it earns a distinct slot (not SCU-duplicate).
+Pastel Vibes / Junichiro retire only as their replacements pass; recipe pages kept with a dated "retired from camera" note (wiki keeps history).
 
 ## Decisions log
 
@@ -78,5 +93,10 @@ _Re-scored 2026-05-17 after added context (location/orange palette, anti-warm-no
 ### 2026-05-17 — re-review after added context (location / palette / aesthetic)
 - New first-class context: Stillwater OK (all weather), **orange-heavy local environment** (red-adds clash), **anti-warm-nostalgia**, **no grain / no film mimicry**, **museum/exhibition target**, **architectural eye**.
 - Changes: **Junichiro KEEP-watch → SWAP** (grain/film aesthetic counter to museum stance + twins Loki). **Schaller KEEP → KEEP-strong** (architectural eye makes it native). **Bay Area Fortia** aesthetic/align dropped (amplifies local orange) — KEEP-re-evaluate sharpened to a decision A/B. **Brian's Sepia → KEEP-flag** (sepia warmth vs anti-nostalgia → neutral-mono question). SCU & Loki reaffirmed (better-aligned).
-- Net: **2 slots to free** (Pastel Vibes, Junichiro); backlog reprioritized (sunrise recipe, Classic Chrome, neutral clean mono). Multiple A/Bs queued; **no camera change until each is shot & filed as a debrief**.
-- Next: build sunrise + Classic Chrome candidates; run the slot-2 and slot-4 A/Bs; probe the Sepia-vs-neutral-mono and Fortia-orange questions on the next local daytime shoot.
+- Net: **2 slots to free** (Pastel Vibes, Junichiro); backlog reprioritized. Multiple A/Bs queued; **no camera change until each is shot & filed as a debrief**.
+
+### 2026-05-17 — recommended target roster set (Schaller + Binet anchored)
+- Human asked for the *should-have* roster. Loki locked (movable); Schaller replaceable only by same-gap/same-reason; others flexible incl. color slot count. Added [[entities/helene-binet]] (admired architectural influence, B&W + color).
+- **Target roster A–G** defined: SCU (locked), *Clean Sunrise* (new), Loki (locked), *Stillwater Street*/Classic Chrome (new), *Binet Form*/Provia (new), Brian's Sepia (keep), Schaller→*Architectural ACROS* (update: grain off, filter retuned, Binet-luminous tone). **Bay Area Fortia → full SWAP-out** (role re-served by Stillwater Street, taste-aligned; Velvia brute-saturation tradeoff acknowledged).
+- Candidate dial specs filed; 4 validation A/Bs queued in priority order. **Nothing on the camera until each A/B is shot & filed as a debrief.**
+- Next: shoot A/B #1 (Clean Sunrise vs SCU) at a sunrise — also closes the sunrise gap.

@@ -34,6 +34,7 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 - [[entities/acros]] — ACROS premium monochrome film simulation.
 - [[entities/mehdi-berrada]] — recipe author (film.recipes).
 - [[entities/schaller]] — Alan Schaller, high-contrast B&W street photographer (tribute subject of recipes/schaller).
+- [[entities/helene-binet]] — Hélène Binet, architectural photographer (light-on-form, B&W + color); roster influence.
 
 ## Concepts
 
