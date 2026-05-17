@@ -8,7 +8,7 @@ tags: [synthesis, recipe-picker, decision-guide]
 
 # Which recipe for these conditions?
 
-Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **light first**, then intent. All recipes are JPEG / Adobe RGB (export sRGB for web). Mostly field-tested (see [[synthesis/debriefs]]) — all recipes now experience-based **except [[recipes/schaller]]** (still by formula). Fortia's gray/rain strength asserted from experience, dedicated sample frames pending.
+Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **light first**, then intent. All recipes are JPEG / Adobe RGB (export sRGB for web). **Fully field-tested** (see [[synthesis/debriefs]]) — all 7 recipes shot from one fixed vantage; the controlled comparison is consolidated in [[synthesis/reference-matrix]]. Only loose end: Fortia's gray/rain strength is asserted from experience, dedicated sample frames pending.
 
 ## By light
 
@@ -31,7 +31,9 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 - **Soft & flattering, skin** → Soft Color Universe (warm; preferred) for general/smooth skin. Brian's Sepia for characterful/aged faces in mono (texture = character — *not* smooth skin). Pastel Vibes (cool, muted) skin-safe but deprioritized by taste. Avoid Velvia/Loki on faces. Detail: [[concepts/portraits-and-skin-rendering]].
 - **Dark, cinematic, restrained** → Junichiro.
 - **Dramatic B&W, geometry & negative space** → Schaller (the [[entities/schaller|Alan Schaller]] approach — see that page; the seeing matters more than the recipe).
-- **Toned B&W, clean/modern** → Brian's Sepia (versatile when lit; reads contemporary, not vintage).
+- **Toned B&W, clean/modern, versatile** → Brian's Sepia (warm, gentle, default mono when lit).
+- **Fine-art B&W — geometry, architecture, negative space, night** → [[recipes/schaller]] (neutral, dramatic, deep blacks; the [[entities/schaller|Alan Schaller]] approach — seeing > recipe).
+- **Mono pick:** warm/timeless → Brian's Sepia · neutral/dramatic/geometric → Schaller.
 
 ## Rules of thumb
 
@@ -44,12 +46,14 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 - **Velvia amplifies the color already there.** Match it to the *deficit* (gray/rain — it rescues) not the *abundance* (warm artificial/neon — it clips). See [[concepts/saturation-in-flat-light]].
 - **High tone-curve recipes need light.** Brian's Sepia (and the high-Shadow looks) work "as long as there is light" — they are not low-light/dark-scene performers; the curve needs something to render.
 - **Skin recipe follows the face, not just the light.** High Clarity/Sharpness flatters aged/textured faces, harms smooth skin. See [[concepts/portraits-and-skin-rendering]].
+- **Problematic night artificial color → go mono.** When warm artificial light over-saturates/clips in color (Fortia), a neutral B&W (Schaller) sidesteps it and lets geometry carry the frame.
+- **For fine texture, ACROS+R at Sharpness 0** beats the Sharpness +3 recipes — acuity without over-crunch.
 - **Loki & Junichiro are tonal recipes, not color ones.** Both erase color/blue-hour palette; never the blue-hour pick. Split by mood: **Loki = assertive (hard/warm/crushed/crisp); Junichiro = wistful (soft/cool/faded/grainy).** Junichiro handles night point sources better (DR200 + Highlight 0 vs Loki DR100 + Highlight +4).
 - **Loki's domain is contrast + texture + directional light**, broader than "harsh sun." Raking light on texture is its sweet spot; bare point sources blow out hard on DR100.
 
 ## Gaps (worth filling)
 
 - **Flat-overcast gap — likely answered.** [[recipes/bay-area-fortia]] is the field-asserted color-rescue for gray/rain (saturation compensates for color-poor light); [[recipes/soft-color-universe]] remains the *neutral* default; Pastel Vibes is *not* the answer (over-softens). To fully close: file dedicated gray/rain Fortia frames. Gap nearly closed pending those.
-- **X-Trans 5 transfer — RESOLVED** for Loki, Junichiro (Berrada) and Brian's Sepia (Shadow +3 holds, not over-blocking). Only [[recipes/schaller]] remains unshot.
+- **X-Trans 5 transfer — fully RESOLVED.** All 7 shot on the X100VI; none broken by the sensor. Closed.
 
 Attribution resolved 2026-05-17: Loki & Junichiro are Mehdi Berrada (film.recipes); the other five are self-authored (AI-assisted, hand-tweaked to the photographer's style).

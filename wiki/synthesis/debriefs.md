@@ -12,6 +12,24 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Schaller: completes the 7-recipe matrix · [[recipes/schaller]]
+
+**Conditions:** 5 frames — reference scene; Kicker Soundstage; festoon-lit patio; the shared grass clump; McKnight facade. All night. **This closes the full 7-recipe reference matrix** → see [[synthesis/reference-matrix]]. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**The tribute lands.** The **Kicker Soundstage** frame — lit concrete geometry against a pure-black sky/void, deep negative space, minimalism — is genuinely [[entities/schaller|Alan Schaller]]. As the study predicted, the recipe was the small part; the *seeing* delivered it. Payoff of the whole study; loop closed.
+
+**Findings:**
+- **Works at night, not just harsh daytime.** ACROS+R + Shadow +4 turns artificial-lit structure into stark geometry; X-Trans 5 fine. `best_for` widened (architecture, night, texture, negative-space).
+- **Mono pair A/B (vs [[recipes/brians-sepia]], same scene):** Schaller = neutral, cooler, more dramatic (Shadow +4), subtle grain, fine-art; Sepia = warm, clean, gentler, versatile default. Choose by warmth/timeless vs neutral/drama.
+- **Grass 3-way (vs Loki, Junichiro):** Schaller gave the best isolation and **crisp detail at Sharpness 0** — ACROS acuity + Clarity beats the +3-sharpness recipes' over-crunch on fine texture.
+- **McKnight A/B (vs [[recipes/bay-area-fortia]]):** where Fortia clipped/garished the warm artificial light, Schaller sidesteps it and makes the mullion grid the subject. **Rule: problematic night artificial color → go mono, let geometry carry it.**
+
+**Composition — leveled up, with a teaching contrast in-set:** Soundstage + McKnight are the **most committed, minimal frames of the entire series** — Schaller-style now deliberate. But the festoon-patio frame is busier (parking lot, vans, signage dilute the light-pattern subject). The discipline has moved from "find a subject" to **"resist clutter in complex scenes"** — see [[concepts/composition-and-subtraction]].
+
+**Drill next:** Chase the Soundstage standard — minimal, geometric, light-against-dark — and apply that same subtraction to *busy* scenes (the patio was the miss). Outstanding: Fortia gray/rain frames; smooth-skin portrait test.
+
+---
+
 ## 2026-05-17 — Brian's Sepia: portrait + reference spot · [[recipes/brians-sepia]]
 
 **Conditions:** (1) Environmental portrait — elderly man, soft window light, indoor. (2) Same campus reference scene, night. First **portrait** in the debrief series. Images reviewed from chat — *not filed to `raw/assets/`*.

@@ -28,6 +28,8 @@ The recurring weak point across early debriefs is not the recipe — it's **too 
 
 > Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/brians-sepia]]): environmental portrait — the background should *say something* about the subject (their space), not merely fill the frame. Busy ≠ contextual: keep only the objects that characterize. Same subtraction discipline, applied to a portrait. See [[concepts/portraits-and-skin-rendering]].
 
+> Milestone 2026-05-17 ([[synthesis/debriefs]], [[recipes/schaller]]): the Kicker Soundstage frame is the **strongest, most committed composition of the whole series** — minimal, geometric, light-against-black, deliberate [[entities/schaller|Schaller]]-style seeing. But the festoon-patio frame in the same set was busy (parking lot/vans/signage diluting the light-pattern subject). The lesson has graduated: no longer "find a subject" (solved) but **"resist clutter in *complex* scenes"** — the harder, next-level version of subtraction.
+
 ## Drill
 
 Before pressing the shutter: name the subject in three words; identify what's fighting it; move or reframe to remove one distraction. Repeat until the frame is about one thing.

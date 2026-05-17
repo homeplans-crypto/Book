@@ -23,4 +23,6 @@ His core gear is a 35mm-equiv f/2 prime — **the [[entities/x100vi]] is the sam
 
 His own tips: shoot B&W *on purpose*; adjust to the light rather than fight it; use the environment; aim for a full contrast range; change perspective; edit wisely.
 
+> Self note 2026-05-17 ([[synthesis/debriefs]]): **payoff confirmed.** [[recipes/schaller]] + the practice produced his aesthetic — the Kicker Soundstage frame (lit geometry against a pure-black void, deep negative space, minimalism) is genuinely Schaller-like. As predicted, the recipe was the small part; the *seeing* did the work. The composition discipline has compounded across the debrief series to where it's now deliberate, not accidental — the study closed its loop.
+
 Source (cited inline, no raw doc ingested): [My Modern Met](https://mymodernmet.com/alan-schaller-street-photography/), [Amateur Photographer](https://amateurphotographer.com/technique/alan-schaller-how-to-create-your-own-recognisable-style/), [DPReview — 7 tips](https://www.dpreview.com/news/7750954542/video-photographer-alan-schaller-offers-seven-tips-for-black-and-white-street-photography).

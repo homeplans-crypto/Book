@@ -94,3 +94,9 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: recipes/brians-sepia (best_for widened, self notes, X-Trans 5 resolved), entities/sepia, synthesis/debriefs, synthesis/recipe-picker, concepts/composition-and-subtraction, wiki/index.md
 - notes: modern/clean (no-grain) Sepia = versatile default toned-mono "as long as there's light"; first portrait — Clarity/Sharpness +3 flatters characterful/aged faces, harms smooth skin; Shadow +3 X-Trans 5 resolved; only Schaller now untested
 - next: test soft recipe on smooth-skin subject; SCU-vs-Brian's-Sepia face A/B; shoot Schaller at reference spot to complete the 7-recipe matrix
+
+## [2026-05-17] debrief | Schaller — completes the 7-recipe matrix
+- created: synthesis/reference-matrix
+- updated: recipes/schaller (best_for widened, self notes, X-Trans 5 resolved), entities/schaller (payoff confirmed), entities/acros, synthesis/debriefs, synthesis/recipe-picker, concepts/composition-and-subtraction, wiki/index.md
+- notes: MILESTONE — all 7 recipes shot from one vantage; matrix consolidated. Schaller delivers the Alan Schaller aesthetic (Soundstage frame); works at night; clean fine detail at Sharpness 0; mono-for-problematic-color rule; composition leveled up (resist clutter in complex scenes). X-Trans 5 fully closed.
+- next: chase the Soundstage standard in busy scenes; outstanding — Fortia gray/rain frames, smooth-skin portrait test

@@ -13,3 +13,5 @@ Fujifilm's premium monochrome film simulation, modeled on Neopan ACROS film: ric
 ## Recipes using this sim
 
 - [[recipes/schaller]] — ACROS+R, high-drama daytime B&W (Shadow +4, Clarity +3, EV −2/3).
+
+> Self note 2026-05-17 ([[synthesis/debriefs]]): confirmed premium — neutral tone, clean deep blacks (Shadow +4 crushes without mud when lit), and **crisp fine detail at Sharpness 0** (its inherent acuity + Clarity beats pushing Sharpness +3, which over-crunches). Works well at night, not just daytime. The serious-B&W default.

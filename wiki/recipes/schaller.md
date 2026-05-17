@@ -20,7 +20,7 @@ clarity: +3
 noise_reduction: -3
 iso: "Auto"           # not shown in source; set per scene
 exposure_comp: "-2/3" # baked-in intent: underexpose 2/3 in daytime
-best_for: [monochrome, high-contrast, street, harsh-sun, geometry]
+best_for: [monochrome, high-contrast, geometry, architecture, night, texture, negative-space, street]
 tags: [recipe, acros, monochrome]
 ---
 
@@ -28,7 +28,11 @@ A dramatic [[entities/acros]] black-and-white with a red filter — the wiki's p
 
 > User note 2026-05-17: −2/3 EV is the suggested daytime exposure for this recipe — treat it as part of the recipe, not optional.
 
-> Self note 2026-05-17: not yet shot — debrief after first use; check Shadow +4 doesn't block up midtones on X-Trans 5.
+> Self note 2026-05-17 (shot — completes the 7-recipe matrix, [[synthesis/debriefs]]): **delivers the [[entities/schaller|Alan Schaller]] aesthetic.** The Kicker Soundstage frame (lit geometry, pure-black sky/void, negative space) is the clearest proof — recipe + the *seeing* both landed. Works at **night**, not just harsh daytime: Shadow +4 + ACROS+R turns artificial-lit structure into stark geometry; X-Trans 5 fine (deep but not destroyed when there's light/contrast). `best_for` widened (architecture, night, texture, negative-space).
+
+> Self note 2026-05-17 (technical): renders fine texture **cleanly at Sharpness 0** — ACROS acuity + Clarity +3 give crisp detail without the over-crunch of the Sharpness +3 recipes. On the shared grass subject it gave the best isolation of the three tonal takes (vs [[recipes/loki]] gritty-warm, [[recipes/junichiro]] soft-faded).
+
+> Self note 2026-05-17 (vs [[recipes/bay-area-fortia]], same McKnight facade): where Fortia over-saturated/clipped the warm artificial light, Schaller **sidesteps the problem entirely** and turns the mullion grid into the subject. Rule: when night artificial color is problematic, go mono and let geometry carry it.
 
 Pairs with [[recipes/brians-sepia]] as the wiki's monochrome set: Schaller is fine-grained ACROS + red-filter drama; Brian's Sepia is warm-toned and harder-edged. Both share the gritty Clarity +3 / deep-shadow formula seen in [[recipes/loki]].
 
