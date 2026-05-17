@@ -22,6 +22,7 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 
 ## By intent
 
+- **Unsure / default color** → [[recipes/soft-color-universe]]. Field-tested to hold up in *most* lighting (2026-05-17 cross-test); the safe everyday choice. Pick a specialized recipe when you want a specific *look*, not because this one fails.
 - **Punchy & graphic, color** → Loki (hard light) / Bay Area Fortia (saturated subjects).
 - **Soft & flattering, skin** → Soft Color Universe (warm) or Pastel Vibes (cool, muted). The only skin-safe recipes — avoid Velvia/Loki on faces.
 - **Dark, cinematic, restrained** → Junichiro.
@@ -37,7 +38,7 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 
 ## Gaps (worth filling)
 
-- **No color recipe purpose-built for flat overcast.** Pastel Vibes is the least-bad default; consider sourcing/building one (e.g. a brighter, lifted-shadow Classic Neg or Astia).
+- **No color recipe purpose-built for flat overcast** — but [[recipes/soft-color-universe]] is field-proven versatile enough to cover it as the practical default (2026-05-17). A dedicated flat-light recipe (brighter, lifted-shadow Classic Neg or Astia) is still worth building for the *look*, not out of necessity. Gap softened, not closed.
 - **All recipes untested on this body.** Loki & Junichiro were designed for the X100V (X-Trans 4); X-Trans 5 may render Classic Neg / Clarity / grain differently. First debriefs should prioritize these.
 
 Attribution resolved 2026-05-17: Loki & Junichiro are Mehdi Berrada (film.recipes); the other five are self-authored (AI-assisted, hand-tweaked to the photographer's style).

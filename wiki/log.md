@@ -62,3 +62,7 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: synthesis/debriefs, concepts/blue-hour-mixed-light
 - updated: recipes/soft-color-universe (best_for +blue-hour, first-shoot self note), wiki/index.md
 - next: reshoot blue hour with EV bracketed 0/−1/3/−2/3; composition constraint — one subject, one leading line
+
+## [2026-05-17] debrief | Soft Color Universe cross-test (versatility)
+- updated: recipes/soft-color-universe (best_for +versatile, cross-test self note), synthesis/debriefs, synthesis/recipe-picker
+- notes: human reports it holds up in most lighting → designated the versatile default color recipe; flat-overcast gap softened

@@ -12,6 +12,12 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Cross-test note · [[recipes/soft-color-universe]]
+
+Aggregated from the human's wider testing (not a single shoot): the recipe is strong in its named conditions (daylight, portrait, golden hour, blue hour) **and holds up in most lighting generally**. Conclusion: it's the **versatile default color recipe** — the reliable choice when there's no reason to reach for a specialized look. `best_for` gained `versatile`; recipe-picker now names it the default and softens the flat-overcast gap. Still open: NR −4 at high night ISO (untested).
+
+---
+
 ## 2026-05-17 — Blue hour, campus exterior · [[recipes/soft-color-universe]]
 
 **Conditions:** Deep twilight / blue hour. Mixed light: cool ambient sky vs. warm artificial streetlamps and facade lighting. Static architectural subject (campus building, tower, lamp-lit trees). Appears low-ISO / stable (clean shadows). Image reviewed from chat — *not filed to `raw/assets/`* (no file on disk; drop the JPEG there to make it permanently citable).
