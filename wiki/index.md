@@ -37,8 +37,9 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 
 ## Concepts
 
-_No concept pages yet. Will cover photography technique: composition, exposure, focus, reading light, etc._
+- [[concepts/blue-hour-mixed-light]] — shooting twilight with mixed warm/cool light: exposure, WB, composition.
 
 ## Synthesis
 
 - [[synthesis/recipe-picker]] — "which recipe for these conditions?" decision guide across all 7 recipes.
+- [[synthesis/debriefs]] — running reverse-chronological shoot debriefs (the skill loop).

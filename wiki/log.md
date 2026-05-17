@@ -57,3 +57,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 ## [2026-05-17] note | recipe attribution confirmed
 - updated: recipes/soft-color-universe, recipes/pastel-vibes, recipes/bay-area-fortia, recipes/brians-sepia, recipes/schaller, synthesis/recipe-picker
 - notes: human confirmed all non-web-sourced recipes are self-authored (AI-assisted, hand-tweaked to own style); replaced hedging notes with provenance lines; attribution gap closed
+
+## [2026-05-17] debrief | blue hour campus exterior, Soft Color Universe
+- created: synthesis/debriefs, concepts/blue-hour-mixed-light
+- updated: recipes/soft-color-universe (best_for +blue-hour, first-shoot self note), wiki/index.md
+- next: reshoot blue hour with EV bracketed 0/−1/3/−2/3; composition constraint — one subject, one leading line
