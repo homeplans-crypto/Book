@@ -13,3 +13,6 @@ Fujifilm film simulation modeled on consumer color negative film (Superia lineag
 ## Recipes using this sim
 
 - [[recipes/pastel-vibes]] — soft, cooled, muted-pastel street/everyday look (Highlight −2, Color Chrome Weak, WB R−1).
+- [[recipes/loki]] — high-contrast "inky" harsh-light look (Highlight +4 / Shadow +4, Color Chrome off, WB R+3 B−5). By [[entities/mehdi-berrada]].
+
+Pastel Vibes and Loki bracket this sim's contrast range — same film simulation, opposite intent (minimal vs. maximal contrast).

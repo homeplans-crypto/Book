@@ -13,6 +13,7 @@ Catalog of all wiki pages. Updated on every ingest. Organized by type.
 
 - [[recipes/soft-color-universe]] — Astia/Soft, soft saturated daylight/portrait look (Color +3, Color Chrome Strong, tones −1/−1, Clarity +3). `self`.
 - [[recipes/pastel-vibes]] — Classic Negative, soft muted-pastel street/everyday (Highlight −2, Color Chrome Weak, WB R−1, Clarity +2). `self`.
+- [[recipes/loki]] — Classic Negative, high-contrast "inky" harsh-light look (Highlight +4 / Shadow +4, Color 0, WB R+3 B−5, EV −2/3). Mehdi Berrada.
 
 ## Sources
 
@@ -23,6 +24,7 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 - [[entities/x100vi]] — the camera body all recipes target.
 - [[entities/astia]] — Astia/Soft film simulation.
 - [[entities/classic-negative]] — Classic Negative film simulation.
+- [[entities/mehdi-berrada]] — recipe author (film.recipes).
 
 ## Concepts
 

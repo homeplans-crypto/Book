@@ -20,3 +20,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: recipes/pastel-vibes, entities/classic-negative
 - updated: entities/x100vi, wiki/index.md
 - notes: Classic Negative soft muted-pastel street/everyday; self-sourced (author flagged); sibling of soft-color-universe (soft Color +3 family)
+
+## [2026-05-17] recipe | Loki
+- created: recipes/loki, entities/mehdi-berrada
+- updated: entities/classic-negative, entities/x100vi, wiki/index.md
+- notes: Mehdi Berrada (film.recipes), high-contrast "inky" harsh-light Classic Neg; orig. X100V — flagged X-Trans 5 caveat; contrast counterpart of pastel-vibes; web-fetched to confirm EV −2/3 + intended look
