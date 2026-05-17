@@ -45,3 +45,11 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: recipes/schaller, entities/acros, entities/schaller (stub)
 - updated: entities/x100vi, wiki/index.md
 - notes: ACROS+R dramatic daytime B&W; self-sourced tribute (not by Schaller); EV −2/3 baked-in per user; entities/schaller is a stub pending photographer detail
+
+## [2026-05-17] ingest | Alan Schaller (photographer study)
+- updated: entities/schaller (fleshed out from stub), recipes/schaller
+- notes: web-grounded study; high-contrast minimalist B&W, 35/2 prime = X100VI analog; technique > recipe
+
+## [2026-05-17] query | which recipe for these conditions
+- filed: synthesis/recipe-picker
+- notes: decision guide by light/intent across all 7; flagged gaps (flat-overcast color, X-Trans 5 untested, open attributions)

@@ -33,7 +33,7 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 - [[entities/sepia]] — Sepia toned-monochrome film simulation.
 - [[entities/acros]] — ACROS premium monochrome film simulation.
 - [[entities/mehdi-berrada]] — recipe author (film.recipes).
-- [[entities/schaller]] — photographer (stub; tribute subject of recipes/schaller).
+- [[entities/schaller]] — Alan Schaller, high-contrast B&W street photographer (tribute subject of recipes/schaller).
 
 ## Concepts
 
@@ -41,4 +41,4 @@ _No concept pages yet. Will cover photography technique: composition, exposure, 
 
 ## Synthesis
 
-_No synthesis pages yet. Shoot debriefs and recipe comparisons land here._
+- [[synthesis/recipe-picker]] — "which recipe for these conditions?" decision guide across all 7 recipes.

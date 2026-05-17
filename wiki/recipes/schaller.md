@@ -20,7 +20,7 @@ clarity: +3
 noise_reduction: -3
 iso: "Auto"           # not shown in source; set per scene
 exposure_comp: "-2/3" # baked-in intent: underexpose 2/3 in daytime
-best_for: [monochrome, high-contrast, street, harsh-sun]
+best_for: [monochrome, high-contrast, street, harsh-sun, geometry]
 tags: [recipe, acros, monochrome]
 ---
 
@@ -31,5 +31,7 @@ A dramatic [[entities/acros]] black-and-white with a red filter — the wiki's p
 > Self note 2026-05-17: not yet shot — debrief after first use; check Shadow +4 doesn't block up midtones on X-Trans 5.
 
 Pairs with [[recipes/brians-sepia]] as the wiki's monochrome set: Schaller is fine-grained ACROS + red-filter drama; Brian's Sepia is warm-toned and harder-edged. Both share the gritty Clarity +3 / deep-shadow formula seen in [[recipes/loki]].
+
+The look chases [[entities/schaller|Alan Schaller]]'s high-contrast minimalist B&W. Key for actually getting there: the recipe is the small part. Shoot it in hard directional light, expose for the highlights (the EV −2/3 helps), and compose for negative space and geometry, not just a subject. The X100VI's 35mm-equiv f/2 lens matches his Leica setup — the constraint is deliberate, lean into it.
 
 Filed from camera settings (CUSTOM 7: −2/3 SCHALLER), self-sourced tribute. `author: self`.
