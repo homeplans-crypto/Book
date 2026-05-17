@@ -2,7 +2,7 @@
 type: synthesis
 created: 2026-05-17
 updated: 2026-05-17
-sources: [sources/schaller-night-shooting]
+sources: [sources/schaller-night-shooting, sources/schaller-composition]
 tags: [synthesis, schaller, technique, repository, living]
 ---
 
@@ -12,13 +12,16 @@ A **living, growing repository** of [[entities/schaller|Alan Schaller]]'s own te
 
 **How to add a video:** (1) ingest the transcript as a `sources/schaller-<slug>.md` page (summary + citable claims); (2) add a legend tag below; (3) file its discrete details under the stable sections here as terse bullets, each tagged with the source. Don't rewrite prior bullets — add, and flag contradictions inline (keep both).
 
-**Source legend:** `[NS]` = [[sources/schaller-night-shooting]] (night shooting, London).
+**Source legend:** `[NS]` = [[sources/schaller-night-shooting]] (night shooting, London); `[CO]` = [[sources/schaller-composition]] (composition walkthrough).
 
 ## Philosophy & vision
 
 - Black-and-white **only**, categorically — refuses color even hypothetically. `[NS]`
 - **Light is the subject / the glue** that ties a picture together — a subject of its own; bad light = a missing essential. `[NS]`
 - Drawn to **isolation** — single subjects, couples, small groups, quiet moments over mayhem. `[NS]`
+- **Composition is not formulaic** — like camera settings, it varies with what you need; **distrust anyone who states composition rules as definite** ("it doesn't exist"). `[CO]`
+- **Shoot with intention** — "what am I trying to do here?" Random walk-and-shoot "is not photography"; *"photography is making order out of your environment with a camera."* `[CO]`
+- Named composition influences (no entity pages until they recur / are asked): Ansel Adams, Bill Brandt, Steve McCurry, **Fan Ho** ("one of my biggest inspirations"), Cecil Beaton, Sebastião Salgado. `[CO]`
 
 ## Gear
 
@@ -43,6 +46,14 @@ A **living, growing repository** of [[entities/schaller|Alan Schaller]]'s own te
 - Wait for the subject to be **under a light**; expose for the highlights, let contrast/negative space be "there." `[NS]`
 - **Backlight + heavy negative space**; subject small, "swallowed." `[NS]`
 - 24mm **vanishing-point "corridor"** framing. `[NS]`
+- **Trimming the fat** — *the* most important rule, any style: "leave the essentials and **not one pixel more**." Excess that doesn't aid the story is damage. `[CO]`
+- **Rule of thirds** — 2/3 open, 1/3 a concentrated viewpoint (golden-ratio/natural-spiral); decide what matters most, place it on the third. `[CO]`
+- **Leading lines** funnel the eye to the subject; **light & tone are the sidekick** — in B&W the subject must sit in good light or the lines just distract. `[CO]`
+- **Center of frame** = power (battlefield/chessboard/Louvre) — but still must find harmony with everything else. `[CO]`
+- **Framing & subframing** — find the "box within the frame" (a light, arch, structure); position so lines run into the frame edge into that subframe. `[CO]`
+- **Balance / unorthodox frames** work when elements connect (different scale, joined by a line) — *"gear doesn't matter; it's ideas, intent, execution; composition is a vessel for the idea."* `[CO]`
+- **Use the environment** — "full license to use the world": **symmetry, repetition, geometry** (the Oculus; glass for a split aspect). Not unique to street. `[CO]`
+- **Get it right in person, not by cropping** — "nothing beats being in the right place"; use the whole frame; crop only to fine-tune. `[CO]`
 
 ## Night shooting
 
@@ -54,10 +65,15 @@ A **living, growing repository** of [[entities/schaller|Alan Schaller]]'s own te
 
 - Patience + planning + **pre-visualize the ideal frame**; set up camp and wait. `[NS]`
 - **Ears guide you** — no music while shooting (you hear a subject before you see them). `[NS]`
+- **Be decisive at the moment of shooting** — composition is a conceptual idea + the confidence to execute it; know what you want in the frame. `[CO]`
+- **Plan the spot, then adapt** — pick your area/subframe, wait, and adjust to whoever actually walks in: *"hope for the best, be quick and able to adapt."* `[CO]`
 
 ## Translating to the X100VI / our JPEG practice (caveats — load-bearing)
 
 - His **EV ≈ −2** is on a RAW Monochrom he boosts in post; our [[recipes/schaller|Schaller Dark]] bakes **EV −2/3 into a JPEG** that can't lift shadows as far. *Same principle, different magnitude — don't chase his −2 literally on the X100VI.* `[NS]`
 - His **ISO 20,000** frame held *because it's a dedicated Monochrom sensor*. The X100VI is not — this does **not** close the wiki's open high-ISO-night NR gap and must not be cited as if it does. `[NS]`
 - Gear gap: his 24/50mm vs the X100VI's fixed **35mm-equiv f/2** — the focal-length discipline differs; the *seeing* (light, negative space, patience) transfers, the kit does not.
-- Net: this repository corroborates that the underexpose-for-highlights + considered-light precondition behind Schaller Dark/Luminous is **Schaller's own deliberate method**, not just our inference. See [[concepts/condition-dependent-recipes]].
+- **Grid lines transfer directly** — he relies on the camera 3×3 grid (esp. ultra-wide); the X100VI has the same overlay. Cheap, immediate adoption. `[CO]`
+- **Composition principles transfer fully; focal-length tricks don't** — rule of thirds, trimming the fat, subframing, leading lines, symmetry all carry over, but the 16mm angled-up distortion and 24mm "corridor" are lens-specific. On a fixed 35mm-equiv, get the effect by *position*, not focal length. `[CO]` `[NS]`
+- "Boost the subject a tiny bit in post" recurs (`[CO]`, `[NS]`) — same theme as the recipes: the in-camera frame/JPEG is the base, post finishes it; the recipe is the small part.
+- Net: this repository corroborates that the underexpose-for-highlights + considered-light precondition behind Schaller Dark/Luminous is **Schaller's own deliberate method**, not just our inference; and that composition — already the wiki's identified lever — is, in his words, *the* skill ("not one pixel more"). See [[concepts/condition-dependent-recipes]] and [[concepts/composition-and-subtraction]].

@@ -2,7 +2,7 @@
 type: concept
 created: 2026-05-17
 updated: 2026-05-17
-sources: [synthesis/debriefs]
+sources: [synthesis/debriefs, sources/schaller-composition]
 tags: [concept, technique, composition]
 ---
 
@@ -17,6 +17,8 @@ The recurring weak point across early debriefs is not the recipe — it's **too 
 - **Watch the edges.** Large near-black masses (a tree trunk, a wall) on the frame edge are dead weight unless they read as *deliberate* silhouette framing — and then they must be a clean shape, not mud.
 - **Subtract distractions.** Power lines, signage, secondary buildings — if they don't serve the subject, recompose or change position to lose them.
 - **Negative space is a tool, not a gap.** Per [[entities/schaller|Alan Schaller]]: let the subject breathe; emptiness can carry the image. This is the same lesson whether the shot is color or B&W.
+- **Subframing.** Find the "box within the frame" — a light, arch, doorway, structural gap — and place the subject inside it; position so lines run into the frame edge toward that subframe. Per Schaller ([[sources/schaller-composition]], [[synthesis/schaller-technique]]). A concrete, drill-able extension of "one subject, clean edges."
+- **Leading lines need light (in B&W).** A line only works if the subject it points to sits in good tone — otherwise the eye is funnelled into mud. Per Schaller `[CO]`.
 
 ## Observations (dated, first-class)
 
@@ -33,6 +35,8 @@ The recurring weak point across early debriefs is not the recipe — it's **too 
 > Recurring 2026-05-17 ([[synthesis/debriefs]], frames 5042/5146/5150/5151): a large blown white **overcast sky** has now diluted multiple frames — a *consistent* identified weakness, not isolated. Standing fix: in flat overcast, angle down and crop so texture/subject fills the frame and the dead sky is minimized or excluded.
 
 > Context 2026-05-17 ([[synthesis/photographer-profile]]): the photographer has an **architectural background** and sees structurally (geometry, line, negative space). This explains why the subtraction/Schaller lessons landed fast — it is a native mode, not a new skill. Lean into it: structural seeing is a strength to push, not a gap to close.
+
+> External corroboration 2026-05-17 ([[sources/schaller-composition]], [[synthesis/schaller-technique]]): this concept *is* Schaller's own #1 rule, in his words — **"trimming the fat… leave the essentials and not one pixel more."** Adds vocabulary: composition is not formulaic (distrust "definite" rules); shoot with **intention** ("what am I trying to do here?"); **get it right in person, not by cropping**; **subframing** and **leading-lines-need-light** (now in Principles). The wiki's central lever is validated by the author the recipes are built around — the recipe is the small part; this is the work.
 
 ## Drill
 

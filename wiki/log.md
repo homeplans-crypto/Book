@@ -177,3 +177,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: sources/schaller-night-shooting, synthesis/schaller-technique
 - updated: entities/schaller, recipes/schaller, concepts/condition-dependent-recipes, wiki/index.md
 - notes: started a LIVING Schaller technique repository (populate from future video transcripts; legend [NS]). Author-confirms Schaller Dark's underexpose-for-highlights / EV −2/3 (he shoots ≈ −2, RAW+post — magnitude caveat vs our JPEG −2/3); ISO 20k flagged Monochrom-only (does NOT close the open high-ISO-night gap); new night nugget — wet pavement = highlight bursts
+
+## [2026-05-17] ingest | Alan Schaller — composition video (transcript)
+- created: sources/schaller-composition
+- updated: synthesis/schaller-technique (legend [CO]; Composition/Philosophy/Process/X100VI sections), concepts/composition-and-subtraction (subframing + leading-lines-need-light principles, Schaller corroboration), wiki/index.md
+- notes: 2nd video into the living repository. Schaller's #1 rule = "trimming the fat, not one pixel more" — direct corroboration of the wiki's central composition lever. New drill-able principles: subframing, leading-lines-need-light, get-it-in-camera-not-crop, shoot-with-intention. Grid lines transfer directly to X100VI; focal-length tricks (16/24mm) don't — use position. No new entity pages (named influences Fan Ho/Adams/etc. recorded, created only if they recur/asked)
