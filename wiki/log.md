@@ -72,3 +72,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: recipes/pastel-vibes (best_for retuned, self notes + A/B + preference), recipes/soft-color-universe (A/B note), entities/classic-negative, synthesis/debriefs, synthesis/recipe-picker, concepts/blue-hour-mixed-light, wiki/index.md
 - notes: same-scene A/B vs SCU (Pastel Vibes cooler/flatter); needs scene structure or over-softens; not the flat-light pick; deprioritized by taste; composition failure pattern established → new concept page
 - next: reframe pond scene to one subject + clean edges (exclude foreground trunk, minimize power lines)
+
+## [2026-05-17] debrief | Loki reference-location A/B + grass
+- updated: recipes/loki (X-Trans 5 caveat resolved, best_for widened, self notes), entities/mehdi-berrada, synthesis/debriefs, synthesis/recipe-picker, concepts/composition-and-subtraction, concepts/blue-hour-mixed-light
+- notes: X-Trans 5 transfer RESOLVED (Loki intact on X100VI); Loki = tonal/near-B&W, erases blue hour; domain = contrast+texture+directional light (widened from harsh-sun); composition progress noted (tightest reference frame yet)
+- next: hunt raking/directional light on texture (grass frame = template); pre-decide bloom-as-look vs mistake; keep tighter framing

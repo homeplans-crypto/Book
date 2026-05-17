@@ -12,6 +12,23 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Loki: reference-location A/B + grass · [[recipes/loki]]
+
+**Conditions:** (1) Same campus blue-hour reference scene (3rd recipe in the controlled same-spot series, after SCU & Pastel Vibes). (2) Ornamental grass clump, raking directional light, dark mulch background. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**X-Trans 5 caveat — RESOLVED:** Loki (built for X100V / X-Trans 4) **transfers cleanly to the X100VI**; the look is intact. It is not broken on the newer sensor. One data point that Berrada recipes carry over → see [[entities/mehdi-berrada]]. The limitations are the recipe's design, not the sensor.
+
+**Findings:**
+- **3-way A/B (same scene):** SCU = rich cobalt sky, warm pop. Pastel Vibes = cool, muted, flatter. **Loki = warm, dark, high-contrast, near-monochrome** — Color 0 + WB R+3 B−5 + Shadow +4 *erase the blue-hour palette* and convert dusk into a moody warm low-key image. It's a tonal recipe wearing color, closer to the B&W cluster than the color one.
+- **DR100 + Highlight +4 clips hard.** Bare lamps blow out and halate heavily at blue hour — accept as part of the look or keep bright point sources out of frame.
+- **Excels in its element (frame 2).** Raking light + fine texture (grass) + dark ground = isolation, grit, drama. Confirms Loki's domain is **contrast + texture + directional light**, not narrowly "harsh sun." `best_for` widened. Watch Sharpness +3 / Clarity +3 + NR −4 on high-frequency detail in low light (mild over-crunch / shadow-noise risk — acceptable here).
+
+**Composition — progress noted:** Frame 1 is the **tightest, most committed** version of the reference scene yet (vs. SCU's three-subject sprawl and Pastel Vibes' edge intrusions). The subtraction drill is landing — Loki's crushed blacks also *help* by removing clutter. Frame 2 isolates its subject cleanly via the dark background. Minor residual: a bright lower-left sidewalk patch in frame 1. See [[concepts/composition-and-subtraction]].
+
+**Drill next:** Lean into Loki's real domain — hunt **raking/directional light on texture** (frame 2 is the template), not blue-hour cityscapes. When bright point sources are unavoidable, decide *before* the shot whether the bloom is the look or a mistake. Keep the tighter framing — it's working.
+
+---
+
 ## 2026-05-17 — Pastel Vibes A/B + second location · [[recipes/pastel-vibes]]
 
 **Conditions:** (1) Same campus blue-hour scene as the Soft Color Universe debrief — controlled A/B. (2) Second location: pond + lit fountain at deeper blue hour, flatter ambient light, two buildings, reflections. Images reviewed from chat — *not filed to `raw/assets/`*.

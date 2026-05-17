@@ -23,6 +23,8 @@ The window after sunset when the sky still holds saturated blue while artificial
 
 > Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/pastel-vibes]]): same scene in a Classic Neg recipe was cooler/more muted than the Astia one — **film-sim choice sets blue-hour sky impact** (Astia + Color Chrome Strong > Classic Neg + Weak for a vivid sky). Also: soft/low-contrast recipes need scene structure (point/directional light, texture) at blue hour — in genuinely flat light they go limp. Pick the recipe to the light's structure, not just the hour.
 
+> Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/loki]]): high-contrast, low-saturation recipes (Color 0, deep tone curve, warm WB) **erase the blue entirely** and convert dusk into a warm dark low-key image. Valid as a deliberate choice, but it is *not* a blue-hour rendering. For the blue-hour palette, choose a color-forward soft recipe; reserve the tonal recipes for when you want to discard the blue on purpose.
+
 ## Open questions
 
 - Where does NR −4 break down as ISO climbs in real night shooting? (untested)
