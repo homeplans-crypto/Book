@@ -148,6 +148,20 @@ When the human asks for a health check:
 
 Report findings; don't auto-fix structural issues without confirmation.
 
+### Roster review
+
+Decides which of the 7 X100VI camera custom slots to **keep, update, or swap**. Run on request, and suggest it after every ~3 new debriefs or the first debrief of a new shooting condition. The living scorecard is `wiki/synthesis/recipe-roster-review.md`.
+
+1. Read the inputs: `synthesis/photographer-profile`, `synthesis/reference-matrix`, `synthesis/recipe-picker`, `synthesis/debriefs`, `concepts/condition-dependent-recipes`, and each `recipes/*.md` (`best_for` + dated self-notes).
+2. Score each slot 1–5 on: **practice alignment**, **earned evidence**, **distinctiveness**, **reliability** (portable, or condition-dependent with a precondition that actually occurs in practice), **aesthetic fit**. Every score must trace to a citable wiki line — no unsupported claims.
+3. Assign each slot a disposition:
+   - **KEEP** — high practice alignment + distinct earned strength + (portable OR precondition reliably occurs).
+   - **UPDATE** — right role, fixable known limit or `best_for`/notes need retuning.
+   - **SWAP** — redundant with a kept recipe, and/or taste-rejected, and/or precondition rarely occurs; a practice-aligned candidate would serve better.
+4. Maintain the swap-candidate backlog (practice-aligned recipes to trial for any freed slot).
+5. **Hard guardrail:** never update or swap a camera slot on theory. Every UPDATE/SWAP must first be validated by a controlled comparison (reference-location matrix or single-subject A/B vs. the incumbent), filed as a normal `debrief`, *then* committed to the camera. The review only *proposes* and queues the A/B.
+6. Rewrite `wiki/synthesis/recipe-roster-review.md` (it is living synthesis, not append-only): updated scorecard, dispositions, backlog, and a dated decisions subsection. Append a `roster` entry to `wiki/log.md`.
+
 ## Log format
 
 Append to `wiki/log.md`. Consistent prefix so `grep "^## \[" wiki/log.md` works:
@@ -169,6 +183,11 @@ Append to `wiki/log.md`. Consistent prefix so `grep "^## \[" wiki/log.md` works:
 
 ## [YYYY-MM-DD] query | <short question>
 - filed: synthesis/<slug>  (if filed back)
+
+## [YYYY-MM-DD] roster | <one-line disposition summary>
+- updated: synthesis/recipe-roster-review
+- swap: <slot/recipe → candidate, if any> | queued A/B: <test>
+- notes: <keep/update/swap counts, one line>
 
 ## [YYYY-MM-DD] lint
 - <short summary of findings>

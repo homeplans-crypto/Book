@@ -130,3 +130,9 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: recipes/schaller (best_for widened, self notes, X-Trans 5 resolved), entities/schaller (payoff confirmed), entities/acros, synthesis/debriefs, synthesis/recipe-picker, concepts/composition-and-subtraction, wiki/index.md
 - notes: MILESTONE — all 7 recipes shot from one vantage; matrix consolidated. Schaller delivers the Alan Schaller aesthetic (Soundstage frame); works at night; clean fine detail at Sharpness 0; mono-for-problematic-color rule; composition leveled up (resist clutter in complex scenes). X-Trans 5 fully closed.
 - next: chase the Soundstage standard in busy scenes; outstanding — Fortia gray/rain frames, smooth-skin portrait test
+
+## [2026-05-17] roster | first review — 6 keep, 1 swap (Pastel Vibes)
+- created: synthesis/recipe-roster-review
+- updated: CLAUDE.md (Roster review workflow + roster log type), wiki/index.md
+- swap: slot 2 Pastel Vibes → sunrise recipe (or Classic Chrome) | queued A/B: candidate + Pastel Vibes + SCU on one sunrise/street scene
+- notes: SCU/Loki/Brian's Sepia/Schaller KEEP; Junichiro KEEP-watch (#2 swap candidate, twins Loki); Bay Area Fortia KEEP-re-evaluate (track gray/rain frequency); no camera change until queued A/B filed as a debrief
