@@ -12,6 +12,20 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Brian's Sepia adult-male portrait, two EV · [[recipes/brians-sepia]]
+
+**Conditions:** Mirror self-portrait, characterful adult male (glasses, beard, normal skin texture), indoor, two exposures. Framed as a recipe proof-of-concept, not a composition piece. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**Finding — the recipe holds for adult faces.** Clarity +3 / Sharpness +3 + warm sepia rendered the face honestly and flatteringly-enough; male portraiture tolerates/benefits from texture, so it reads as character, not harshness. Extends Brian's Sepia past "elderly heirloom" to **general adult faces**. The smooth-skin/young inverse remains the *only* untested portrait case — not closed here (this subject isn't smooth-skinned).
+
+**New technique — EV is the flattery dial.** The two-EV pair is the real value: with this high-Clarity recipe, **brighter exposure softens skin / de-emphasizes texture; slightly darker models the face with more character.** Tune portrait flattery with exposure before reaching for a different recipe. Filed to [[concepts/portraits-and-skin-rendering]].
+
+**Composition (minor, per the proof-of-concept framing):** clean curtain backdrop, the framed print as personal context (works like the elderly subject's figurines); small lamp hotspot top-center. Mirror-selfie format is deliberate and reads fine.
+
+**Drill next:** the lone open thread is unchanged — a **smooth-skin / younger subject** with a soft recipe (SCU) to confirm the texture inverse; ideally an SCU-vs-Brian's-Sepia same-face A/B.
+
+---
+
 ## 2026-05-17 — Fern-shade matrix: 7 recipes, one subject, flat porch shade
 
 **Conditions:** Boston fern on a porch in flat shade (current overcast), all 7 recipes, camera-slot order: **5153 SCU · 5154 Pastel Vibes · 5155 Loki · 5156 Junichiro · 5157 Bay Area Fortia · 5158 Brian's Sepia · 5159 Schaller**. Full-size reviewed: 5153, 5157, 5158, 5159 (+ photographer's notes on 5155/5158). Images reviewed from chat — *not filed to `raw/assets/`*. A new controlled single-subject reference set complementing the night reference-location matrix and the gray-overcast A/B.

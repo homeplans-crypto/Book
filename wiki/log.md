@@ -95,6 +95,11 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - notes: modern/clean (no-grain) Sepia = versatile default toned-mono "as long as there's light"; first portrait — Clarity/Sharpness +3 flatters characterful/aged faces, harms smooth skin; Shadow +3 X-Trans 5 resolved; only Schaller now untested
 - next: test soft recipe on smooth-skin subject; SCU-vs-Brian's-Sepia face A/B; shoot Schaller at reference spot to complete the 7-recipe matrix
 
+## [2026-05-17] debrief | Brian's Sepia adult-male portrait, two EV
+- updated: recipes/brians-sepia, concepts/portraits-and-skin-rendering, synthesis/debriefs, synthesis/recipe-picker
+- notes: recipe holds for general adult-male faces (extends past elderly); new principle — EV is the portrait flattery dial (brighter softens, darker models); smooth/young-skin inverse still the only open portrait case
+- next: smooth-skin/younger subject + SCU-vs-Sepia same-face A/B
+
 ## [2026-05-17] debrief | fern-shade matrix (5153–5159), one subject 7 recipes
 - created: concepts/condition-dependent-recipes
 - updated: recipes/loki, recipes/schaller (condition-dependent self notes), recipes/bay-area-fortia, recipes/soft-color-universe, recipes/brians-sepia, synthesis/debriefs, synthesis/recipe-picker, concepts/saturation-in-flat-light, wiki/index.md

@@ -36,6 +36,8 @@ The wiki's first toned-monochrome recipe — [[entities/sepia]] pushed hard: Hig
 
 > Self note 2026-05-17 (portrait): excellent on a **characterful / aged face** in soft window light — Clarity +3 + Sharpness +3 render skin texture as *character*, and the sepia tone reads timeless/heirloom. Inverse caveat: that same Clarity/Sharpness would exaggerate pores/lines on **smooth-skin beauty portraits** — pick a softer recipe there. The wiki's first monochrome portrait option, conditional on face type. See [[concepts/portraits-and-skin-rendering]].
 
+> Self note 2026-05-17 (adult-male portrait, mirror, two EV — [[synthesis/debriefs]]): **it holds.** On a characterful adult male face (glasses, beard, normal skin texture) the warm sepia + Clarity/Sharpness reads honest and flattering-enough — male portraiture tolerates/benefits from texture. Confirms the recipe extends beyond "elderly heirloom" to general adult faces; the smooth/young-skin inverse is still the only untested case. **New: EV is the flattery dial here** — brighter exposure softens skin and lowers texture emphasis; slightly darker models the face with more character. Use exposure, not a recipe change, to tune portrait softness.
+
 Tonally a monochrome cousin of [[recipes/loki]] — same gritty high-contrast formula (Clarity +3, Sharpness +3, WB R+3 B−5, deep tone curve), just toned instead of color.
 
 Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 6. The name is personal, not a published creator's recipe. `author: self` (confirmed 2026-05-17).
