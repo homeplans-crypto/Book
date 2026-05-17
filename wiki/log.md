@@ -35,3 +35,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: recipes/bay-area-fortia, entities/velvia
 - updated: entities/x100vi, wiki/index.md
 - notes: Velvia/Vivid max-saturation landscape look; self-sourced (author flagged — likely a published Fortia recipe); saturation counterpart of junichiro
+
+## [2026-05-17] recipe | Brian's Sepia
+- created: recipes/brians-sepia, entities/sepia
+- updated: entities/x100vi, wiki/index.md
+- notes: first toned-monochrome recipe; gritty high-contrast Sepia; self-sourced (author flagged); monochrome cousin of loki (shared gritty formula)
