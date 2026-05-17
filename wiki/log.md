@@ -30,3 +30,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: recipes/junichiro, entities/pro-neg-hi
 - updated: entities/mehdi-berrada, entities/x100vi, wiki/index.md
 - notes: Mehdi Berrada (film.recipes), dark faded desaturated PRO Neg. Hi; EV −2/3; orig. X100V caveat; companion to loki (Berrada deep-tone family)
+
+## [2026-05-17] recipe | Bay Area Fortia
+- created: recipes/bay-area-fortia, entities/velvia
+- updated: entities/x100vi, wiki/index.md
+- notes: Velvia/Vivid max-saturation landscape look; self-sourced (author flagged — likely a published Fortia recipe); saturation counterpart of junichiro
