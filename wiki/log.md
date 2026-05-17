@@ -15,3 +15,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: recipes/soft-color-universe, entities/astia, entities/x100vi
 - updated: wiki/index.md
 - notes: Astia/Soft soft saturated daylight/portrait look; self-sourced (author flagged for confirmation); first recipe filed, no peers to compare yet
+
+## [2026-05-17] recipe | Pastel Vibes
+- created: recipes/pastel-vibes, entities/classic-negative
+- updated: entities/x100vi, wiki/index.md
+- notes: Classic Negative soft muted-pastel street/everyday; self-sourced (author flagged); sibling of soft-color-universe (soft Color +3 family)
