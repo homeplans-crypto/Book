@@ -45,6 +45,7 @@ _No sources ingested yet. Drop files into `raw/` and ask Claude to ingest._
 
 ## Synthesis
 
+- [[synthesis/photographer-profile]] — the human's practice, conditions, subjects, and per-recipe intent. Read first.
 - [[synthesis/recipe-picker]] — "which recipe for these conditions?" decision guide across all 7 recipes.
 - [[synthesis/reference-matrix]] — all 7 recipes on one fixed scene; the controlled comparison consolidated.
 - [[synthesis/debriefs]] — running reverse-chronological shoot debriefs (the skill loop).

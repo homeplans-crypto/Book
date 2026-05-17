@@ -32,6 +32,8 @@ A high-contrast, "inky" [[entities/classic-negative]] look by [[entities/mehdi-b
 
 > Self note 2026-05-17 (fern-shade matrix, frame 5155, [[synthesis/debriefs]]): the photographer's own words — "an over exposed (for it) Loki." In flat porch shade at normal exposure (no hard light, no EV −2/3), Loki **collapses** — no shadows to crush, no underexposure to deepen blacks → a flat, generic rendering with none of its identity. **The EV −2/3 + hard directional light is load-bearing, not optional seasoning.** Loki is a condition-dependent *tool*, not a portable look. See [[concepts/condition-dependent-recipes]].
 
+> Self note 2026-05-17 (purpose, [[synthesis/photographer-profile]]): **this is the real reason Loki is on the camera** — the photographer loves shooting *light on objects at night*. That subject inherently supplies hard light against dark, so Loki's condition-dependence is a non-issue here: it is purpose-built for the photographer's signature subject, not a general-use recipe.
+
 Contrast counterpart to [[recipes/pastel-vibes]] — both Classic Negative, opposite intent: Loki maximizes contrast/grit, Pastel Vibes minimizes it.
 
 Source: Mehdi Berrada via film.recipes — https://film.recipes/2023/05/29/loki-by-mehdi-berrada/ . No raw article ingested; cited inline per schema.

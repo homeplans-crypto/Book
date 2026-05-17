@@ -95,6 +95,11 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - notes: modern/clean (no-grain) Sepia = versatile default toned-mono "as long as there's light"; first portrait — Clarity/Sharpness +3 flatters characterful/aged faces, harms smooth skin; Shadow +3 X-Trans 5 resolved; only Schaller now untested
 - next: test soft recipe on smooth-skin subject; SCU-vs-Brian's-Sepia face A/B; shoot Schaller at reference spot to complete the 7-recipe matrix
 
+## [2026-05-17] note | photographer profile filed
+- created: synthesis/photographer-profile
+- updated: synthesis/recipe-picker, recipes/loki (purpose), recipes/soft-color-universe (vacation default), wiki/index.md
+- notes: outdoor nature/quiet streets, night & sunrise, people rarely, vacations need reliable color; Loki's real purpose = light-on-objects-at-night (condition-dependence moot for that subject); portrait gap low-priority; sunrise flagged as future condition
+
 ## [2026-05-17] note | usage model — SCU primary, others specialty/support
 - updated: synthesis/recipe-picker, synthesis/reference-matrix, recipes/soft-color-universe, recipes/schaller
 - notes: photographer's own framing — Soft Color Universe is the primary daily driver; all others specialty/support deployed around it; Schaller primarily architectural. Encoded as the top-level usage model + Schaller best_for reordered (architecture first)

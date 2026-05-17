@@ -18,6 +18,8 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 
 Read the tables below as "when to step *off* the primary," not as seven equals.
 
+**Practice context** ([[synthesis/photographer-profile]]): mostly outdoor nature / quiet streets, shot **at night or around sunrise**; people rarely; vacations need reliable color (→ SCU). Weight recommendations toward low-light/night/sunrise; the portrait gap is low-priority. [[recipes/loki]] is on the camera specifically for *light on objects at night*.
+
 ## By light
 
 | Light | Color | Black & white |

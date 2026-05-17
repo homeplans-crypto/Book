@@ -30,7 +30,7 @@ A soft, saturated-but-gentle color look. [[entities/astia]] base with both tone 
 
 > Self note 2026-05-17 (cross-test): across wider field testing this recipe **holds up in most lighting**, not just its strongest conditions. Treat it as the **versatile default / safe everyday color recipe** — reach for the specialized recipes when you want a specific *look*, not because Soft Color Universe fails. `versatile` added to `best_for`.
 
-> Self note 2026-05-17 (usage model): **this is the photographer's designated PRIMARY recipe** — the daily driver. Every other recipe is specialty or support, deployed around this one, not a co-equal alternative. The decision is always "is there a reason to step off SCU," not "which of seven."
+> Self note 2026-05-17 (usage model): **this is the photographer's designated PRIMARY recipe** — the daily driver. Every other recipe is specialty or support, deployed around this one, not a co-equal alternative. The decision is always "is there a reason to step off SCU," not "which of seven." Also the **vacation/travel default** — the reliable do-anything color recipe for unknown conditions ([[synthesis/photographer-profile]]).
 
 > A/B 2026-05-17 (vs [[recipes/pastel-vibes]], same campus blue-hour scene): SCU's Astia + Color Chrome Strong + FX Blue Weak produced a **richer, deeper sky and more pop**; Pastel Vibes (Classic Neg) of the identical scene was more muted, cooler, flatter. Reinforces SCU as the higher-impact default; Pastel Vibes is the choice only when you specifically want restraint.
 
