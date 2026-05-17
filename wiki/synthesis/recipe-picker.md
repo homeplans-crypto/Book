@@ -8,7 +8,7 @@ tags: [synthesis, recipe-picker, decision-guide]
 
 # Which recipe for these conditions?
 
-Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **light first**, then intent. All recipes are JPEG / Adobe RGB (export sRGB for web). Partially field-tested (see [[synthesis/debriefs]]) — Soft Color Universe, Pastel Vibes, Loki, Junichiro, and Bay Area Fortia are now experience-based (Fortia's gray/rain strength asserted from experience, dedicated sample frames pending); Brian's Sepia and Schaller still by formula.
+Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **light first**, then intent. All recipes are JPEG / Adobe RGB (export sRGB for web). Mostly field-tested (see [[synthesis/debriefs]]) — all recipes now experience-based **except [[recipes/schaller]]** (still by formula). Fortia's gray/rain strength asserted from experience, dedicated sample frames pending.
 
 ## By light
 
@@ -25,11 +25,13 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 ## By intent
 
 - **Unsure / default color** → [[recipes/soft-color-universe]]. Field-tested to hold up in *most* lighting (2026-05-17 cross-test); the safe everyday choice. Pick a specialized recipe when you want a specific *look*, not because this one fails.
+- **Unsure / default monochrome** → [[recipes/brians-sepia]]. Clean modern Sepia, versatile in any *lit* condition (the mono analog of SCU). Not for low light — the high tone curve needs light.
+- **Portrait, characterful / aged face** → [[recipes/brians-sepia]] (mono, texture = character) or [[recipes/soft-color-universe]] (color, soft). See [[concepts/portraits-and-skin-rendering]].
 - **Punchy & graphic, color** → Loki (hard light) / Bay Area Fortia (saturated subjects).
-- **Soft & flattering, skin** → Soft Color Universe (warm; preferred). Pastel Vibes (cool, muted) also skin-safe but deprioritized by taste. Avoid Velvia/Loki on faces.
+- **Soft & flattering, skin** → Soft Color Universe (warm; preferred) for general/smooth skin. Brian's Sepia for characterful/aged faces in mono (texture = character — *not* smooth skin). Pastel Vibes (cool, muted) skin-safe but deprioritized by taste. Avoid Velvia/Loki on faces. Detail: [[concepts/portraits-and-skin-rendering]].
 - **Dark, cinematic, restrained** → Junichiro.
 - **Dramatic B&W, geometry & negative space** → Schaller (the [[entities/schaller|Alan Schaller]] approach — see that page; the seeing matters more than the recipe).
-- **Toned, gritty B&W** → Brian's Sepia.
+- **Toned B&W, clean/modern** → Brian's Sepia (versatile when lit; reads contemporary, not vintage).
 
 ## Rules of thumb
 
@@ -40,12 +42,14 @@ Decision guide across the 7 custom slots on the [[entities/x100vi]]. Pick by **l
 - **Soft/low-contrast recipes need scene structure.** Pastel Vibes (and soft looks generally) read well only with directional/point light or texture to grip; in genuinely flat light they go mushy. Match recipe softness to the light's structure, not just the time of day.
 - **Film sim sets blue-hour sky impact.** Astia + Color Chrome Strong (SCU) > Classic Neg + Weak (Pastel Vibes) for a vivid sky. Bay Area Fortia (Velvia) beats both for raw sky saturation but looks the least natural.
 - **Velvia amplifies the color already there.** Match it to the *deficit* (gray/rain — it rescues) not the *abundance* (warm artificial/neon — it clips). See [[concepts/saturation-in-flat-light]].
+- **High tone-curve recipes need light.** Brian's Sepia (and the high-Shadow looks) work "as long as there is light" — they are not low-light/dark-scene performers; the curve needs something to render.
+- **Skin recipe follows the face, not just the light.** High Clarity/Sharpness flatters aged/textured faces, harms smooth skin. See [[concepts/portraits-and-skin-rendering]].
 - **Loki & Junichiro are tonal recipes, not color ones.** Both erase color/blue-hour palette; never the blue-hour pick. Split by mood: **Loki = assertive (hard/warm/crushed/crisp); Junichiro = wistful (soft/cool/faded/grainy).** Junichiro handles night point sources better (DR200 + Highlight 0 vs Loki DR100 + Highlight +4).
 - **Loki's domain is contrast + texture + directional light**, broader than "harsh sun." Raking light on texture is its sweet spot; bare point sources blow out hard on DR100.
 
 ## Gaps (worth filling)
 
 - **Flat-overcast gap — likely answered.** [[recipes/bay-area-fortia]] is the field-asserted color-rescue for gray/rain (saturation compensates for color-poor light); [[recipes/soft-color-universe]] remains the *neutral* default; Pastel Vibes is *not* the answer (over-softens). To fully close: file dedicated gray/rain Fortia frames. Gap nearly closed pending those.
-- **X-Trans 5 transfer — both Berrada recipes RESOLVED** (2026-05-17): Loki and Junichiro transfer cleanly, grain fine on 40MP. Remaining untested recipes: Bay Area Fortia, Brian's Sepia, Schaller.
+- **X-Trans 5 transfer — RESOLVED** for Loki, Junichiro (Berrada) and Brian's Sepia (Shadow +3 holds, not over-blocking). Only [[recipes/schaller]] remains unshot.
 
 Attribution resolved 2026-05-17: Loki & Junichiro are Mehdi Berrada (film.recipes); the other five are self-authored (AI-assisted, hand-tweaked to the photographer's style).

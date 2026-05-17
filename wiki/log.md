@@ -88,3 +88,9 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: recipes/bay-area-fortia (best_for +overcast/rain/gray, self notes + contradiction flag), entities/velvia, synthesis/debriefs, synthesis/recipe-picker, concepts/blue-hour-mixed-light, wiki/index.md
 - notes: field finding — raises color in gray, good in rain → likely answer to flat-overcast gap (gap nearly closed pending dedicated gray/rain frames); night warm-artificial over-saturates/clips; most saturated blue-hour sky of series but least natural
 - next: shoot Fortia on purpose in gray/overcast/rain and file those frames; avoid night warm-artificial; remaining at reference spot — Brian's Sepia, Schaller
+
+## [2026-05-17] debrief | Brian's Sepia portrait + reference spot
+- created: concepts/portraits-and-skin-rendering
+- updated: recipes/brians-sepia (best_for widened, self notes, X-Trans 5 resolved), entities/sepia, synthesis/debriefs, synthesis/recipe-picker, concepts/composition-and-subtraction, wiki/index.md
+- notes: modern/clean (no-grain) Sepia = versatile default toned-mono "as long as there's light"; first portrait — Clarity/Sharpness +3 flatters characterful/aged faces, harms smooth skin; Shadow +3 X-Trans 5 resolved; only Schaller now untested
+- next: test soft recipe on smooth-skin subject; SCU-vs-Brian's-Sepia face A/B; shoot Schaller at reference spot to complete the 7-recipe matrix

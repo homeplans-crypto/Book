@@ -13,3 +13,5 @@ Fujifilm film simulation: fixed warm-toned monochrome (no Color control; the Mon
 ## Recipes using this sim
 
 - [[recipes/brians-sepia]] — hard, gritty, high-contrast toned look (Highlight +2 / Shadow +3, Clarity +3, Sharpness +3).
+
+> Self note 2026-05-17 ([[synthesis/debriefs]]): with grain off, Sepia reads **clean and modern** rather than dusty/vintage — a contemporary toned-mono, surprisingly versatile in any lit condition. The warm tone flatters aged/characterful portraits especially.

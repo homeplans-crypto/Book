@@ -12,6 +12,24 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-17 — Brian's Sepia: portrait + reference spot · [[recipes/brians-sepia]]
+
+**Conditions:** (1) Environmental portrait — elderly man, soft window light, indoor. (2) Same campus reference scene, night. First **portrait** in the debrief series. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**Photographer's read (first-class):** "Modern take on Sepia — lack of grain, clean look, works in most conditions as long as there is light." Confirmed → Brian's Sepia is the **versatile default toned-monochrome recipe** (mono analog of [[recipes/soft-color-universe]]). The "as long as there is light" qualifier is the key caveat: the high tone curve (Highlight +2 / Shadow +3) needs adequate light; not a low-light performer.
+
+**Findings:**
+- **Clean, not dusty.** Grain off makes Sepia read contemporary, not vintage-pastiche — a distinct, modern toned look. See [[entities/sepia]].
+- **Strong on a characterful face.** Clarity +3 + Sharpness +3 rendered the aged face's texture as *character*; warm sepia = timeless/heirloom. Wiki's first monochrome portrait option — but conditional: same settings would *harm* smooth-skin beauty subjects. New concept [[concepts/portraits-and-skin-rendering]].
+- **X-Trans 5 / Shadow +3 — RESOLVED.** Deep but holds structure when lit; not over-blocking. Only [[recipes/schaller]] now untested.
+- **Reference frame:** consistent tight framing; reads well because the artificial light gives it the "light" it needs.
+
+**Composition:** the portrait is a competent environmental frame (subject placement, soft backlight from blinds, contextual background) — slight background clutter (figurines/stereo) but reads as the subject's space, not noise. Reinforces the environmental-portrait note in [[concepts/composition-and-subtraction]].
+
+**Drill next:** Shoot a **smooth-skin / younger subject** with a soft recipe (SCU) to confirm the texture inverse, and an SCU-vs-Brian's-Sepia A/B on one face (color vs mono). Last reference-spot recipe: [[recipes/schaller]] — that completes the full 7-recipe matrix.
+
+---
+
 ## 2026-05-17 — Bay Area Fortia: night + reference spot · [[recipes/bay-area-fortia]]
 
 **Conditions:** (1) McKnight Center glass facade at night — warm interior + red/orange cove lighting, balloons. (2) Same campus reference scene, blue hour. Both *out of the recipe's element* (its forte is gray/rain — see below). Images reviewed from chat — *not filed to `raw/assets/`*.

@@ -26,6 +26,8 @@ The recurring weak point across early debriefs is not the recipe — it's **too 
 
 > Progress 2026-05-17 ([[synthesis/debriefs]], [[recipes/loki]]): the 3rd pass at the same reference scene was the **tightest and most committed yet** — fewer competing elements, clearer subject. The drill is landing. (Aside: a high-contrast recipe that crushes blacks can *assist* subtraction by hiding clutter — but framing should do the work, not the recipe.)
 
+> Self note 2026-05-17 ([[synthesis/debriefs]], [[recipes/brians-sepia]]): environmental portrait — the background should *say something* about the subject (their space), not merely fill the frame. Busy ≠ contextual: keep only the objects that characterize. Same subtraction discipline, applied to a portrait. See [[concepts/portraits-and-skin-rendering]].
+
 ## Drill
 
 Before pressing the shutter: name the subject in three words; identify what's fighting it; move or reframe to remove one distraction. Repeat until the frame is about one thing.
