@@ -201,3 +201,7 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 ## [2026-05-18] note | photographer admires Mehdi Berrada (recipes + architecture)
 - updated: synthesis/photographer-profile, entities/mehdi-berrada
 - notes: first-class preference on record — Berrada added as an admired influence alongside Schaller/Binet. Flagged nuance (keep both): does NOT reverse the Junichiro retirement (taste call stands); Loki remains the on-roster Berrada recipe; revisit Junichiro only on explicit request
+
+## [2026-05-18] note | Junichiro kept saved off-camera (status precision)
+- updated: recipes/junichiro, synthesis/recipe-roster-review
+- notes: owner clarified Junichiro is retained off-camera (recallable), not discarded — retirement was slot-economy/taste, access doesn't depend on a slot; slot reinstatement remains a separate, explicit-request decision

@@ -36,4 +36,6 @@ Companion to [[recipes/loki]] — both Berrada, both EV −2/3 deep/dark looks. 
 
 > Self note 2026-05-17 (roster — **retired from camera**): removed from the camera in the committed roster reconciliation. Reason: identity (soft, faded, **grainy**, melancholic, film-like) runs counter to the photographer's stated aesthetic (no grain / no film mimicry / museum-quality) and it twins [[recipes/loki]]'s Berrada family (low distinctiveness). Page kept for history; **not deleted** — re-trial only if a debrief shows a real gap. See [[synthesis/recipe-roster-review]].
 
+> Self note 2026-05-18 (status precision): the owner **keeps Junichiro saved off-camera** (recallable), not discarded — retirement was a slot-economy / taste call, not a rejection of the recipe (consistent with admiring [[entities/mehdi-berrada|Berrada]]'s work). Access does **not** depend on a camera slot; reinstating it to a CUSTOM slot is a separate decision, only on explicit request.
+
 Source: Mehdi Berrada via film.recipes — https://film.recipes/2023/05/29/junichiro-by-mehdi-berrada/ . No raw article ingested; cited inline per schema.

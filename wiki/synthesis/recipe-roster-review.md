@@ -41,7 +41,7 @@ Evidence scores of 1 (People, Stillwater Street, Schaller Luminous) reflect *com
 ## Retired register (pages kept, not deleted)
 
 - **[[recipes/pastel-vibes]]** — retired from camera (was CUSTOM 2). Taste-rejected (pastel) + redundant with the SCU soft family.
-- **[[recipes/junichiro]]** — retired from camera. Grain/film aesthetic counter to museum stance + twins Loki's Berrada family.
+- **[[recipes/junichiro]]** — retired from camera; **owner keeps it saved off-camera (recallable)**. Grain/film aesthetic counter to museum stance + twins Loki's Berrada family. Slot reinstatement is a separate decision, only on explicit request.
 - **[[recipes/bay-area-fortia]]** — retired from camera (was CUSTOM 5). Confirmed gray-rescue value, but amplifies the local OSU-orange; role re-served taste-aligned by [[recipes/stillwater-street]]. Fallback if A/B #2 shows Stillwater Street can't match the rescue.
 - **Clean Sunrise** — *retired before it was built.* SCU's no-red-shift neutrality already solves the sunrise-syrup risk and SCU is proven on the adjacent blue-hour condition; a dedicated recipe is redundant. Sunrise coverage = SCU; confirmed by retroactive A/B #1.
 - **Binet Form** — dropped earlier by owner choice; [[entities/helene-binet]] stays an influence, her tonal register absorbed into [[recipes/schaller-luminous]]. No dedicated architectural-color slot.
