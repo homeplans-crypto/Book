@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-04-18
+updated: 2026-05-18
 ---
 
 # Index
@@ -21,4 +21,4 @@ _No concept pages yet._
 
 ## Synthesis
 
-_No synthesis pages yet._
+- [[synthesis/x100vi-xiqu-centre-eterna]] — "Curtain Call": Fujifilm X100VI Eterna film recipe + shooting approach for the Xiqu Centre atrium look (cinematic reinterpretation)
