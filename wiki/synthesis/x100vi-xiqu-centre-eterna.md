@@ -87,10 +87,48 @@ dead gold, lifeless greens. The quartet that saves it: **Color +4,
 Color Chrome Effect Strong, Clarity +5, Highlight 0** — cinematic-muted
 everywhere except the red and gold, which stay dense.
 
+## Best for
+
+This is a *driven* Eterna (Color +4, Color Chrome Strong, Clarity +5,
+Highlight 0, DR400): soft and restrained everywhere, except structure and
+one dense color anchor.
+
+- **High-DR architecture & interiors** — atria, stations, cathedrals,
+  museums, malls; bright ceilings/windows over deep recesses. The core use.
+- **Mixed/artificial light at dusk, blue hour, night** — Eterna handles
+  clashing color temps gracefully; teal-shadow lean + FX Blue suits
+  city/neon/window-glow.
+- **One saturated accent in a muted field** — red lantern, neon sign,
+  a figure in a bright coat, stage gels. Color Chrome Strong densifies the
+  single anchor while the rest stays cinematic. Effectively a "spotlight
+  one color" recipe.
+- **Stage / theatre / concert** — spotlit subjects, crushed blacks,
+  saturated lighting (the venue type itself).
+- **Moody street — rain, fog, overcast, industrial/brutalist/transit** —
+  flat light that needs the Clarity +5 structure; Color +4 keeps it alive.
+- **Long-exposure-with-motion** — crowd/traffic/water drag via the
+  built-in ND: cinematic stillness with one moving element.
+
+## Not the tool for
+
+- Golden-hour landscape / lush nature — Velvia/Reala/Classic Chrome win;
+  Eterna mutes what those scenes live on.
+- High-key clean-daylight portraits (skin as subject) — Astia territory;
+  Eterna renders skin slightly flat/cool.
+- Punchy travel/social frames where saturation is the point.
+
+## Astia vs. this Eterna — decision rule
+
+Astia is soft *and* color-true (people, fashion, pastel, gentle daylight).
+This Eterna is soft *and* restrained-except-one-anchor (mood, contrast
+extremes, mixed light, a single glowing color). **Subject is a person or
+color is the point → Astia. Subject is light/structure/mood and color is
+an accent → this.**
+
 ## Related
 
-- Companion "replicate" variant (not yet filed): Reala Ace + DR400 +
-  Color Chrome Effect Strong + Clarity +3 — punchy travel rendering vs.
-  this cinematic reinterpretation.
+- Cinematic-only by choice. A Reala Ace "replicate" variant (DR400 +
+  Color Chrome Strong + Clarity +3, punchier travel rendering) was
+  considered and deliberately **not** filed.
 - Alternate recipe names considered: *Eterna Opera*, *Ember Vault*,
   *Lantern*.
