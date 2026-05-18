@@ -30,13 +30,13 @@ Camera order (slot numbers are flexible per the owner; this is the committed arr
 |---|---|:-:|:-:|:-:|:-:|:-:|---|
 | CUSTOM 1 | [[recipes/soft-color-universe]] | 5 | 5 | 4 | 5 | 5 | **KEEP** — primary; now also the sunrise recipe |
 | CUSTOM 2 | [[recipes/people]] | 3 | 2 | 4 | 4 | 4 | **KEEP** — committed; revealed-preference (see below) |
-| CUSTOM 3 | [[recipes/stillwater-street]] | 4 | 1 | 4 | 4 | 4 | **KEEP (validate)** — committed; retroactive A/B #2 |
+| CUSTOM 3 | [[recipes/stillwater-street]] | 4 | 3 | 4 | 4 | 5 | **KEEP** — A/B #2 partial: orange-clash settled in its favour |
 | CUSTOM 4 | [[recipes/loki]] | 5 | 5 | 4 | 4 | 5 | **KEEP** — signature subject; position moved 3→4 |
 | CUSTOM 5 | [[recipes/brians-sepia]] | 4 | 5 | 4 | 4 | 4 | **KEEP** — versatile clean toned mono |
 | CUSTOM 6 | [[recipes/schaller|Schaller Dark]] | 5 | 5 | 5 | 4 | 5 | **KEEP** — taste fixes applied; misdials corrected (below) |
 | CUSTOM 7 | [[recipes/schaller-luminous]] | 5 | 1 | 5 | 4 | 5 | **KEEP (validate)** — new; retroactive A/B #4 |
 
-Evidence scores of 1 (People, Stillwater Street, Schaller Luminous) reflect *committed-but-unshot* — they have no earned field evidence yet; the retroactive A/Bs supply it.
+Evidence scores of 1 (People, Schaller Luminous) reflect *committed-but-unshot* — no earned field evidence yet; the retroactive A/Bs supply it. Stillwater Street moved 1 → 3 (partial A/B #2, 2026-05-18: orange-clash settled in its favour; direct Fortia-rescue parity still optional-open).
 
 ## Retired register (pages kept, not deleted)
 
@@ -58,11 +58,18 @@ Swap-candidate backlog: **empty** — roster is full and committed. Re-open only
 Each committed NEW/UPDATE still needs a controlled A/B (same method as [[synthesis/reference-matrix]] / the fern single-subject matrix), filed as a `debrief` — now to **confirm the committed choice held**, and to correct course if it failed. Priority order:
 
 1. **SCU at sunrise**, EV-bracketed (0 / −1/3 / −2/3), judged against SCU's own standard → closes the sunrise gap and confirms Clean Sunrise was correctly retired-before-built. If SCU breaks at sunrise in a specific way, the fix is a discipline note or a small SCU UPDATE — not a new slot.
-2. **Stillwater Street vs [[recipes/bay-area-fortia]] vs [[recipes/soft-color-universe]]** on a gray/overcast scene **with OSU-orange material in frame** → confirms Stillwater Street replaces Fortia's gray-rescue *and* settles the orange-clash question in one shoot.
+2. ~~Stillwater Street vs Fortia vs SCU on a gray OSU-orange scene~~ — **PARTIALLY DONE 2026-05-18** (frames 5188/5189, SCU + Stillwater Street, no Fortia). **Orange-clash question settled in Stillwater Street's favour** (it tamps the local orange; SCU records it; Fortia would amplify it). *Remaining (now optional):* a co-shot Fortia frame for direct saturation-rescue parity — low priority, Fortia is retired and the taste axis is decided.
 3. **Schaller Dark** (designed dials: +Ye, grain off, EV −2/3, Sharpness 0) **vs the prior +R version** on an orange-material architectural/graphic scene → confirms the taste fixes kept the look and that +Ye holds local-orange separation better than +R.
 4. **Schaller Luminous — sharpened (3-way), same sculptural light-on-form frame:** (a) **Luminous DR400 / EV ~0 metered-for-highlights** (the original spec, now independently author-justified — see decisions log 2026-05-18), (b) **Luminous committed DR200 / EV +2/3**, (c) **[[recipes/schaller|Schaller Dark]]**. Confirms the two modes are genuinely distinct *and* settles which Luminous variant best realizes the [[entities/ansel-adams|Adams]] full-tonal philosophy. Schaller Dark itself takes **no dial change** — the videos confirm it (see its source notes); only A/B #3 (the +Ye taste fix) applies to Dark.
 
 ## Decisions log
+
+### 2026-05-18 — A/B #2 partially run (Stillwater Street vs SCU, gray OSU-orange)
+- Frames 5188/5189 ([[synthesis/debriefs]]): badly-overcast cracked-brick wall, OSU-orange in frame, no Fortia frame.
+- **Orange-clash settled in Stillwater Street's favour:** SCU records the brick's orange faithfully; Stillwater Street tamps it to a cooler muted brick-brown (taste-aligned); retired Fortia would amplify it. The Fortia→Stillwater-Street swap rationale is now field-supported.
+- Nuance: Stillwater Street replaces the *role* (flat-light tool), not Fortia's *mechanism* — sober structure/mood, not saturation lift. Direct Fortia-rescue parity left optional-open (Fortia retired; taste axis decided).
+- Stillwater Street disposition: **KEEP (validate) → KEEP**; evidence 1 → 3; aesthetic 4 → 5. No camera change (it's already committed and now field-supported).
+- Composition flagged as the limiting factor (uncommitted subject, dead sky + wire tangle) — recipe was ~10% of the result; see [[concepts/composition-and-subtraction]].
 
 ### 2026-05-18 — Schaller recipes re-examined against the ingested Schaller videos
 - Three Schaller video transcripts now in [[synthesis/schaller-technique]]. Re-tested both Schaller recipes against his own stated method.

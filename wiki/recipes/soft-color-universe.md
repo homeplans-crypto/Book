@@ -38,4 +38,6 @@ A soft, saturated-but-gentle color look. [[entities/astia]] base with both tone 
 
 > A/B 2026-05-17 (fern-shade matrix, frame 5153 vs Fortia 5157): same role at close range — natural, faithful green; the true baseline against which Fortia's lift is measured. Confirms SCU as the recipe for an accurate record, not impact.
 
+> A/B 2026-05-18 (vs [[recipes/stillwater-street]], badly-overcast cracked-brick wall — frames 5188/5189, [[synthesis/debriefs]]): SCU again the **honest neutral record** — rendered the OSU-orange brick *faithfully* (neither tamped nor amplified) under flat light. Useful as the truth reference: Stillwater Street cooled/muted the same orange (taste-aligned), Fortia would have amplified it. SCU = what's actually there; pick it when you want fidelity, not a flat-light treatment.
+
 Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), filed from camera slot CUSTOM 1. Not a published recipe. `author: self` (confirmed 2026-05-17).

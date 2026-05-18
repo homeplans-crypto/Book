@@ -12,6 +12,22 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-18 — Stillwater Street vs SCU, badly-overcast brick wall (5188/5189) · partial A/B #2 · [[recipes/stillwater-street]]
+
+**Conditions:** Badly overcast, flat white sky, daytime. Subject: a **cracked red-brick + stone-pillar boundary wall** (visible structural fracture in the near pillar/wall), street lamps, a dense power-line tangle across the sky, a dead bare tree midground, grass/trees, open field. Same frame both shots — **SCU 5188 vs Stillwater Street 5189**. Retroactive **A/B #2, partial** (no Bay Area Fortia frame). OSU-orange brick deliberately in frame. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**Decisive finding — the orange-clash question is SETTLED in Stillwater Street's favour.** On literal OSU-orange brick in flat light: SCU 5188 records the warm red **faithfully, low-impact** (its documented honest-baseline behaviour). Stillwater Street 5189 actively **tamps the orange down** — brick reads cooler, muted brick-brown, *not* hot orange (Classic Chrome's restrained reds + WB R−1 B+1). It does **not** amplify the local orange — the opposite of what retired [[recipes/bay-area-fortia]] (Velvia + Color +3 + WB R+2) would do. The core swap rationale (Fortia → Stillwater Street on the orange/taste axis) is now **field-supported, not theory.**
+
+**Nuance — it replaces the ROLE, not Fortia's mechanism.** Stillwater Street does not "rescue" gray via saturation/pop the way Fortia did; it lifts via **cooler sober structure + documentary mood** (Clarity +2 + tone curve gave the brick/stone texture grip — muted but not drab). Flat light now has two distinct answers: Fortia = saturation rescue (vivid, off-taste, retired); Stillwater Street = structural/mood treatment (sober, taste-aligned). For this photographer's museum/anti-over-egg taste the sober output is the better fit — but it's a *different philosophy*, not like-for-like. Direct Fortia-rescue parity stays formally open (now optional) since no Fortia frame was co-shot. Calibration: it held because brick/stone texture gave Clarity structure to grip — same "needs light + structure" rule as [[recipes/brians-sepia]]; a structureless flat scene would risk drab.
+
+**Composition — the limiting factor, textbook (the real lesson).** Purest form of the wiki's recurring failure mode, and a perfect test of the just-ingested Schaller principles ([[synthesis/schaller-technique]]): **no committed subject.** The strongest element — the **cracked/fractured pillar & wall** (structural decay, a true light-on-objects/architectural subject squarely in the photographer's wheelhouse) — is buried bottom-left, uncommitted. A massive dead blown-white sky + a chaotic power-line tangle dominate the top ~60%, neither excluded nor used as a deliberate graphic subject; lamp poles, utility poles, signage, dead tree all compete. Schaller's **"trim the fat — not one pixel more"** is the exact remedy. The recipe choice is ~10% of this result; composition is the rest — the wiki's standing conclusion, freshly demonstrated.
+
+**Verdict:** Stillwater Street 5189 is the stronger frame for taste + scene (correct orange handling, sober "quiet-street/overcast" mood); SCU 5188 is the honest neutral record. The gray-OSU-orange recipe question is essentially settled; the *picture* is being lost to composition, not the recipe.
+
+**Drill next:** Re-shoot the **cracked pillar as the committed subject** — get low and close, wall as a leading line, **subframe** through the pillar gap/driveway, exclude the wire tangle and white sky (Schaller trim-the-fat + subframing). Optionally, a *separate* deliberate Schaller-Dark B&W of the wires + dead tree against the white sky — to feel the difference between clutter and a *chosen* graphic subject. Top queued item remains A/B #1 (SCU at sunrise).
+
+---
+
 ## 2026-05-17 — Brian's Sepia adult-male portrait, two EV · [[recipes/brians-sepia]]
 
 **Conditions:** Mirror self-portrait, characterful adult male (glasses, beard, normal skin texture), indoor, two exposures. Framed as a recipe proof-of-concept, not a composition piece. Images reviewed from chat — *not filed to `raw/assets/`*.

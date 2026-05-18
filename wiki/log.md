@@ -205,3 +205,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 ## [2026-05-18] note | Junichiro kept saved off-camera (status precision)
 - updated: recipes/junichiro, synthesis/recipe-roster-review
 - notes: owner clarified Junichiro is retained off-camera (recallable), not discarded — retirement was slot-economy/taste, access doesn't depend on a slot; slot reinstatement remains a separate, explicit-request decision
+
+## [2026-05-18] debrief | Stillwater Street vs SCU, badly-overcast brick wall (5188/5189) — partial A/B #2
+- updated: synthesis/debriefs, recipes/stillwater-street, recipes/soft-color-universe, concepts/composition-and-subtraction, concepts/saturation-in-flat-light, synthesis/recipe-roster-review
+- notes: ORANGE-CLASH SETTLED in Stillwater Street's favour — it tamps OSU-orange brick (cooler/muted) where SCU records it faithfully and Fortia would amplify it; Fortia→Stillwater-Street swap now field-supported. Nuance: replaces the role not Fortia's mechanism (sober structure/mood, not saturation); direct Fortia parity optional-open (no Fortia frame). Stillwater Street evidence 1→3, aesthetic 4→5, KEEP. Composition = the limiting factor (uncommitted cracked-pillar subject, dead sky + wire tangle; recipe ~10% of result)
+- next: re-shoot the cracked pillar as committed subject (low/close, wall as leading line, subframe, exclude wires + white sky); A/B #1 (SCU at sunrise) still the top queued item

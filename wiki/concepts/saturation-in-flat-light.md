@@ -30,6 +30,8 @@ Flat, gray, overcast, or wet light strips color out of a scene — everything tr
 
 > Confirmation 2026-05-17 ([[synthesis/debriefs]], fern-shade matrix 5153/5157): holds at **close range / dense subject** too — flat-shade fern, Fortia lifted vs SCU's faithful-flat baseline. Caveat: very dark dense foliage goes slightly heavy under heavy saturation.
 
+> Extension 2026-05-18 ([[synthesis/debriefs]], frames 5188/5189): a **third, taste-aligned answer to flat light** identified. [[recipes/stillwater-street]] (Classic Chrome, restrained palette, WB R−1 B+1, Clarity +2) treats gray via **cooler sober structure + documentary mood** — and on OSU-orange brick it *tamps* the warm color rather than amplifying it. So flat light now has three media: **bold saturation** (Fortia — vivid, off-taste here), **manufactured mono contrast** ([[recipes/brians-sepia]]), and **muted structural/mood color** (Stillwater Street — the taste-aligned pick when the local orange must not be over-egged). All three still need the subject to carry *structure* or they go limp/drab.
+
 ## Open / to deepen
 
 - Active-rain (wet-reflection) frames now optional — gray/overcast is proven. A wet scene would be a bonus, not a requirement.

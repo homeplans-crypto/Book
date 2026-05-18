@@ -38,6 +38,8 @@ The recurring weak point across early debriefs is not the recipe — it's **too 
 
 > External corroboration 2026-05-17 ([[sources/schaller-composition]], [[synthesis/schaller-technique]]): this concept *is* Schaller's own #1 rule, in his words — **"trimming the fat… leave the essentials and not one pixel more."** Adds vocabulary: composition is not formulaic (distrust "definite" rules); shoot with **intention** ("what am I trying to do here?"); **get it right in person, not by cropping**; **subframing** and **leading-lines-need-light** (now in Principles). The wiki's central lever is validated by the author the recipes are built around — the recipe is the small part; this is the work.
 
+> Self note 2026-05-18 ([[synthesis/debriefs]], frames 5188/5189): the cracked-brick-wall A/B is the **purest demonstration yet** — a genuine subject (the fractured pillar, structural decay = native light-on-objects/architectural material) **buried bottom-left and uncommitted**, while a dead blown-white sky + power-line tangle own ~60% of the frame, neither excluded nor a *chosen* graphic subject. Recipe was ~10% of the result. First time a debrief frame failed *purely* on subtraction with the recipe question already settled — the lesson has fully separated from the recipe. Direct application pending: pick the crack, get low/close, wall as leading line, subframe the gap, exclude wires + white sky (Schaller "not one pixel more").
+
 ## Drill
 
 Before pressing the shutter: name the subject in three words; identify what's fighting it; move or reframe to remove one distraction. Repeat until the frame is about one thing.
