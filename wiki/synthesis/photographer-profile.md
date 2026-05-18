@@ -26,6 +26,7 @@ The human's own practice and intent (stated 2026-05-17). Read this alongside [[s
 - **Target is museum / exhibition quality** — clean, considered, fine-art, not social-media film-sim aesthetics.
 - **Architectural background** — sees the world structurally (geometry, line, negative space). The Schaller/[[concepts/composition-and-subtraction|subtraction]] way of seeing is *native*, not aspirational.
 - **Admired architectural photographers:** [[entities/schaller|Alan Schaller]] and [[entities/helene-binet|Hélène Binet]]. The human wants **both Schaller modes as recipes** — *Dark* (crushed/graphic street) and *Luminous* (Ann Demeulemeester: deep-but-luminous, retained detail, clean). Binet is an influence whose tonal register is **absorbed into Schaller Luminous**; no dedicated architectural-color recipe (Binet Form dropped).
+- **Admires [[entities/mehdi-berrada|Mehdi Berrada]] — his recipes *and* his architecture** (stated 2026-05-18, first-class). Berrada authored [[recipes/loki]] (committed — the signature night light-on-objects tool) and [[recipes/junichiro]] (retired from camera). Nuance, keep both (flagged): admiring Berrada's recipes/work does **not** by itself reverse the Junichiro retirement — that was a deliberate *taste* call (grain/film aesthetic vs the no-grain/museum stance), and Loki remains the on-roster Berrada recipe. Revisit Junichiro only if the owner explicitly asks. The admiration *does* reinforce Berrada as a credible architectural influence alongside Schaller/Binet.
 
 ## What this implies for the wiki
 
