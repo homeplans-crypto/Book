@@ -192,3 +192,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: sources/fuji-recipe-howto
 - updated: wiki/index.md
 - notes: reference-only ingest — dial-by-dial meaning + custom-setting mechanics + the DR/ISO-headroom rule (general form of the per-recipe caveats). The article's example recipe (Nostalgic Summer, Josh Edgoose × Fujifilm) was initially filed then **removed at the owner's instruction** — article filler, off-taste vs the profile; recipes/nostalgic-summer + entities/nostalgic-neg + entities/josh-edgoose deleted (schema's "always file a recipe" rule yields to the curator's call). No new entities/recipes net.
+
+## [2026-05-18] roster | Schaller recipes re-examined vs the ingested videos
+- updated: synthesis/recipe-roster-review (A/B #4 sharpened to 3-way + decisions log), recipes/schaller (Dark — no dial change + shooting-discipline note), recipes/schaller-luminous (DR400/EV~0 proposal + shooting-discipline note)
+- swap: none | proposal (A/B-gated, NOT committed): Schaller Luminous DR200→DR400 + EV+2/3→~0 metered-for-highlights, validated by sharpened A/B #4
+- notes: Schaller Dark confirmed by his own method (EV −2/3, pure-white-by-the-head, crush = deliberate Zone-System exception) — no dial change. Luminous: videos independently justify reverting both committed deltas to spec; JPEG no-post constraint strengthens it. Guardrail intact — no camera change on theory.
