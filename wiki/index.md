@@ -27,6 +27,7 @@ Camera roster (committed): CUSTOM 1 SCU · 2 People · 3 Stillwater Street · 4 
 - [[sources/schaller-night-shooting]] — Alan Schaller night-shooting video transcript (London); his night kit, settings, underexpose-for-highlights method.
 - [[sources/schaller-composition]] — Alan Schaller composition video transcript; rule of thirds, trimming the fat, subframing, leading lines, intention.
 - [[sources/schaller-bw-street-tips]] — Alan Schaller "7 tips to improve B&W street" transcript; shoot-B&W-on-purpose, no bad light, Zone System, editing-as-varnish.
+- [[sources/fuji-recipe-howto]] — Fujifilm official "Make Your Own Film Simulation Recipe"; dial-by-dial reference + the Nostalgic Summer example recipe.
 
 ## Entities
 

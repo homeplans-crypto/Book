@@ -187,3 +187,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: sources/schaller-bw-street-tips, entities/ansel-adams
 - updated: synthesis/schaller-technique (legend [BW]; new Tonality + Editing sections, Philosophy/Light/Composition bullets), concepts/condition-dependent-recipes (tip-3 corroboration), recipes/schaller-luminous (Zone-System = its philosophy), entities/schaller (tips line sourced), wiki/index.md
 - notes: 3rd video; the one entities/schaller already cited as "DPReview 7 tips" — now a full source. Ansel Adams promoted to an entity (recurs across 2 videos + Zone System): the Zone-System full-range ideal IS the Schaller Luminous philosophy; Schaller Dark's crush = the deliberate exception. Key quotes: "no such thing as bad light" (corroborates condition-dependent rule — change subject, don't force look) and "editing is varnishing a table that's already well made" (clearest statement of the wiki's recipe-is-the-small-part principle)
+
+## [2026-05-18] ingest | Fujifilm "Make Your Own Film Simulation Recipe" (reference)
+- created: sources/fuji-recipe-howto
+- updated: wiki/index.md
+- notes: reference-only ingest — dial-by-dial meaning + custom-setting mechanics + the DR/ISO-headroom rule (general form of the per-recipe caveats). The article's example recipe (Nostalgic Summer, Josh Edgoose × Fujifilm) was initially filed then **removed at the owner's instruction** — article filler, off-taste vs the profile; recipes/nostalgic-summer + entities/nostalgic-neg + entities/josh-edgoose deleted (schema's "always file a recipe" rule yields to the curator's call). No new entities/recipes net.
