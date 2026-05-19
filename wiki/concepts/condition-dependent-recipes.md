@@ -13,9 +13,9 @@ Not every recipe is a filter you can apply anywhere. Some are **portable looks**
 ## The split (so far)
 
 - **Portable / versatile** — work in most lighting:
-  - [[recipes/soft-color-universe]] (color default), [[recipes/brians-sepia]] (mono default, *when lit*).
+  - [[recipes/soft-color-universe]] (color default), [[recipes/brians-sepia]] (mono default, *when lit*), [[recipes/curtain-call]] (gray/rain/indoor object — Eterna base absorbs the load), [[recipes/schaller-luminous]] (full-tonal mono — *preserves* what's there rather than manufacturing drama, holds in flat light too — see 2026-05-18 first-evidence below).
 - **Condition-dependent tools** — need their conditions or they fail:
-  - [[recipes/loki]] & [[recipes/schaller]]: require **hard directional light + EV −2/3 underexposure**. Without both, the Shadow +4 curve has no shadows to crush and no underexposure to deepen → flat, high-key, generic. The EV −2/3 is **load-bearing, not optional seasoning**.
+  - [[recipes/loki]] & [[recipes/schaller|Schaller Dark]]: require **hard directional light + EV −2/3 underexposure**. Without both, the Shadow +4 curve has no shadows to crush and no underexposure to deepen → flat, high-key, generic. The EV −2/3 is **load-bearing, not optional seasoning**. *Important:* this is **Schaller *Dark* only** — Luminous has the opposite reliability profile (portable, above).
   - [[recipes/pastel-vibes]], [[recipes/junichiro]]: need scene *structure* (point/directional light, texture) or they go limp.
   - [[recipes/bay-area-fortia]]: needs color to amplify — rescues color-poor light, over-eggs color-rich.
 
@@ -30,6 +30,8 @@ Before choosing a condition-dependent recipe, check its precondition is present.
 > External corroboration 2026-05-17 ([[sources/schaller-night-shooting]], [[synthesis/schaller-technique]]): the underexpose-for-highlights precondition behind [[recipes/schaller|Schaller Dark]] is **Schaller's own deliberate method**, not just our inference — he shoots EV ≈ −2 because *"most of the dynamic range comes from boosting out of the shadows rather than cutting back on highlight."* Strengthens "EV underexposure is load-bearing." Magnitude caveat: his −2 assumes RAW + post shadow-boost; the JPEG recipe's −2/3 is the in-camera analog (can't lift as far).
 
 > External corroboration 2026-05-17 ([[sources/schaller-bw-street-tips]], tip 3): Schaller's own answer to *missing the precondition* is exactly this concept's rule — **"be realistic with the light you have; there's no such thing as bad light; don't force your will on the environment."** When the hard-light/EV−2/3 condition for [[recipes/schaller|Schaller Dark]]/[[recipes/loki|Loki]] isn't present, the move is to **change the subject/approach** (rain → reflections + mood; sun → backlight + shadows), not force the look. The behavioral counterpart to "the recipe can't manufacture light that isn't there."
+
+> Important split 2026-05-18 ([[synthesis/debriefs]], frame 5204): **the two Schaller modes have DIFFERENT reliability profiles, not just different tonal philosophies.** [[recipes/schaller|Schaller Dark]] is condition-dependent (collapses in flat light, per 5159). **[[recipes/schaller-luminous|Schaller Luminous]] is portable** — first field frame was in *flat-light rain* (not a sculptural-light scene) and it delivered full tonal range anyway, because Luminous *preserves* what's there rather than manufacturing drama. Earlier framing that lumped both Schaller recipes as condition-dependent is corrected; the split is per-recipe, not per-photographer.
 
 ## Open / to deepen
 

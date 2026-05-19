@@ -12,6 +12,31 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-18 — Schaller Luminous (5204) + Brian's Sepia (5202), rain-flag-and-wires · first Luminous field evidence · [[recipes/schaller-luminous]] · [[recipes/brians-sepia]]
+
+**Conditions:** Same rainy gray scene as the earlier Curtain Call flag frame — tattered US flag on a pole, dense power-line web across an overcast sky, streetlamp, treeline. Same-day recipe-characterization (not composition). **5204 = Schaller Luminous, 5202 = Brian's Sepia.** This now makes a **3-recipe same-scene matrix** with the earlier Curtain Call frame: cinematic color · neutral B&W · warm toned mono — three legitimately distinct aesthetic registers on one subject. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**Headline — Schaller Luminous: FIRST FIELD EVIDENCE, and a finding bigger than the frame.** Evidence was **1 (committed but unshot)**; this is the first frame. And it's in **flat-light rain** — not Luminous's nominal "sculptural light-on-form" condition. **It delivered on its stated identity anyway:** full tonal range from near-black (lamp head, dark trees) to white (flag stars), the rain sky a smooth mid-gray with gradation rather than blown white, wires razor-crisp via Clarity +1, flag stripes preserved as alternating gray values, tattered edge texture intact. *Highlight −1 / Shadow −1 / DR200 didn't crush or clip in flat light* because Luminous's philosophy is to **preserve what's there, not to manufacture drama from it.**
+
+**Big consequence — Luminous is portable; Dark is not.** This separates the two Schaller modes on a dimension [[concepts/condition-dependent-recipes]] previously lumped together. **Schaller Dark collapses in flat light** (fern-shade frame 5159: needs hard light + EV −2/3 or it goes mush). **Schaller Luminous holds in flat light** (this frame: full tonal range preserved with no special condition). The two modes have *different reliability profiles*, not just different tonal philosophies. Updating the concept page.
+
+**The A/B #4 proposal reframed.** Committed Luminous (DR200, EV +2/3) is NOT failing here — sky isn't blown, shadows are open, range is preserved. The proposed DR400 / EV ~0 reversion isn't *refuted* by this frame, but it isn't *urgent* either; its value would be on a **high-DR scene** where headroom actually matters (hard sun + deep shade; bright night point sources). **A/B #4 should be run in a high-DR scene**, not rain — that's where the proposal would earn its keep, if it does.
+
+**Brian's Sepia in rain — versatility holds, on a sky-dominant scene.** Sepia 5202 carried the same scene as a warm-toned mono — sky as warm cream, wires as dark brown, flag stripes and dark blue field rendered with the warm tonal palette, treeline as warm-brown. The "needs light + structure" rule (the recipe's refined caveat) is satisfied here by the wire web + flag — even on a sky-dominant scene with little ground texture, structure carries it. First **rain** frame for Sepia; reinforces *versatile clean toned-mono default, anywhere there's light + structure.*
+
+**Three-way aesthetic-distinctness check (same flag, same conditions, three recipes) — the roster doing its job:**
+- **Curtain Call** (color, Eterna muted-rich + max microcontrast, neutral WB): cinematic-muted, flag colours present-but-restrained, somber.
+- **Schaller Luminous** (B&W full-range): neutral, contemplative, museum-restraint, the most "Schaller/architectural" reading of the three.
+- **Brian's Sepia** (warm toned mono): warm Americana-leaning, melancholic-timeless register; subject-context (US flag) makes the warm read more loaded than usual — recipe is being itself.
+
+Three genuinely distinct outputs; no overlap. The roster's *designed distinctness* is field-validated.
+
+**Composition (briefly — owner shooting for recipe characterization, not framing):** frame is materially better than yesterday's 5188/5189 — flag is the *clear subject*, the wire web reads as a deliberate graphic element against the soft sky rather than clutter, streetlamp + treeline anchor the bottom. The flag-frame instinct is landing.
+
+**Drill next:** **A/B #4 in a high-DR scene** (hard sun + deep shade; or night with bright point sources) — Luminous DR400/EV~0 vs committed DR200/EV+2/3 vs Dark, same frame. Flat-light rain doesn't pressure-test the DR proposal. A/B #1 (SCU at sunrise) still the top queued item.
+
+---
+
 ## 2026-05-18 — Curtain Call: first frames, in active rain · ingest + A/B #2 re-answered · [[recipes/curtain-call]]
 
 **Conditions:** Active **rain**, gray, daytime. Two frames: (1) tattered US flag limp on a pole against a rainy sky webbed with power lines; (2) the same brick-wall property as the 5188/5189 A/B, in rain — wet sidewalk sheen, lush tree, OSU-orange brick + gas meter. New CUSTOM 3 recipe **Curtain Call** ([[entities/eterna|Eterna/Cinema]], Color +4, Clarity +5, Shadow +1.5, neutral WB) — *replaces [[recipes/stillwater-street]] in slot 3.* Doubles as recipe ingest + the first **active-rain** debrief. Images reviewed from chat — *not filed to `raw/assets/`*.

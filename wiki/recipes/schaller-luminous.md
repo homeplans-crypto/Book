@@ -38,4 +38,10 @@ The **dimensional / sculptural** [[entities/acros]] mode — the opposite tonal 
 
 > Shooting discipline 2026-05-18 ([[synthesis/schaller-technique]]): expose to **protect the highlights** and hold the full tonal range (the Adams default, not crush); find light that *reveals form*; subframe; shoot with intention. The recipe is the small part — the seeing is the work.
 
+> Self note 2026-05-18 (FIRST FIELD EVIDENCE — frame 5204, [[synthesis/debriefs]]): rainy gray scene (flag + power-line web), shot in the **committed form** (DR200, EV +2/3). **Recipe delivered on its stated identity:** full tonal range from near-black to white, sky a smooth mid-gray with gradation (not blown), flag stripes preserved as alternating values, wires razor-crisp via Clarity +1, tattered-edge texture intact. Evidence 1 → 3.
+>
+> **Bigger finding — Luminous is portable, not condition-dependent like [[recipes/schaller|Dark]].** Dark collapses in flat light (fern-shade 5159: needs hard light + EV −2/3); **Luminous held in flat-light rain** because its philosophy is to *preserve* what's there, not manufacture drama from it. The two Schaller modes have **different reliability profiles** ([[concepts/condition-dependent-recipes]] updated).
+>
+> **A/B #4 proposal reframed.** Committed DR200/EV+2/3 is not failing here — so the DR400/EV~0 reversion isn't *refuted* but isn't *urgent*. Its value would be in a **high-DR scene** (hard sun + deep shade; bright night point sources) where headroom matters. **Run A/B #4 in a high-DR scene**, not rain.
+
 Pairs with [[recipes/schaller|Schaller Dark]] as the wiki's two-mode Schaller B&W set (Dark = crushed/graphic street; Luminous = deep-but-luminous form). Provenance: self-authored tribute — devised by the photographer (AI-assisted, hand-tuned), filed from camera slot CUSTOM 7. A homage to [[entities/schaller|Alan Schaller]]'s dimensional mode, not authored by him. `author: self` (confirmed 2026-05-17).
