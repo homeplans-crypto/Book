@@ -239,3 +239,7 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - created: entities/ema-peter (stub)
 - updated: synthesis/photographer-profile, wiki/index.md
 - notes: first-class preference on record — Vancouver-based architectural photographer added to the admired-influences list (Schaller, Binet, Berrada, Ema Peter). Stub entity (biographical detail general-knowledge, not sourced); refine on a deliberate research pass or owner correction. Owner noted they won't add photographers regularly — influence set is now stable
+
+## [2026-05-18] ingest | Ema Peter architecture portfolio (emapeter.com/architecture)
+- updated: entities/ema-peter (stub → sourced; style + client list from the portfolio), synthesis/photographer-profile, wiki/index.md
+- notes: portfolio confirms color/panoramic/clean/material-aware/legibility-first register; ~48 projects, major architects (Zumthor, Ando, BIG, Kuma, Heatherwick, etc.). Cross-ref: Peter and Binet both shot Zumthor in opposite modes. Quiet observation recorded (NOT a recommendation): Peter occupies the color-architectural register the current roster has no dedicated tool for (Binet Form was dropped). Influence set Schaller/Binet/Berrada/Peter spans four distinct architectural-photography modes

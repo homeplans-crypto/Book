@@ -44,7 +44,7 @@ Camera roster (committed): CUSTOM 1 SCU · 2 People · 3 Curtain Call · 4 Loki 
 - [[entities/schaller]] — Alan Schaller, high-contrast B&W street photographer (tribute subject of recipes/schaller).
 - [[entities/helene-binet]] — Hélène Binet, architectural photographer (light-on-form, B&W + color); roster influence.
 - [[entities/ansel-adams]] — Ansel Adams, Zone System / full tonal range; Schaller influence, the Schaller Luminous philosophy.
-- [[entities/ema-peter]] — Ema Peter, Vancouver-based architectural photographer; admired influence (stub).
+- [[entities/ema-peter]] — Ema Peter, Vancouver-based architectural photographer (Zumthor/Ando/BIG/Kuma/Heatherwick); clean color panoramic register; admired influence.
 
 ## Concepts
 
