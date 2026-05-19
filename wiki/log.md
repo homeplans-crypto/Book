@@ -234,3 +234,8 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: synthesis/debriefs, recipes/schaller-luminous, recipes/brians-sepia, concepts/condition-dependent-recipes, synthesis/recipe-roster-review
 - notes: SCHALLER LUMINOUS FIRST FIELD EVIDENCE — committed form (DR200/EV+2/3) delivered full tonal range in flat-light rain (not its nominal sculptural-light condition). Evidence 1→3, reliability 4→5. BIG FINDING: Luminous is portable, NOT condition-dependent like Dark (which collapses in flat light per fern-shade 5159) — the two Schaller modes have different reliability profiles. A/B #4 reframed to a high-DR scene (where DR400/EV~0 proposal would actually matter). Brian's Sepia held on a sky-dominant rain scene (wire web + flag provided the required structure). Same-scene 3-way matrix now complete (Curtain Call/Luminous/Sepia) — three distinct registers, roster's designed distinctness field-validated
 - next: A/B #4 in a high-DR scene (hard sun + deep shade, or night with bright point sources); A/B #1 (SCU at sunrise) still top
+
+## [2026-05-18] note | photographer admires Ema Peter (architectural)
+- created: entities/ema-peter (stub)
+- updated: synthesis/photographer-profile, wiki/index.md
+- notes: first-class preference on record — Vancouver-based architectural photographer added to the admired-influences list (Schaller, Binet, Berrada, Ema Peter). Stub entity (biographical detail general-knowledge, not sourced); refine on a deliberate research pass or owner correction. Owner noted they won't add photographers regularly — influence set is now stable
