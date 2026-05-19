@@ -225,3 +225,7 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: synthesis/recipe-roster-review, wiki/index.md
 - swap: owner-initiated camera change — CUSTOM 3 = [[recipes/curtain-call]] (Eterna); [[recipes/stillwater-street]] → retired register | open Qs: Stillwater St off-camera retention? Curtain Call's intended role = the gray/rain slot (inferred, confirm)
 - notes: Curtain Call KEEP, evidence 3, distinctiveness 5, aesthetic 5; slot-3 gray/rain/orange role confirmed for new occupant + indoor still-life bonus. Wiki reconciled to camera (not the reverse). 7 slots still full/committed
+
+## [2026-05-18] note | Curtain Call intent + Stillwater Street status confirmed
+- updated: recipes/curtain-call (stated intent), recipes/stillwater-street (off-camera retention confirmed), synthesis/recipe-roster-review (decisions log + retired register)
+- notes: owner clarified — Curtain Call's intent is "a distinctively different look from anything else, within the palette" (aesthetic-distinctness role, not condition-bound; gray/rain/orange-safe is earned evidence). Stillwater Street is kept saved off-camera (recallable, same pattern as Junichiro). Owner invited suggestions for other distinctly-different-in-palette directions (discussed in chat, not filed unless requested)
