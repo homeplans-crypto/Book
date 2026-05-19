@@ -235,6 +235,11 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - notes: SCHALLER LUMINOUS FIRST FIELD EVIDENCE — committed form (DR200/EV+2/3) delivered full tonal range in flat-light rain (not its nominal sculptural-light condition). Evidence 1→3, reliability 4→5. BIG FINDING: Luminous is portable, NOT condition-dependent like Dark (which collapses in flat light per fern-shade 5159) — the two Schaller modes have different reliability profiles. A/B #4 reframed to a high-DR scene (where DR400/EV~0 proposal would actually matter). Brian's Sepia held on a sky-dominant rain scene (wire web + flag provided the required structure). Same-scene 3-way matrix now complete (Curtain Call/Luminous/Sepia) — three distinct registers, roster's designed distinctness field-validated
 - next: A/B #4 in a high-DR scene (hard sun + deep shade, or night with bright point sources); A/B #1 (SCU at sunrise) still top
 
+## [2026-05-18] debrief | SCU multi-condition portability (porch fern + brick + flag + post-rain property)
+- updated: synthesis/debriefs, recipes/soft-color-universe, synthesis/recipe-roster-review
+- notes: four SCU frames across diverse conditions — recipe rendered honestly across all four (natural greens, clean whites, accurate red without OSU-orange amplification, flat sky honest). "Versatile do-anything primary" is now the most field-tested claim on the roster. 4-way same-scene matrix on the flag now complete (Curtain Call + Luminous + Sepia + SCU = truth baseline). Owner calibration on the color-gap observation: "SCU has my back for now" — theoretical gap stands, practical urgency low; no roster change; future ideas in chat only
+- next: A/B #1 (SCU at sunrise) — the only stated-core condition with zero field evidence; still top queued
+
 ## [2026-05-18] note | photographer admires Ema Peter (architectural)
 - created: entities/ema-peter (stub)
 - updated: synthesis/photographer-profile, wiki/index.md

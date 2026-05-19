@@ -12,6 +12,22 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-18 — SCU multi-condition portability test: porch fern + overcast brick + rain flag + post-rain property · [[recipes/soft-color-universe]]
+
+**Conditions:** Four SCU frames across diverse conditions, **recipe characterization (composition not assessed)**: (1) Boston fern on a shaded porch, soft indoor-style light, clean white surroundings; (2) cracked-brick boundary wall in badly-overcast daylight (same scene as 5188); (3) tattered US flag + power-line web against a flat slate-gray sky (same scene as 5204/5202/Curtain Call flag); (4) brick-wall property post-rain, lush green tree, wet sidewalk (same property as the Curtain Call rain frame). Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**Finding — SCU's portability is now extensively field-validated.** Across four very different subjects/conditions the recipe just **records honestly** — natural greens (fern, tree), clean whites (porch chair/door, flag stars), accurate red **without OSU-orange amplification** (brick, flag red), flat slate sky read as-is. Nothing pushed it past its envelope; nothing failed. *"Versatile do-anything primary"* is no longer just claim — it is the most field-tested recipe on the roster.
+
+**Same-scene 4-way matrix on the flag now complete** (this frame + prior): **Curtain Call** (Eterna cinematic muted-rich) · **Schaller Luminous** (B&W full-tonal, museum/contemplative) · **Brian's Sepia** (warm toned mono, Americana-leaning) · **SCU** (faithful clean color, the truth baseline). Four legitimately distinct registers on one subject; SCU is the **truth reference** the interpretive recipes are measured against. The roster's *designed distinctness*, validated across four recipes on one frame.
+
+**Calibration on the standing "color gap" observation** ([[entities/ema-peter]] / Bleach Bypass / cool-tinted mono discussions). Owner, frames-in-hand: *"SCU can pretty much take any color shot, so while I agree I wouldn't mind one more recipe, SCU has my back for now."* Recorded — the theoretical color-architectural / cool-gritty gap exists, but **practical urgency is low**. SCU's portability fills the gap *operationally* even if it doesn't *interpret* the way a Bleach Bypass / dedicated architectural-color recipe would. Future-exploration ideas stay alive in chat history (not filed as backlog, per the prior "not right now"); current operational position is settled.
+
+**Composition (briefly, since not the test):** the porch fern is a clean committed subject; the flag frame inherits today's earlier improved framing (deliberate subject + chosen graphic web). The brick-wall and post-rain frames carry the same composition issues as 5188/5189 (uncommitted subject, dead sky, minor clutter) — again, not the test.
+
+**Drill next:** **A/B #1 (SCU at sunrise)** — the *only* stated-core condition with zero field evidence remains. Today's results sharpen the test: SCU handles every condition shot so far; the honest open question is whether it also holds at sunrise. Still the top queued item.
+
+---
+
 ## 2026-05-18 — Schaller Luminous (5204) + Brian's Sepia (5202), rain-flag-and-wires · first Luminous field evidence · [[recipes/schaller-luminous]] · [[recipes/brians-sepia]]
 
 **Conditions:** Same rainy gray scene as the earlier Curtain Call flag frame — tattered US flag on a pole, dense power-line web across an overcast sky, streetlamp, treeline. Same-day recipe-characterization (not composition). **5204 = Schaller Luminous, 5202 = Brian's Sepia.** This now makes a **3-recipe same-scene matrix** with the earlier Curtain Call frame: cinematic color · neutral B&W · warm toned mono — three legitimately distinct aesthetic registers on one subject. Images reviewed from chat — *not filed to `raw/assets/`*.

@@ -65,6 +65,11 @@ Each committed NEW/UPDATE still needs a controlled A/B (same method as [[synthes
 
 ## Decisions log
 
+### 2026-05-18 — SCU multi-condition portability test; "color gap" observation calibrated to low-urgency
+- Four SCU frames across porch-fern / overcast brick / sky-dominant flag / post-rain property ([[synthesis/debriefs]]) — recipe rendered honestly across all four (natural greens, clean whites, accurate red without OSU-orange amplification, flat sky honest). SCU is now the **most field-tested recipe on the roster**; "versatile do-anything primary" is field-supported across diverse conditions, including those previously assumed to need other recipes (rain → Curtain Call's territory; gray brick → was Stillwater Street's territory).
+- 4-way same-scene matrix on the flag now complete: Curtain Call · Schaller Luminous · Brian's Sepia · SCU (the truth baseline). Roster's designed distinctness validated on one subject.
+- Owner calibration on the standing "color gap" observation ([[entities/ema-peter]] / Bleach Bypass / cool-tinted mono): *"SCU has my back for now."* Theoretical color-architectural / cool-gritty gap stands; **practical urgency is low** — SCU fills the gap operationally even if it doesn't interpret the way a dedicated recipe would. No roster change; future-exploration ideas stay in chat history per the prior "not right now."
+
 ### 2026-05-18 — Schaller Luminous: first field evidence (rain), and the "portable vs condition-dependent" split
 - Frame 5204 ([[synthesis/debriefs]]): rainy gray flag-and-wires scene, shot in committed form (DR200, EV +2/3). **Luminous delivered on its stated identity** (full tonal range, sky gradation, wires crisp, flag detail preserved) in flat light — not its nominal use case. Evidence 1 → 3, reliability 4 → 5.
 - **Bigger finding:** Luminous is **portable**, not condition-dependent like [[recipes/schaller|Schaller Dark]] (which collapses in flat light per fern-shade 5159). The two Schaller modes have *different reliability profiles*, not just different tonal philosophies — [[concepts/condition-dependent-recipes]] updated.
