@@ -40,6 +40,8 @@ The recurring weak point across early debriefs is not the recipe — it's **too 
 
 > Self note 2026-05-18 ([[synthesis/debriefs]], frames 5188/5189): the cracked-brick-wall A/B is the **purest demonstration yet** — a genuine subject (the fractured pillar, structural decay = native light-on-objects/architectural material) **buried bottom-left and uncommitted**, while a dead blown-white sky + power-line tangle own ~60% of the frame, neither excluded nor a *chosen* graphic subject. Recipe was ~10% of the result. First time a debrief frame failed *purely* on subtraction with the recipe question already settled — the lesson has fully separated from the recipe. Direct application pending: pick the crack, get low/close, wall as leading line, subframe the gap, exclude wires + white sky (Schaller "not one pixel more").
 
+> Progress 2026-05-18 ([[synthesis/debriefs]], Curtain Call rain frames): a **step up the same day** — the flag-in-rain frame has an actual subject (limp flag on its pole) and the power-line web now reads as a *deliberate graphic element* against the soft sky, not the pure clutter of 5188/5189. The difference was *intention + the rain earning the wires*. Not solved (minor clutter remains: streetlamp, gas meter) but the arc is compounding, not resetting. Lean into the flag-frame instinct: one subject, let the wires/mood be chosen, not accidental.
+
 ## Drill
 
 Before pressing the shutter: name the subject in three words; identify what's fighting it; move or reframe to remove one distraction. Repeat until the frame is about one thing.

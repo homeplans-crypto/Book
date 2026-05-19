@@ -12,6 +12,30 @@ Reverse-chronological. Each entry: conditions, recipe, what worked, what to fix,
 
 ---
 
+## 2026-05-18 — Curtain Call: first frames, in active rain · ingest + A/B #2 re-answered · [[recipes/curtain-call]]
+
+**Conditions:** Active **rain**, gray, daytime. Two frames: (1) tattered US flag limp on a pole against a rainy sky webbed with power lines; (2) the same brick-wall property as the 5188/5189 A/B, in rain — wet sidewalk sheen, lush tree, OSU-orange brick + gas meter. New CUSTOM 3 recipe **Curtain Call** ([[entities/eterna|Eterna/Cinema]], Color +4, Clarity +5, Shadow +1.5, neutral WB) — *replaces [[recipes/stillwater-street]] in slot 3.* Doubles as recipe ingest + the first **active-rain** debrief. Images reviewed from chat — *not filed to `raw/assets/`*.
+
+**Slot-3 role still covered, by a new mechanism.** Curtain Call **tames the OSU-orange brick taste-appropriately** — Eterna's desaturated base + neutral WB render it a muted brick-red, *not* amplified (the taste requirement Stillwater Street also met, but via Classic Chrome's cool palette; Curtain Call does it via Eterna restraint + max microcontrast). A/B #2's slot-3 question is **re-answered for the new occupant** (in rain). Yesterday's Stillwater Street orange finding stays valid as a Stillwater Street result; the live slot-3 tool is now Curtain Call.
+
+**Rain — first evidence, and it delivers.** Wet pavement reads with a clean specular sheen; the somber cinematic palette + Clarity +5 microstructure suit rain rather than fight it — the wiki's long-"optional" active-rain frames, and Schaller's *"no such thing as bad light / wet = mood"*, both realized. Curtain Call is a genuine rain/gray tool, not just overcast.
+
+**Watch:** Clarity +5 is the ceiling — these frames are low-ISO clean, but expect over-crunch/halo risk at higher night ISO; Color +4 on Eterna held (flat base absorbs it) but could go heavy on an already-colorful scene (mild Fortia-style over-egg caution).
+
+**Recipe characterization — indoor close-range objects (composition NOT assessed, per owner).** Two more Curtain Call frames, explicitly shot to see what the recipe *does*, not to compose: (1) a resin teddy-bear collectible figurine, indoor low light, shallow DOF; (2) a Blue Yeti microphone, mixed indoor light, warm/cool blurred background. Findings — Curtain Call is **more than a gray/rain tool; it's a strong indoor detailed-object / still-life renderer:**
+- **Clarity +5 is the headline on texture** — carved fur, knit/lace, foam windscreen grain, the tiny base props all render crisp and dimensional. Excellent on textured objects.
+- **Color +4 on Eterna = rich but restrained** — the figurine's pastels (pink/blue/cream) read full yet not garish; the mic's blurred *warm/orange* background is again **tamed, not amplified** (the orange-safe behaviour holds indoors too).
+- **Eterna + Shadow +1.5 keeps darks open** — the black foam/mic body retains texture (not crushed); metallic/chrome highlights stay controlled (Highlight 0 + Eterna soft roll-off). Good HDR-ish indoor control (dark subject, bright background).
+- **Caution:** the same Clarity +5 that flatters texture would *harshen smooth surfaces* — expect it to be unkind to smooth/young skin (mirror of the [[concepts/portraits-and-skin-rendering]] / Brian's-Sepia texture rule). Great for objects/texture; not a people recipe.
+
+**Composition — a step up (the *rain street* frames only; the two object frames above were not composed).** The flag frame has an actual **subject** (the limp flag on its pole) and the power-line web reads as a *deliberate graphic element* against the soft sky rather than yesterday's pure clutter — rain adds mood that earns the wires. Frame 2 still carries minor clutter (gas meter, sign) but the wet sidewalk leads in. Progress on the standing subtraction arc, not a reset of it. See [[concepts/composition-and-subtraction]].
+
+**Verdict:** Curtain Call is a viable, taste-aligned slot-3 gray/**rain** tool — Eterna-muted, structured, orange-safe. First rain evidence in the wiki; slot-3 role confirmed for the new occupant.
+
+**Drill next:** Lean into the flag-frame instinct — in rain, find the one subject and let wires/mood be the deliberate graphic web (Schaller). Re-shoot the cracked pillar (still owed from 5188/5189) as a committed subject. A/B #1 (SCU at sunrise) remains the top queued item.
+
+---
+
 ## 2026-05-18 — Stillwater Street vs SCU, badly-overcast brick wall (5188/5189) · partial A/B #2 · [[recipes/stillwater-street]]
 
 **Conditions:** Badly overcast, flat white sky, daytime. Subject: a **cracked red-brick + stone-pillar boundary wall** (visible structural fracture in the near pillar/wall), street lamps, a dense power-line tangle across the sky, a dead bare tree midground, grass/trees, open field. Same frame both shots — **SCU 5188 vs Stillwater Street 5189**. Retroactive **A/B #2, partial** (no Bay Area Fortia frame). OSU-orange brick deliberately in frame. Images reviewed from chat — *not filed to `raw/assets/`*.

@@ -30,19 +30,20 @@ Camera order (slot numbers are flexible per the owner; this is the committed arr
 |---|---|:-:|:-:|:-:|:-:|:-:|---|
 | CUSTOM 1 | [[recipes/soft-color-universe]] | 5 | 5 | 4 | 5 | 5 | **KEEP** — primary; now also the sunrise recipe |
 | CUSTOM 2 | [[recipes/people]] | 3 | 2 | 4 | 4 | 4 | **KEEP** — committed; revealed-preference (see below) |
-| CUSTOM 3 | [[recipes/stillwater-street]] | 4 | 3 | 4 | 4 | 5 | **KEEP** — A/B #2 partial: orange-clash settled in its favour |
+| CUSTOM 3 | [[recipes/curtain-call]] (Eterna) | 4 | 3 | 5 | 4 | 5 | **KEEP** — replaced Stillwater Street 2026-05-18; rain+orange evidence good |
 | CUSTOM 4 | [[recipes/loki]] | 5 | 5 | 4 | 4 | 5 | **KEEP** — signature subject; position moved 3→4 |
 | CUSTOM 5 | [[recipes/brians-sepia]] | 4 | 5 | 4 | 4 | 4 | **KEEP** — versatile clean toned mono |
 | CUSTOM 6 | [[recipes/schaller|Schaller Dark]] | 5 | 5 | 5 | 4 | 5 | **KEEP** — taste fixes applied; misdials corrected (below) |
 | CUSTOM 7 | [[recipes/schaller-luminous]] | 5 | 1 | 5 | 4 | 5 | **KEEP (validate)** — new; retroactive A/B #4 |
 
-Evidence scores of 1 (People, Schaller Luminous) reflect *committed-but-unshot* — no earned field evidence yet; the retroactive A/Bs supply it. Stillwater Street moved 1 → 3 (partial A/B #2, 2026-05-18: orange-clash settled in its favour; direct Fortia-rescue parity still optional-open).
+Evidence scores of 1 (People, Schaller Luminous) reflect *committed-but-unshot* — no earned field evidence yet; the retroactive A/Bs supply it. **CUSTOM 3 changed 2026-05-18:** owner replaced [[recipes/stillwater-street]] with a new recipe **[[recipes/curtain-call]]** ([[entities/eterna|Eterna/Cinema]]). Curtain Call evidence = 3 (first frames, in active rain — orange tamed, rain handled); Stillwater Street → retired register, its A/B #2 finding kept as a Stillwater-Street/Classic-Chrome result.
 
 ## Retired register (pages kept, not deleted)
 
 - **[[recipes/pastel-vibes]]** — retired from camera (was CUSTOM 2). Taste-rejected (pastel) + redundant with the SCU soft family.
 - **[[recipes/junichiro]]** — retired from camera; **owner keeps it saved off-camera (recallable)**. Grain/film aesthetic counter to museum stance + twins Loki's Berrada family. Slot reinstatement is a separate decision, only on explicit request.
-- **[[recipes/bay-area-fortia]]** — retired from camera (was CUSTOM 5). Confirmed gray-rescue value, but amplifies the local OSU-orange; role re-served taste-aligned by [[recipes/stillwater-street]]. Fallback if A/B #2 shows Stillwater Street can't match the rescue.
+- **[[recipes/bay-area-fortia]]** — retired from camera (was CUSTOM 5). Confirmed gray-rescue value, but amplifies the local OSU-orange; flat-light role now carried by [[recipes/curtain-call]] (and previously [[recipes/stillwater-street]]).
+- **[[recipes/stillwater-street]]** — retired from camera 2026-05-18 (was CUSTOM 3; replaced by [[recipes/curtain-call]]). Orange-clash A/B #2 finding kept as a valid Classic-Chrome result. Off-camera retention **unconfirmed** (ask owner).
 - **Clean Sunrise** — *retired before it was built.* SCU's no-red-shift neutrality already solves the sunrise-syrup risk and SCU is proven on the adjacent blue-hour condition; a dedicated recipe is redundant. Sunrise coverage = SCU; confirmed by retroactive A/B #1.
 - **Binet Form** — dropped earlier by owner choice; [[entities/helene-binet]] stays an influence, her tonal register absorbed into [[recipes/schaller-luminous]]. No dedicated architectural-color slot.
 
@@ -58,11 +59,17 @@ Swap-candidate backlog: **empty** — roster is full and committed. Re-open only
 Each committed NEW/UPDATE still needs a controlled A/B (same method as [[synthesis/reference-matrix]] / the fern single-subject matrix), filed as a `debrief` — now to **confirm the committed choice held**, and to correct course if it failed. Priority order:
 
 1. **SCU at sunrise**, EV-bracketed (0 / −1/3 / −2/3), judged against SCU's own standard → closes the sunrise gap and confirms Clean Sunrise was correctly retired-before-built. If SCU breaks at sunrise in a specific way, the fix is a discipline note or a small SCU UPDATE — not a new slot.
-2. ~~Stillwater Street vs Fortia vs SCU on a gray OSU-orange scene~~ — **PARTIALLY DONE 2026-05-18** (frames 5188/5189, SCU + Stillwater Street, no Fortia). **Orange-clash question settled in Stillwater Street's favour** (it tamps the local orange; SCU records it; Fortia would amplify it). *Remaining (now optional):* a co-shot Fortia frame for direct saturation-rescue parity — low priority, Fortia is retired and the taste axis is decided.
+2. **Slot-3 gray/orange role** — answered twice: (a) 5188/5189 settled it for the *then* occupant [[recipes/stillwater-street]] (tamps OSU-orange; SCU records it; Fortia would amplify). (b) **CUSTOM 3 changed 2026-05-18 → [[recipes/curtain-call]]** (Eterna); its first frames (active rain, same property) **re-answer the role for the new occupant** — Eterna's desaturated base also tames the orange, *and* it adds active-rain capability. Both filed as debriefs. *Remaining (optional, low-priority):* a direct Fortia saturation-parity frame (Fortia retired; taste axis decided).
 3. **Schaller Dark** (designed dials: +Ye, grain off, EV −2/3, Sharpness 0) **vs the prior +R version** on an orange-material architectural/graphic scene → confirms the taste fixes kept the look and that +Ye holds local-orange separation better than +R.
 4. **Schaller Luminous — sharpened (3-way), same sculptural light-on-form frame:** (a) **Luminous DR400 / EV ~0 metered-for-highlights** (the original spec, now independently author-justified — see decisions log 2026-05-18), (b) **Luminous committed DR200 / EV +2/3**, (c) **[[recipes/schaller|Schaller Dark]]**. Confirms the two modes are genuinely distinct *and* settles which Luminous variant best realizes the [[entities/ansel-adams|Adams]] full-tonal philosophy. Schaller Dark itself takes **no dial change** — the videos confirm it (see its source notes); only A/B #3 (the +Ye taste fix) applies to Dark.
 
 ## Decisions log
+
+### 2026-05-18 — CUSTOM 3 changed: Stillwater Street → Curtain Call (Eterna)
+- Owner replaced Stillwater Street at CUSTOM 3 with a new self-authored recipe **[[recipes/curtain-call]]** ([[entities/eterna|Eterna/Cinema]], Color +4, Clarity +5, neutral WB). Panel-captured, ingested exact; [[entities/eterna]] created.
+- First frames shot in **active rain** (same property as 5188/5189): tames OSU-orange (Eterna base + neutral WB), handles wet sheen well — slot-3 gray/rain role **confirmed for the new occupant**, by a different mechanism than Stillwater Street's cool-documentary palette. First active-rain evidence in the wiki.
+- Stillwater Street → retired register (page + A/B #2 finding kept; off-camera retention unconfirmed — flagged to ask). Curtain Call disposition **KEEP**, evidence 3, distinctiveness 5.
+- Guardrail note: this was an owner-initiated camera change (like the original commit) — wiki reconciled to camera, not the reverse. Watch flagged: Clarity +5 over-crunch risk at higher ISO.
 
 ### 2026-05-18 — A/B #2 partially run (Stillwater Street vs SCU, gray OSU-orange)
 - Frames 5188/5189 ([[synthesis/debriefs]]): badly-overcast cracked-brick wall, OSU-orange in frame, no Fortia frame.

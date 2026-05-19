@@ -210,3 +210,18 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - updated: synthesis/debriefs, recipes/stillwater-street, recipes/soft-color-universe, concepts/composition-and-subtraction, concepts/saturation-in-flat-light, synthesis/recipe-roster-review
 - notes: ORANGE-CLASH SETTLED in Stillwater Street's favour — it tamps OSU-orange brick (cooler/muted) where SCU records it faithfully and Fortia would amplify it; Fortia→Stillwater-Street swap now field-supported. Nuance: replaces the role not Fortia's mechanism (sober structure/mood, not saturation); direct Fortia parity optional-open (no Fortia frame). Stillwater Street evidence 1→3, aesthetic 4→5, KEEP. Composition = the limiting factor (uncommitted cracked-pillar subject, dead sky + wire tangle; recipe ~10% of result)
 - next: re-shoot the cracked pillar as committed subject (low/close, wall as leading line, subframe, exclude wires + white sky); A/B #1 (SCU at sunrise) still the top queued item
+
+## [2026-05-18] recipe | Curtain Call (CUSTOM 3, replaces Stillwater Street)
+- created: recipes/curtain-call, entities/eterna
+- updated: recipes/stillwater-street (retired from camera), wiki/index.md, synthesis/recipe-roster-review
+- notes: Eterna/Cinema · Color +4 · Clarity +5 · Shadow +1.5 · neutral WB · DR200 · grain off — muted-rich cinematic, max microcontrast. Self-authored, panel-captured exact. Replaces [[recipes/stillwater-street]] at CUSTOM 3 (Stillwater St → retired register; off-camera retention unconfirmed — ASK; A/B #2 finding kept as a Classic-Chrome result)
+
+## [2026-05-18] debrief | Curtain Call first frames — rain + indoor object characterization
+- updated: synthesis/debriefs, recipes/curtain-call, concepts/saturation-in-flat-light, concepts/composition-and-subtraction, synthesis/recipe-roster-review
+- notes: rain frames — tames OSU-orange (Eterna base + neutral WB), wet sheen handled (first ACTIVE-RAIN evidence in wiki; slot-3 role re-answered for new occupant). Indoor object frames (composition NOT assessed, per owner) — strong still-life/detailed-object renderer (Clarity +5 texture, Color +4 rich-not-garish, darks open); `best_for` widened. Caution: Clarity +5 harsh on smooth skin — not a people recipe. Watch: Clarity +5 over-crunch at higher ISO
+- next: A/B #1 (SCU at sunrise) remains top; owed — cracked-pillar recompose
+
+## [2026-05-18] roster | CUSTOM 3 reconciled: Stillwater Street → Curtain Call
+- updated: synthesis/recipe-roster-review, wiki/index.md
+- swap: owner-initiated camera change — CUSTOM 3 = [[recipes/curtain-call]] (Eterna); [[recipes/stillwater-street]] → retired register | open Qs: Stillwater St off-camera retention? Curtain Call's intended role = the gray/rain slot (inferred, confirm)
+- notes: Curtain Call KEEP, evidence 3, distinctiveness 5, aesthetic 5; slot-3 gray/rain/orange role confirmed for new occupant + indoor still-life bonus. Wiki reconciled to camera (not the reverse). 7 slots still full/committed

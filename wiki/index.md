@@ -11,16 +11,16 @@ Catalog of all wiki pages. Updated on every ingest. Organized by type.
 
 ## Recipes
 
-Camera roster (committed): CUSTOM 1 SCU · 2 People · 3 Stillwater Street · 4 Loki · 5 Brian's Sepia · 6 Schaller Dark · 7 Schaller Luminous. See [[synthesis/recipe-roster-review]].
+Camera roster (committed): CUSTOM 1 SCU · 2 People · 3 Curtain Call · 4 Loki · 5 Brian's Sepia · 6 Schaller Dark · 7 Schaller Luminous. See [[synthesis/recipe-roster-review]].
 
 - [[recipes/soft-color-universe]] — **CUSTOM 1.** Astia/Soft, soft saturated daylight/blue-hour/sunrise primary (Color +3, Color Chrome Strong, tones −1/−1, Clarity +3). `self`.
 - [[recipes/people]] — **CUSTOM 2.** Astia/Soft, skin-tuned portrait (Color +1, Sharpness 0, NR −2, Shadow +2, Smooth Skin off, EV ~+2/3). `self`.
-- [[recipes/stillwater-street]] — **CUSTOM 3.** Classic Chrome, muted documentary street/gray-rescue (Color Chrome/FX Blue Strong, WB R−1 B+1, Clarity +2). `self`.
+- [[recipes/curtain-call]] — **CUSTOM 3.** Eterna/Cinema, muted-rich cinematic gray/rain quiet-street (Color +4, Clarity +5, Shadow +1.5, neutral WB). `self`.
 - [[recipes/loki]] — **CUSTOM 4.** Classic Negative, high-contrast "inky" harsh-light look (Highlight +4 / Shadow +4, Color 0, WB R+3 B−5, EV −2/3). Mehdi Berrada.
 - [[recipes/brians-sepia]] — **CUSTOM 5.** Sepia, gritty high-contrast toned monochrome (Highlight +2 / Shadow +3, Clarity +3, Sharpness +3). `self`.
 - [[recipes/schaller]] — **CUSTOM 6 (Schaller Dark).** ACROS+Ye, dramatic crushed daytime/night B&W, grain off (Shadow +4, Clarity +3, EV −2/3). `self`, tribute to [[entities/schaller]].
 - [[recipes/schaller-luminous]] — **CUSTOM 7.** ACROS+Ye, deep-but-luminous sculptural B&W (Highlight −1 / Shadow −1, Clarity +1, retained detail). `self`; absorbs the [[entities/helene-binet]] register.
-- _Retired from camera (pages kept):_ [[recipes/pastel-vibes]] (taste/redundant), [[recipes/junichiro]] (grain/film aesthetic), [[recipes/bay-area-fortia]] (orange over-egg; gray-rescue role → Stillwater Street).
+- _Retired from camera (pages kept):_ [[recipes/pastel-vibes]] (taste/redundant), [[recipes/junichiro]] (grain/film aesthetic), [[recipes/bay-area-fortia]] (orange over-egg), [[recipes/stillwater-street]] (replaced at CUSTOM 3 by Curtain Call 2026-05-18; A/B #2 finding kept).
 
 ## Sources
 
@@ -37,7 +37,8 @@ Camera roster (committed): CUSTOM 1 SCU · 2 People · 3 Stillwater Street · 4 
 - [[entities/pro-neg-hi]] — PRO Neg. Hi film simulation.
 - [[entities/velvia]] — Velvia/Vivid film simulation.
 - [[entities/sepia]] — Sepia toned-monochrome film simulation.
-- [[entities/classic-chrome]] — Classic Chrome muted documentary film simulation (recipes/stillwater-street).
+- [[entities/classic-chrome]] — Classic Chrome muted documentary film simulation (recipes/stillwater-street, retired).
+- [[entities/eterna]] — Eterna/Cinema cinematic low-saturation film simulation (recipes/curtain-call, CUSTOM 3).
 - [[entities/acros]] — ACROS premium monochrome film simulation.
 - [[entities/mehdi-berrada]] — recipe author (film.recipes).
 - [[entities/schaller]] — Alan Schaller, high-contrast B&W street photographer (tribute subject of recipes/schaller).

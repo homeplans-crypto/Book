@@ -32,7 +32,9 @@ Flat, gray, overcast, or wet light strips color out of a scene — everything tr
 
 > Extension 2026-05-18 ([[synthesis/debriefs]], frames 5188/5189): a **third, taste-aligned answer to flat light** identified. [[recipes/stillwater-street]] (Classic Chrome, restrained palette, WB R−1 B+1, Clarity +2) treats gray via **cooler sober structure + documentary mood** — and on OSU-orange brick it *tamps* the warm color rather than amplifying it. So flat light now has three media: **bold saturation** (Fortia — vivid, off-taste here), **manufactured mono contrast** ([[recipes/brians-sepia]]), and **muted structural/mood color** (Stillwater Street — the taste-aligned pick when the local orange must not be over-egged). All three still need the subject to carry *structure* or they go limp/drab.
 
+> Extension 2026-05-18 ([[synthesis/debriefs]], Curtain Call rain frames): a **fourth approach**, now the live CUSTOM 3 tool — [[recipes/curtain-call]] ([[entities/eterna|Eterna/Cinema]], Color +4, **Clarity +5**, neutral WB). Eterna's low-saturation/low-contrast base lets a *large* Color push read **rich-but-not-garish**, while max Clarity manufactures the microstructure flat/wet light strips out — and the desaturated base tames OSU-orange like Stillwater Street did, via a different route. Taxonomy of flat-light color: Fortia = amplify (off-taste), Stillwater Street = cool documentary restraint, Curtain Call = cinematic muted-rich + max microcontrast. **Demonstrated in active rain** (not just overcast) — wet sheen + somber palette is an asset, per Schaller's "no bad light." Watch: Clarity +5 over-crunch at higher ISO.
+
 ## Open / to deepen
 
-- Active-rain (wet-reflection) frames now optional — gray/overcast is proven. A wet scene would be a bonus, not a requirement.
+- Active-rain frames **now demonstrated** (2026-05-18, [[recipes/curtain-call]]): wet sheen + somber cinematic palette works — rain is an asset, not a stop. Wet-reflection *night* rain still unshot (bonus).
 - Does a milder boost (e.g. Color +2 Classic Neg) also rescue gray, or is Velvia-level needed? Untested.
