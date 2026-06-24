@@ -1,0 +1,39 @@
+---
+type: recipe
+created: 2026-05-17
+updated: 2026-05-17
+camera: X100VI
+film_sim: Classic Negative
+author: self
+sources: []
+dynamic_range: DR200
+grain: off
+color_chrome: Weak
+color_chrome_fx_blue: off
+white_balance: "Auto"
+wb_shift: "R-1 B+0"
+highlight: -2
+shadow: -1
+color: +3
+sharpness: +1
+clarity: +2
+noise_reduction: -4
+iso: "Auto"            # not shown in source; set per scene
+exposure_comp: "0"     # not specified; push/pull 0 EV
+best_for: [soft-light, street, everyday]
+tags: [recipe, classic-neg]
+---
+
+A soft, muted-pastel take on [[entities/classic-negative]]. Highlight −2 keeps the brightest tones gentle and slightly faded; Shadow −1 and Weak Color Chrome hold contrast and saturation back, while Color +3 keeps it from going drab and Clarity +2 adds light midtone structure. The WB shift R−1 cools the rendering a touch, away from Classic Neg's warmer default — the pastel character. Reach for it in soft daylight, overcast, and street/everyday color where you want Classic Neg's character without its punch. Caveats: Adobe RGB color space (export sRGB for web), Smooth Skin off, JPEG; DR200 needs ISO ≥ ~320.
+
+> Self note 2026-05-17 (shot, [[synthesis/debriefs]]): does a good job in **softer light** and reads well **when the scene has enough structure** (directional/point light, texture). In genuinely flat, featureless light it over-softens toward mush — needs something to hold onto. `best_for` retuned: dropped `overcast`/`daylight`, it is *not* the flat-light pick (use [[recipes/soft-color-universe]] there).
+
+> Self note 2026-05-17 (preference): the photographer is **not a fan of the pastel aesthetic** and will limit use of this recipe. It is competent, not disliked for performance — deprioritized by taste, not quality.
+
+> A/B 2026-05-17: shot the *same campus scene* as [[recipes/soft-color-universe]]'s blue-hour frame. Classic Neg + Color Chrome Weak + WB R−1 rendered a **more muted, cooler, flatter** image — subdued sky vs. Astia's rich cobalt. Confirms the sibling distinction: SCU = warm/punchy, Pastel Vibes = cool/restrained.
+
+Sibling to [[recipes/soft-color-universe]] — same family of soft, low-contrast, Color +3 looks; this is the cooler, more muted Classic Neg version vs. the warmer, more saturated Astia one.
+
+> Self note 2026-05-17 (roster — **retired from camera**): removed from the camera in the committed roster reconciliation; CUSTOM 2 is now [[recipes/people]]. Reason: taste-rejected (pastel) + redundant with the [[recipes/soft-color-universe]] soft Color +3 family. Page kept for history (wiki keeps history); **not deleted** — re-trial only if a debrief shows a real gap it uniquely fills. See [[synthesis/recipe-roster-review]].
+
+Provenance: self-authored — devised by the photographer (AI-assisted, then hand-tweaked to their own style), originally filed from camera slot CUSTOM 2 (since retired). Not a published recipe. `author: self` (confirmed 2026-05-17).
