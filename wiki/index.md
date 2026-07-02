@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-04-18
+updated: 2026-07-02
 ---
 
 # Index
@@ -21,4 +21,4 @@ _No concept pages yet._
 
 ## Synthesis
 
-_No synthesis pages yet._
+- [[synthesis/x100vi-oklahoma-recipes]] — consensus 7 best Fujifilm X100VI recipes for Oklahoma nature, flower, and architecture photography (15-agent expert/critic panel, web-sourced)
