@@ -1,12 +1,14 @@
 ---
 type: synthesis
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-03
 sources: []
 tags: [photography, fujifilm, x100vi, film-simulation-recipes, oklahoma, nature, flowers, architecture]
 ---
 
 # Fujifilm X100VI — The 7 Best Recipes for Oklahoma (Nature, Flowers, Architecture)
+
+> **Superseded (2026-07-03):** this kit was built to a "clear/crisp/vivid" brief that predates Brian's preference documents. A reconvened panel re-judged it against [[sources/brian-photographic-preferences]] and [[sources/brian-style-statement]] — see [[synthesis/x100vi-recipes-reconvened]] for the disposition of each recipe (1 keep, 3 revise, 3 retire) and the revised kit. Field data: only Prairie Ace (the sole Auto White Priority recipe) survived artificial light without a yellow cast.
 
 Consensus result of a 15-agent panel run on 2026-07-02: 4 web scouts (Fuji X Weekly, community recipes, architecture recipes, Oklahoma light research) gathered 25 candidates; 5 discipline experts (Oklahoma landscape photographer, Fuji color scientist, botanical-macro photographer, architect, image-quality engineer) nominated and authored customs, growing the slate to 35; 5 adversarial critics (nature, flowers, architecture, Fuji-technical, Oklahoma) scored every entry; a neutral chair selected the final 7 with all critic fixes baked in.
 
